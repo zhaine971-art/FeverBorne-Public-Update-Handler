@@ -1,10 +1,43 @@
 ﻿{
     "Items":  [
-                  {
-                      "Title":  "FeverBorne v0.1.6.3",
-                      "Date":  "2026-04-03",
-                      "Body":  "Initial release.",
-                      "Tag":  "patch"
-                  }
-              ]
+        {
+            "Title": "Core 01 to Now: Major Stability and Gameplay Recap",
+            "Date": "2026-04-03",
+            "Channel": "both",
+            "Body": "This recap covers the biggest player-facing improvements since Core 01: stronger multiplayer stability, smoother UI and audio flow, better progression reliability, launcher/update improvements, and a large wave of bug fixes and polish across combat, exploration, and quality-of-life systems.",
+            "Tag": "Update Recap",
+            "Details": "Since Core 01, FeverBorne has received a full pass on stability, progression, multiplayer behavior, launcher flow, and moment-to-moment quality of life. This post summarizes the major player-facing changes in one place.\n\nGameplay and Progression:\n- Character progression and stat handling were rebalanced and hardened for consistency.\n- Stat point budgeting and save behavior were improved to prevent desync and incorrect totals.\n- Level progression behavior was cleaned up for more reliable results after updates and reconnects.\n- Potion, alchemy, and combat stat interactions were tuned and corrected in multiple edge cases.\n\nCombat and Build Systems:\n- Combat calculations were refined for more consistent solo and party outcomes.\n- Skill behavior tied to equipment was improved so combat loadouts feel more predictable and readable.\n- Combat UI readability and feedback were improved through better logs and clearer status presentation.\n- Multiple combat bugs affecting turn flow, spawned enemies, and post-combat state were fixed.\n\nMultiplayer and World Sync:\n- Zone/player synchronization was improved so other players appear and move more reliably.\n- Out-of-order network events are handled more safely to reduce missing or incorrect remote positions.\n- Party and social-state consistency has been improved in common reconnect and transition scenarios.\n- Additional safeguards were added to reduce stale-state overwrite issues.\n\nUI, Audio, and Exploration Flow:\n- World explore quick-access controls were adjusted to prevent clipping and layout cutoffs.\n- Ambient and zone music transitions were improved so opening in-game panels does not unnecessarily restart tracks.\n- Audio logging noise that leaked into player-facing logs was removed.\n- General panel transitions and in-game flow now feel smoother and less disruptive.\n\nLauncher and Patch Experience:\n- Live/Dev channel behavior was improved in launcher and update delivery workflows.\n- News/update targeting now supports channel-specific visibility where needed.\n- Patch and promotion reliability was improved to reduce failed update runs and branch/worktree conflicts.\n- Update publishing flow was hardened with better fallback behavior and safer checks.\n\nGeneral Bug Fixes and Polish:\n- A broad set of fixes landed across UI, stats, syncing, save integrity, and update flow.\n- Existing systems were cleaned up and stabilized under the hood to reduce recurring edge-case issues.\n- Ongoing engine upgrades and infrastructure improvements improved consistency without changing core game identity.\n\nThank you for testing and reporting issues. Your feedback directly shaped many of these fixes."
+        },
+        {
+            "Title": "Live/Dev Server Split, Server Wipe, Rarity Visuals, Bug Fixes",
+            "Date": "2026-03-20",
+            "Channel": "both",
+            "Body": "Major improvements to servers, item visuals, tooltips, and bug fixes. Server was wiped to implement the new Live/Dev split.",
+            "Tag": "Patch 0.1.3",
+            "Details": "Live/Dev Server Split:\n- The game now supports both a Live and a Dev server environment. Each environment has fully isolated save data and settings.\n- The launcher also lets you choose which server to connect to before starting the game.\n\nRarity System & Visuals:\n- Items now have a data-driven rarity system with five tiers (Common, Uncommon, Rare, Epic, Legendary).\n- Equipment and inventory items display their rarity with improved color highlights and clearer visuals.\n- Rarity colors are now consistent and easier to read.\n\nEquipment Tooltips:\n- Hovering over equipped items now shows detailed tooltips, including all granted skills and effects.\n\nBug Fixes & Improvements:\n- Fixed a bug that prevented players from leaving the Social UI under certain conditions.\n- Fixed a bug where the ALQ stat (Alchemy) would not save correctly after logging out.\n- General polish and color improvements for item rarity and tooltips.\n\nAs always, please report any issues or feedback!"
+        },
+        {
+            
+            "Title": "Major Overhaul: UI, Combat, Merchants, Stats & More",
+            "Date": "2026-03-19",
+            "Channel": "live",
+            "Body": "This update delivers a sweeping overhaul across the UI, combat, stat system, merchant experience, and more. It includes a full server reset, new stat allocation and badge features, major combat and skill system changes, improved equipment tooltips, bug fixes, herb respawn timers, merchant tab organization, and deep technical improvements.",
+            "Tag": "Patch",
+            "Details": "Server Reset & Stat Overhaul:\n\nAll player data has been reset due to deep changes in the stat system. Accounts registered before this patch must be re-created.\nStat allocation system reworked: left panel now scrolls, +/− buttons always visible, and allocation section is never pushed off-screen.\nStat points badge: a gold badge appears on the 📋 C character button when you have unspent stat points, updating after every step and level-up.\nStarterPointsGranted migration flag added; existing saves get 10 starter points on first load.\n\nCombat & Skills:\n\nRemoved the hardcoded 'Power Strike' fallback skill. All skills now come exclusively from equipped gear. Skill button is disabled if no equipment grants skills.\nCombat skills are now granted by equipped items (weapon, armor, accessory); your skill book rebuilds at the start of each combat encounter.\nNew skill types: Passive, Shield, LifeSteal, and more. Skills now have expanded properties for deeper customization.\nCombat log improvements: reduced height, newest entries at the top, colored progress bars for HP, Stamina, XP, and enemy HP.\nDamage formula: replaced linear subtraction with multiplicative scaling (damage = base * (1 + STR * 8%)), defense is now percentage-based, and damage range is now 0-to-maxHit (RuneScape-style).\nFull solo/party combat consistency: server and client use the same STR%-based scaling and defense formulas.\n\nEquipment Tooltips:\n\nHovering over equipment in the inventory now shows a ── Skills ── section listing each granted skill, including name, action type, damage type, power, stamina cost, cooldown, status effects, drain, heal, shield, and life steal.\n\nBug Fixes & Quality of Life:\n\nEnemy spawn fix: enemy count no longer multiplies after combat; enemy tiles are now cleared before spawning a fresh batch.\nHerb Respawn Timers: herbs can now regrow after a set number of seconds, and respawn is checked on every player movement step.\nMerchant Tabs: shop inventory is now organized into four tabs—Equipment, General Goods, Herbs, and Materials—for easier browsing.\nCrash Logging: app now catches all major unhandled exceptions and writes detailed crash logs to crash_log.txt.\n\nAlchemy & Potions:\n\nNew Alchemy stat: each point gives 5% increased potion effectiveness.\nPotion potency is now applied everywhere, both in and out of combat."
+        },
+        {
+            "Title": "Game Crashes",
+            "Date": "2026-03-19",
+            "Channel": "both",
+            "Tag": "Important Announcement",
+            "Body": "If the game crashes during combat, please go into the game's installation folder and look for a file named crash_log.txt. This file contains detailed information about the crash and can help me identify and fix the issue."
+        },
+        {
+            "Title": "Audio Update",
+            "Date": "2026-03-23",
+            "Channel": "dev",
+            "Tag": "Background audio added to Outskirts",
+            "Body": "Testing background audio in the Outskirts zone. Please report any issues with music playback or performance."
+        }
+    ]
 }
