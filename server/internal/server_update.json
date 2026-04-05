@@ -1,7 +1,7 @@
 ﻿{
     "Version":  "0.1.6.1",
     "Environment":  "Internal",
-    "Timestamp":  "2026-04-04T23:55:33.6781334-05:00",
+    "Timestamp":  "2026-04-05T00:05:43.7808530-05:00",
     "FileCount":  353,
     "Files":  [
                   {
@@ -56,7 +56,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "8B0FA504EC48F08885B868A7816EDA4AB5BA35D404BF49B1B056F9BAAC2EA8F3",
+                      "Hash":  "54D0EE97B456480663015A2356A6687EEC050A67D404ED53F67E9E03D728AE9B",
                       "Size":  55296
                   },
                   {
@@ -71,12 +71,12 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "42A4C0ACD2C629E4DD375120F42744982ABAEA4B765F5237AF8091B833C4CBC1",
+                      "Hash":  "F5AC6DEF9B1CFEFC6ADC32942E078CD59ABA3064EC719DC1C7E18323B8AC19AF",
                       "Size":  380416
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "C091C7858B4F26967269E8F2213DC9C91A23E86CA1818D9C3759002DB61A34DE",
+                      "Hash":  "314128EFE95BE5B2F8318699FF23FC4E72FB98D444F4136128E96A6BFB0D3A94",
                       "Size":  158720
                   },
                   {
@@ -91,7 +91,7 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "BFD2D85847B94CA3C846DA3A158E9870008E174AF6EB70EF4F237FEA16513DF0",
+                      "Hash":  "0C47016BD58C97E8C7ABB05D5C085526F527E6B1B5AD5293A2D639E7059DA48A",
                       "Size":  60416
                   },
                   {
