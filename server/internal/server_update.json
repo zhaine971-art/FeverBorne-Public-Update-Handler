@@ -1,7 +1,7 @@
 ﻿{
     "Version":  "0.1.6.1",
     "Environment":  "Internal",
-    "Timestamp":  "2026-04-06T14:33:49.0787777-05:00",
+    "Timestamp":  "2026-04-06T14:54:35.2432676-05:00",
     "FileCount":  353,
     "Files":  [
                   {
@@ -56,7 +56,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "75459C551ABE95C5BFB19BF90B343D553F69F4EF6261E27C0BF56964411787DA",
+                      "Hash":  "F712CB9E7C4CF93E9EA89AFB32CBBC9B6285ED4443E2D1CC533366469023AA91",
                       "Size":  55296
                   },
                   {
@@ -71,18 +71,18 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "CC4F575E9AABFA83B814792324DD4FB554EDB70D5540BA9D39FEB98CD308893B",
+                      "Hash":  "4753074B4C7E947C490778D6AB2E349A993526BE46E4F8828B611BED61746D39",
                       "Size":  380928
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "B9AF83A9A7D9D8F67635A6861556198272AB94DB2D266EF9F7DC490312011FFF",
+                      "Hash":  "6967533E9EABD8EDC5D10CF30FFC1FB9735CF3BC3176F26F4909B7BAB5968BAA",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneServer.pdb",
-                      "Hash":  "22F6A49CA82DF3625A6C0E3398869B56CE9EDBE714D664AEFA7A9F46866F78EB",
-                      "Size":  118476
+                      "Hash":  "274FD74E6D42E107BF337CFE498479197E96DA8F74DD9DC1F747261A1999B8E2",
+                      "Size":  118504
                   },
                   {
                       "Path":  "FeverBorneServer.runtimeconfig.json",
@@ -91,7 +91,7 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "048B4ABAD5D5C1BA3B56C2317EF6791292A7A1A21EB598D8F1E5E62525C41D4B",
+                      "Hash":  "7EFC5B140CCEC5051B87845316DEA4E5F670F4BF6EC573D3243CA724A395F1A2",
                       "Size":  60416
                   },
                   {
