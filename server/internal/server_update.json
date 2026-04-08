@@ -1,8 +1,10 @@
 ﻿{
     "Version":  "0.1.6.1",
     "Environment":  "Internal",
-    "Timestamp":  "2026-04-07T20:06:36.2471552-05:00",
+    "Timestamp":  "2026-04-07T20:15:32.3694422-05:00",
     "FileCount":  353,
+    "PackageHashSha256":  "F4962E1EF09198B4A839EC0DA7CBE1ADF2083D8E02CA338A4D29A126C8F20F7A",
+    "PackageSizeBytes":  46556386,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -56,7 +58,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "B7F2FE94BD06494928CA3D1C797A0F74420330035522CBCA4524E38661ABE7DE",
+                      "Hash":  "CF40190CE9DE5DFFAE1C8EA1ACE7738746FA886EBEBE9B16A78F986D171BCC4D",
                       "Size":  55296
                   },
                   {
@@ -71,12 +73,12 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "70035736D677178ABFD1013509256D9854440D1DB24BBC2D5E8D214BD011E585",
+                      "Hash":  "8A1A00619774D806803C2586015C0D3B3CB579C3769C3B3890676DDE2A9B734A",
                       "Size":  380928
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "FCE9549EC010A45FFF67767A01C220C7C8559DD0D19C54B058ED0B43D9583A9C",
+                      "Hash":  "C007C8501CF5D0F10E77D644CD481BDFE4AFC9C607873A6C3359428DF93B5AE3",
                       "Size":  158720
                   },
                   {
@@ -91,7 +93,7 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "B961D7B5CD5AA36E153B58E431AFC2837EB381703ECC151E0529671BE0FD84F9",
+                      "Hash":  "E34D07132EA3B03E56F8F04768C54641F3A844CCEA11C2005AEA1162E3EDC44F",
                       "Size":  60416
                   },
                   {
@@ -1700,72 +1702,72 @@
                       "Size":  16648
                   },
                   {
-                      "Path":  "Data/feverborne-log.db",
+                      "Path":  "Data\\feverborne-log.db",
                       "Hash":  "E38CD1423540A0401BA46EA8915770FC8C01FF7759F0ADEE1824490FC8737803",
                       "Size":  32768
                   },
                   {
-                      "Path":  "Data/feverborne.db",
+                      "Path":  "Data\\feverborne.db",
                       "Hash":  "E21841A4A703B741BF3A9C2BC93D421D29F8A3AD8EA16CA92036424C9337FD47",
                       "Size":  8192
                   },
                   {
-                      "Path":  "Data/protocol_feature_flags.json",
+                      "Path":  "Data\\protocol_feature_flags.json",
                       "Hash":  "6CB037703B062C71D9FA7D6C0624C05BE0A3417A87860071933E74CB9DF601F6",
                       "Size":  536
                   },
                   {
-                      "Path":  "Data/Dungeons/dungeon_ashen_barrow.json",
+                      "Path":  "Data\\Dungeons\\dungeon_ashen_barrow.json",
                       "Hash":  "B69ACBB968072B2BB5BA97A42767405A3DC5BEAFABABD661FA5133FA69884A29",
                       "Size":  2440
                   },
                   {
-                      "Path":  "Data/Dungeons/dungeon_drowned_vault.json",
+                      "Path":  "Data\\Dungeons\\dungeon_drowned_vault.json",
                       "Hash":  "6496B09D3FAFBAE1F363A3884A50553E21AAAECC4E01E73EAF49C057BA3E8C4C",
                       "Size":  2444
                   },
                   {
-                      "Path":  "Data/Dungeons/dungeon_fever_sanctum.json",
+                      "Path":  "Data\\Dungeons\\dungeon_fever_sanctum.json",
                       "Hash":  "2E3FB7F281810E7439D0A3FF43A67F72871F2306BE755B07F92D521C490A6A48",
                       "Size":  2801
                   },
                   {
-                      "Path":  "schemas/dungeon.schema.json",
+                      "Path":  "schemas\\dungeon.schema.json",
                       "Hash":  "AEFADB527F023B9D0B2F9B01DE973794C4BEDA822A539535C790DE07B2A1D168",
                       "Size":  4262
                   },
                   {
-                      "Path":  "schemas/item.schema.json",
+                      "Path":  "schemas\\item.schema.json",
                       "Hash":  "B93E388672AF5C2D20026715925DDACA43C3910581CE60089FFD071FB16778FC",
                       "Size":  3237
                   },
                   {
-                      "Path":  "schemas/npc.schema.json",
+                      "Path":  "schemas\\npc.schema.json",
                       "Hash":  "6A1FB8ED25FEA5BEC822FBFF7A6E394F12D6FCD25CA0124BDC37E8C5289238E3",
                       "Size":  677
                   },
                   {
-                      "Path":  "schemas/profession.schema.json",
+                      "Path":  "schemas\\profession.schema.json",
                       "Hash":  "7BE9AAA0A2DD95CBB251ECB7632A524DAB5AA7F7FFE7B38C43A0B691022FF6ED",
                       "Size":  1798
                   },
                   {
-                      "Path":  "schemas/quest.schema.json",
+                      "Path":  "schemas\\quest.schema.json",
                       "Hash":  "0548D62BFC2BA00E94921E435A20295D6EEF582BB91E2EBF8B6D4BB09313782E",
                       "Size":  910
                   },
                   {
-                      "Path":  "schemas/shared.definitions.json",
+                      "Path":  "schemas\\shared.definitions.json",
                       "Hash":  "5392139B5D090444A6CD773CE64124CFD9C6CF85318459D20CE68CB03DABD221",
                       "Size":  1253
                   },
                   {
-                      "Path":  "schemas/skill.schema.json",
+                      "Path":  "schemas\\skill.schema.json",
                       "Hash":  "C2FB22D71A1756A020E7F815F943BCD6849C8C9851747C3B7E79D388FE32AA93",
                       "Size":  2219
                   },
                   {
-                      "Path":  "schemas/tilemap.schema.json",
+                      "Path":  "schemas\\tilemap.schema.json",
                       "Hash":  "4A1048A5900794001CEE63544F706893B54FEAB910415ABE5B9ECCB35FCF98B0",
                       "Size":  2804
                   }
