@@ -1,0 +1,1776 @@
+﻿{
+    "Version":  "0.2",
+    "Environment":  "Live",
+    "Timestamp":  "2026-04-10T17:52:54.7037259-05:00",
+    "FileCount":  353,
+    "PackageHashSha256":  "73F119F9C8CF8641623E955642BCA5C46EF22662185363BCE7C68D697411391F",
+    "PackageSizeBytes":  46563617,
+    "Files":  [
+                  {
+                      "Path":  "appsettings.Dev.json",
+                      "Hash":  "84429CF44FC5976A906417B262D9F81A5691B51D7CF19AB9D2CE51A6E205A538",
+                      "Size":  154
+                  },
+                  {
+                      "Path":  "appsettings.Internal.json",
+                      "Hash":  "B446D344374EAB92522263CEC683B84B225FF38E71BF2E68BCDDF9F29CF83069",
+                      "Size":  169
+                  },
+                  {
+                      "Path":  "appsettings.Live.json",
+                      "Hash":  "429B507A9B4AFABBD46ED787294C8BA9349473A8702D501FBCC2AA7537237935",
+                      "Size":  157
+                  },
+                  {
+                      "Path":  "aspnetcorev2_inprocess.dll",
+                      "Hash":  "CB75C89393A265D5AE34F9ED0CFB4C020D034630F57A22CDE1A483DB6F1C2B54",
+                      "Size":  383520
+                  },
+                  {
+                      "Path":  "BCrypt.Net-Next.dll",
+                      "Hash":  "F3E8DB47292A0EC8E6D1CCC5DABDD47DDBE980C3E49251270C919BBD9DBDFE30",
+                      "Size":  23040
+                  },
+                  {
+                      "Path":  "clretwrc.dll",
+                      "Hash":  "847D61BE7C0092CA6C3285B13AD3FA9302910A56524B9B2C9CBCFE21B61F733E",
+                      "Size":  311056
+                  },
+                  {
+                      "Path":  "clrgc.dll",
+                      "Hash":  "7C97DF587DF02DBC362FEE764575D1D10B964C987442813825FAC4F52972CD94",
+                      "Size":  668432
+                  },
+                  {
+                      "Path":  "clrjit.dll",
+                      "Hash":  "FEC1DA303A5905090E00D15F3C30C1A6950048073415BA34B9F6659E9F3C57BC",
+                      "Size":  1778480
+                  },
+                  {
+                      "Path":  "coreclr.dll",
+                      "Hash":  "CDC9CAD0B6683B4409332604FF557797B851722D027C09D3AB0EAC2F37AA1BBF",
+                      "Size":  4995376
+                  },
+                  {
+                      "Path":  "createdump.exe",
+                      "Hash":  "01F35405EFBBFC510B76AB1893C9045A97BD60C19EFD0B315747B02819457C56",
+                      "Size":  71992
+                  },
+                  {
+                      "Path":  "FeverBorne.Validation.dll",
+                      "Hash":  "75A6DD156A9AC6FBDC61373A36F3056E18FFC26918CE65802508CE24763A7963",
+                      "Size":  55296
+                  },
+                  {
+                      "Path":  "FeverBorne.Validation.pdb",
+                      "Hash":  "0042C745D42FB22B4FC1723B9F6A83150B1C309B1A6B73329DF82CC2BCF19191",
+                      "Size":  29192
+                  },
+                  {
+                      "Path":  "FeverBorneServer.deps.json",
+                      "Hash":  "43C8E33F9504B7E48BD87E2E859D0CAD95FA213A70A6FF41D88A450CD8956AA9",
+                      "Size":  52834
+                  },
+                  {
+                      "Path":  "FeverBorneServer.dll",
+                      "Hash":  "9F82B93FA7D64F0C13FD4998F8EE3869550FE1D410A8C63F1EE869B69D2C118A",
+                      "Size":  392192
+                  },
+                  {
+                      "Path":  "FeverBorneServer.exe",
+                      "Hash":  "6B8C558F9A2986DCE39F38DABAC95A87CB711A4AFF69BF301447FCD360BA64A0",
+                      "Size":  158720
+                  },
+                  {
+                      "Path":  "FeverBorneServer.pdb",
+                      "Hash":  "385FCC8DAC3448DCA6421770734BC3E4897858382D646AADB77C3A8BF4AF0B6A",
+                      "Size":  122192
+                  },
+                  {
+                      "Path":  "FeverBorneServer.runtimeconfig.json",
+                      "Hash":  "71BCD3DA951C58A787C80158ACAA0E75495DF303D4141B24DB6CBCEB86F08141",
+                      "Size":  426
+                  },
+                  {
+                      "Path":  "FeverBorneShared.dll",
+                      "Hash":  "E5F4F22A5ADF82215F1090668C211C20AB91E0FD3B02F50486BEC11BB513176F",
+                      "Size":  64000
+                  },
+                  {
+                      "Path":  "FeverBorneShared.pdb",
+                      "Hash":  "C820E99368E11F5BE93E1745DF799A4F3E4636BE5367C47F0E6B43466CA429B1",
+                      "Size":  32168
+                  },
+                  {
+                      "Path":  "hostfxr.dll",
+                      "Hash":  "B4BAE1174EF93AC8EE233BF4FB3CAABC4A8BC66EECACD748DD76A745E1F08B24",
+                      "Size":  366896
+                  },
+                  {
+                      "Path":  "hostpolicy.dll",
+                      "Hash":  "6313BF15C8465EBB62EB87A071C6778D86C2022855022227DC5C62D51FB8BE81",
+                      "Size":  407304
+                  },
+                  {
+                      "Path":  "LiteDB.dll",
+                      "Hash":  "AE31AC6A93549217B9E8B81497D1EE831658ADE6DF9E1EE20F2838F22DE5E218",
+                      "Size":  510464
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Antiforgery.dll",
+                      "Hash":  "DC84AF5ADDAB552990AFADF28F9C393EAF413DC629BCA53A26968EBBD8E6C327",
+                      "Size":  121144
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Authentication.Abstractions.dll",
+                      "Hash":  "C6C75A1E58C7A07EEC891B7FBDCDFAC55B0B193F96E49F42BC0613F1261FB8B0",
+                      "Size":  67888
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Authentication.BearerToken.dll",
+                      "Hash":  "8527E4D390E930B00CF5B72F323FD320980EC6E52BD5A68F0F2739F45D9F3CD4",
+                      "Size":  71992
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Authentication.Cookies.dll",
+                      "Hash":  "CAEFCAA889D2E7D04C2494A49385DDD936A06FB446D107E58F6F3C72264C91B8",
+                      "Size":  112952
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Authentication.Core.dll",
+                      "Hash":  "D55F4C0B57AFBB911E9F74075C0A165A0E56A88A8B360B2587429A983BFDED16",
+                      "Size":  92432
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Authentication.dll",
+                      "Hash":  "D681805F1A71E899B7265730BAF14F9EA5C826B92B2B0E1113AF820545626FAA",
+                      "Size":  157960
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Authentication.OAuth.dll",
+                      "Hash":  "1D37C7EF9E78D19611815CB1B782E8BC85AA950FC1EABCB5D76B3733BA8AB229",
+                      "Size":  100616
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Authorization.dll",
+                      "Hash":  "7875C43F857BD88101DEE5E996E4CA38F6AC13302D37283B8D73723E3D5DCAD9",
+                      "Size":  108856
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Authorization.Policy.dll",
+                      "Hash":  "B524D42E7E0E4D9A47097167EC9588D53FC8731449E141A5A63344EC1CD12043",
+                      "Size":  80176
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Components.Authorization.dll",
+                      "Hash":  "C6B3AD8260810C13DBBCCF58164C43ECD53B10A9D51C47E31607AAF4BD1A4AEB",
+                      "Size":  55608
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Components.dll",
+                      "Hash":  "C4D71806ED6E65417984E3E247EDD62F650F6373A09CDB24EFC8AC9A20C5CB92",
+                      "Size":  825656
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Components.Endpoints.dll",
+                      "Hash":  "505CE271CBFF58BB78EA773D92B95C186932E72C41D23D468E6ED7E316445DCC",
+                      "Size":  723256
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Components.Forms.dll",
+                      "Hash":  "46FBA5588185BDE6DA008E0211DD6B37A6ACA01AE807B993419C96B96893CF71",
+                      "Size":  96560
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Components.Server.dll",
+                      "Hash":  "73B8D5AC54B899B8D093B38710E93CFB3245FB822AD6D769F48B7CF620556F4F",
+                      "Size":  866576
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Components.Web.dll",
+                      "Hash":  "0BFDE207AD6A8ED8CDD819C83BAC096D36CE3C172273224753C5FE27860442E8",
+                      "Size":  391480
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Connections.Abstractions.dll",
+                      "Hash":  "EDDE7CEB6BFA56F0873BC1F43EFD19B8BAA89E8EBB432E701C9FC33D2CC4773C",
+                      "Size":  67848
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.CookiePolicy.dll",
+                      "Hash":  "4DA7795BEF5EA5039EDDEE819BA22D5F86825291247309BA975DF8D4631C294A",
+                      "Size":  55568
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Cors.dll",
+                      "Hash":  "9FC6A56CD123F0103CB94D39EAFE52CFC30EFD4CCB2BA3F119DB754B2DCC436D",
+                      "Size":  92424
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Cryptography.Internal.dll",
+                      "Hash":  "A835B5052F330CE1C477FA77B248B69FEA5C7B1728C945B86A07CB2AFA049E8D",
+                      "Size":  108816
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+                      "Hash":  "C27E0672D04C9F44EE2524F416517B40C0E9300AC70FC7B32DC4FDC85663A0D8",
+                      "Size":  47376
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.DataProtection.Abstractions.dll",
+                      "Hash":  "BEB9625387DF8009D51C4D042D6654B523A4DF605FE586AC0D6A1CEF097495E4",
+                      "Size":  51512
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.DataProtection.dll",
+                      "Hash":  "1F8D9BB77B7D759960064827B1C64BF2F4464DE6AA835D218D059DEDFB1ECD4F",
+                      "Size":  432400
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.DataProtection.Extensions.dll",
+                      "Hash":  "4F3A276637755FF70D46B9CEDE4E874175DF6B41D7D51FCDFB4F89C75653E53A",
+                      "Size":  47376
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Diagnostics.Abstractions.dll",
+                      "Hash":  "C69A096FAF4C769335E92B6B9BF2F34B02C711088A7237BE8C099712D89357AF",
+                      "Size":  35088
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Diagnostics.dll",
+                      "Hash":  "E6A75085C6756970A6F2BE6D2AD031842A6D47C6CBAF1D73EB487206A7986160",
+                      "Size":  452872
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Diagnostics.HealthChecks.dll",
+                      "Hash":  "365FAC995AFA3AD06C35E4782EC055814646FF8350C62C11A7D84376B433D9E0",
+                      "Size":  51512
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.dll",
+                      "Hash":  "6105783328C9E19CE81C7F54C5C88A87F729ABB49F4694453C4A331333AB048D",
+                      "Size":  112912
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.HostFiltering.dll",
+                      "Hash":  "862CD0CD91E3BFEFA5395851720AFE75D55237A2AA2A79C89BA43902DE7E4C57",
+                      "Size":  47416
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Hosting.Abstractions.dll",
+                      "Hash":  "DD8B3FB2849C6172F37CB586C57A06E39732E1566A93750CD4C95DA31BFC748A",
+                      "Size":  43280
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Hosting.dll",
+                      "Hash":  "2694A3D55ECFA542EC88EF965DA511D95E8A0B9AC62CB2C019243F948C09C464",
+                      "Size":  461112
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+                      "Hash":  "DCDA46411FB3FA04BA34C3AD0F3A7F86173E84188B49C8BD7BA22013FCD74651",
+                      "Size":  30992
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Html.Abstractions.dll",
+                      "Hash":  "B3FCD3C21ADA4827D8F321050037AD34FE8C22C648B9B09501D2AEC2222EC047",
+                      "Size":  43320
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Http.Abstractions.dll",
+                      "Hash":  "09F1ED67A48F62408D36B3C6A000DACD108932EC1D158D0DBDDD2FDA138A1DA6",
+                      "Size":  321808
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Http.Connections.Common.dll",
+                      "Hash":  "3AA6741E5130F38682F7B53134EBE43A63C6EEBB117A3060E3A2794A3C4BA3E7",
+                      "Size":  55608
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Http.Connections.dll",
+                      "Hash":  "342D657C3313FB4C18B5E5A842337B0AD3A5E59BF213E0D6C326C0CBBA963AEC",
+                      "Size":  325904
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Http.dll",
+                      "Hash":  "298F9E5C975AFD7AFED28BEC27A3CAF12CC45EB3A28812ACFB91CC53968D7E5F",
+                      "Size":  301368
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Http.Extensions.dll",
+                      "Hash":  "AEABCCD6DF25333FB8711D0ABE8E703D256629A0B2D2B0906F652BFED2A9450F",
+                      "Size":  698640
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Http.Features.dll",
+                      "Hash":  "0685677986A5D5D00B2CF203DEEA8EA764A84C3C6B692F74A2A65574CB48CDE8",
+                      "Size":  71952
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Http.Results.dll",
+                      "Hash":  "4A8017226421453C86E5632DBD67E4E8493D452DFA03EAC03E033A584F24F7F5",
+                      "Size":  248080
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.HttpLogging.dll",
+                      "Hash":  "62014A5735AFE2724F0412A116C0CF64A5B20E9C3F26DAF62EC264AEF547132C",
+                      "Size":  198928
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.HttpOverrides.dll",
+                      "Hash":  "52353BFC0926446026A3054EACC3549462BC2DB87D06C579989955AE7F93B508",
+                      "Size":  80144
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.HttpsPolicy.dll",
+                      "Hash":  "7355854DDD9B6AED43AE8FF487CEE6E00C8AF12CAFDBC22922CEA5707BEC2EE4",
+                      "Size":  51472
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Identity.dll",
+                      "Hash":  "CB0C5D1D94AA38AC5B2CB724A1C62FC4510CC5353DFF07C2E658D95F814D26D3",
+                      "Size":  547088
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Localization.dll",
+                      "Hash":  "407D39900DD05E4889482254AF0B75BE216210DCE1362ED9D8202152D57E8F74",
+                      "Size":  67896
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Localization.Routing.dll",
+                      "Hash":  "C6C7DF56C3AF6BCB729B2E5F084C5A22D5AFFAE4FBED5216F60D3D76B21CF2CF",
+                      "Size":  30984
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Metadata.dll",
+                      "Hash":  "8642254B686918A4B4DD6B446518BFA8425DCC0E26FA13610C8E51D401D62E94",
+                      "Size":  31032
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.Abstractions.dll",
+                      "Hash":  "4F5C0CA72EA1024301E9F0260695B17249423968265F10DC8027B63CBEAC48B9",
+                      "Size":  264496
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.ApiExplorer.dll",
+                      "Hash":  "BE3990A20FDFC3429C73B5B4A2FE3B366E3DCE4642BC895A8F42699189D1FC6A",
+                      "Size":  133392
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.Core.dll",
+                      "Hash":  "903C3DCCA552786777E5B99B35115A3A47FB70BFCFEF3DB914902397D40665EB",
+                      "Size":  1960208
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.Cors.dll",
+                      "Hash":  "983BBEDD805D587DE6652981045798FD9291A7FDDAF929D5D6FF96035939DD32",
+                      "Size":  51472
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.DataAnnotations.dll",
+                      "Hash":  "A95B5231203A13CF66F2650F97FBB016CF9D8C0E9DAAC30C04ACCF6EFBAA5257",
+                      "Size":  104760
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.dll",
+                      "Hash":  "C63A4D776FB5DA4787EBDE918B6432BC15A040F5073FB16C913C3285C81783D6",
+                      "Size":  43280
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.Formatters.Json.dll",
+                      "Hash":  "0DE1A6DA8F9CB470282A85F67F2FBFDA5EE3E401FBFFA9B8326F358C3EA9FE8D",
+                      "Size":  30992
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.Formatters.Xml.dll",
+                      "Hash":  "01A5C5BC622C35DDED145045736504E7D33616B7AABC2A0D0046BF1DBBDD0A41",
+                      "Size":  121096
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.Localization.dll",
+                      "Hash":  "7B1EB205A1D016F8FC45797A7A622B99A4BEA0CFB6F9AD9F92A6B402E3380B8F",
+                      "Size":  51472
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.Razor.dll",
+                      "Hash":  "70066CDAB9235D843172498E7679C958BB919449006ABB966302C6F8D33E6D14",
+                      "Size":  243984
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.RazorPages.dll",
+                      "Hash":  "405304A6E04921E690DEB1DB271489E625747D342FC13E902528BBA563E27A93",
+                      "Size":  452920
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.TagHelpers.dll",
+                      "Hash":  "099CFA9A2DA64F73ABFBCC0EC99A3C4703C25D94E24FB661C6DC27FB1152CEBF",
+                      "Size":  280848
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Mvc.ViewFeatures.dll",
+                      "Hash":  "E1E992D5D52FFE20FE4ACF31BADD65E7AF3C875BEE1D2A5A990633F6B4DCFD61",
+                      "Size":  723216
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.OutputCaching.dll",
+                      "Hash":  "C2B51FECE4B8E8F3F63305631ECF32E3EBCC1332DE7D7EC58A3F75A2ADE645FC",
+                      "Size":  260400
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.RateLimiting.dll",
+                      "Hash":  "1E05AADFA700CF077389B3DF474D45EA12BD28F11AC9D510481EEFDFBC852708",
+                      "Size":  96528
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Razor.dll",
+                      "Hash":  "64803002F390C32D91BF108B7D841FAFECC8A6BF7FBE0CA6940044D7F279C599",
+                      "Size":  67856
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Razor.Runtime.dll",
+                      "Hash":  "958E9E039D355D3AD773319BA79334478AEC2E11F1453A65DA4536E335D583A3",
+                      "Size":  71952
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.RequestDecompression.dll",
+                      "Hash":  "2B3AC2DCF2CF31E3177F0D20C23D1A41198382D1ED1E25AAC7F166D6A60575DC",
+                      "Size":  51512
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.ResponseCaching.Abstractions.dll",
+                      "Hash":  "7F066E3CF3FF4E1372493A0DA7CCADE4E91D240535CB4CF3D0D47C5D84031F04",
+                      "Size":  30992
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.ResponseCaching.dll",
+                      "Hash":  "7E8464137F5665BE3753ABB19B4069C514CC92169DD7E990F39EDE4FB4BCA611",
+                      "Size":  149776
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.ResponseCompression.dll",
+                      "Hash":  "A1DB0B04872931880625D6A1F8E1311B42BF3A225B96E8A11568C6A04F34AB78",
+                      "Size":  84272
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Rewrite.dll",
+                      "Hash":  "54FF7295CB4FFA3C4670DC73123D972957E1133FEC901E0F21E2BDA54FDEE1ED",
+                      "Size":  219408
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Routing.Abstractions.dll",
+                      "Hash":  "9855349F448DB34B21D72CE684217239DC9C59527097E32D6339882E5B6B2CB9",
+                      "Size":  59664
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Routing.dll",
+                      "Hash":  "0E8ADF4B786D4F9E0B8C4AF8EA915831440EBFC1674A7EDB01DE9C9ECAB3EA46",
+                      "Size":  825656
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Server.HttpSys.dll",
+                      "Hash":  "D4B1CAC4F2383404BB4B8DB7CC55B706F43431976F6BC086E802F17EFDB56936",
+                      "Size":  641296
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Server.IIS.dll",
+                      "Hash":  "F34EFBAE2F904F13BC09D0145DD94EA9E18A7445D23B0F6D907D183C0AB1DC58",
+                      "Size":  678152
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Server.IISIntegration.dll",
+                      "Hash":  "DB468DF789577C86035F5C8C8A7A1899066D32C511886C908232A2570A9DA709",
+                      "Size":  51504
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Server.Kestrel.Core.dll",
+                      "Hash":  "8AEE20325509559CB0D173E802FAC08A0D4F3C655999AB3E0965F025FFCA6730",
+                      "Size":  2312464
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Server.Kestrel.dll",
+                      "Hash":  "3E29E5D0168A01EB2C2744A15E305B5CF29C1926C9FE23618EEAE7FDFC4BD356",
+                      "Size":  35088
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll",
+                      "Hash":  "C819F5A0BA6E682FE51F59A3F2DEDC616F5ADE74C30FD76898B20084C118A4FC",
+                      "Size":  141584
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll",
+                      "Hash":  "729C5912AB5F3AC080F1FF14C959754BC76EB5191602AA02F1B935DFABF0355F",
+                      "Size":  239888
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll",
+                      "Hash":  "53D5FDD773E8D58DD60C88A630D1F9B919368B7F2FBB3FB43156937E17A17185",
+                      "Size":  166160
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.Session.dll",
+                      "Hash":  "CF14BFE751F0B3CAA68458653FECD12F73AD268E508C03C2AFDEC4017D95276F",
+                      "Size":  92472
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.SignalR.Common.dll",
+                      "Hash":  "A48F4A8C206ADC6629DAEBAF793298283ADC7C5377AB6C1A2663898B1EF79E65",
+                      "Size":  88328
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.SignalR.Core.dll",
+                      "Hash":  "21C1D97BB03B87E139C49297CFF243CCF22AED2BDD3D0EFF367C0B9233DD7E37",
+                      "Size":  506160
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.SignalR.dll",
+                      "Hash":  "3E5E42EAF46D33C70DB75006C4517BCD3F1D49CA98A7F57ADFA25B1D54657779",
+                      "Size":  39216
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+                      "Hash":  "63395FD9789A318BF12AF62FCB8E0B634611D41E84AE6B05F52017389089FE76",
+                      "Size":  84240
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.StaticFiles.dll",
+                      "Hash":  "8AAE3EB5CB06DD513814B94602B9C750B489ACFD424898856AB985D7239DBDC7",
+                      "Size":  166200
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.WebSockets.dll",
+                      "Hash":  "61590EEC219EE75911E310C16CEEFE6B79FAB37F8A65AD3F853A70B70B5217CB",
+                      "Size":  76080
+                  },
+                  {
+                      "Path":  "Microsoft.AspNetCore.WebUtilities.dll",
+                      "Hash":  "908E991EBA47D182498FD941A539BF16490C79800A40B3B202133D6E0D773FD5",
+                      "Size":  256272
+                  },
+                  {
+                      "Path":  "Microsoft.CSharp.dll",
+                      "Hash":  "C97A326DE2A3D63B3484DE2A6B9B0C5DDC8CF246389D651DEA3D27BEEE69E051",
+                      "Size":  1005880
+                  },
+                  {
+                      "Path":  "Microsoft.DiaSymReader.Native.amd64.dll",
+                      "Hash":  "315A61C47C41B8D4C815F4274BB6584C1D24B4640C7EEDC354ED5B03A9A1361E",
+                      "Size":  2195504
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Caching.Abstractions.dll",
+                      "Hash":  "27D25551544B9B05585F1BDCFDBD658FDE1E9056CB8002B39C11ED18FDE7B342",
+                      "Size":  59656
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Caching.Memory.dll",
+                      "Hash":  "8DD286E4CA05A504FDA39E22D5CA8BB8766A5770EC42371A42F0FC40987B74FF",
+                      "Size":  96528
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.Abstractions.dll",
+                      "Hash":  "F7D09AB4A74B17AE5F98451F7868B6A8F3F01C70D708B87CE61D0B2A9BB06415",
+                      "Size":  47376
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.Binder.dll",
+                      "Hash":  "14A3AEA188DA008709F369768956877E8114244EFE2F641B620D9A73079CED21",
+                      "Size":  88328
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.CommandLine.dll",
+                      "Hash":  "5A51DD392EF218FB8B6BAC3084520FB2A4B2C43D1D7D7DEEA85DA8759F7946AA",
+                      "Size":  47368
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.dll",
+                      "Hash":  "CA96B33F56A60B13D5325CC19FA9D352950E38D62613B88BA75353FF5EE105AC",
+                      "Size":  92432
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+                      "Hash":  "2A22BC9D6B00580C7B1FCB835CD0A7571B5865A79FA7993F0FFFB1E29697E12C",
+                      "Size":  39184
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.FileExtensions.dll",
+                      "Hash":  "E88008F3BBE156898349A3CC05E2B49075A7503E7D497189E03EFFC4C5B0C1E5",
+                      "Size":  51504
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.Ini.dll",
+                      "Hash":  "4D0A9B023F3EFE7CD7F7375322136D7BCB615970CEB2F473E4FA681D33763032",
+                      "Size":  47368
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.Json.dll",
+                      "Hash":  "0A216F3DF94C0ABF33F112037C424BEF09C193963BC843EA22B15E7502F48223",
+                      "Size":  51504
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.KeyPerFile.dll",
+                      "Hash":  "2140FB265F269FFB8DCF1EEE34AC2B95724ED6ACC0008BEA1AF843C7DC72AA50",
+                      "Size":  43312
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.UserSecrets.dll",
+                      "Hash":  "74AD30AE9DA074FF6C98E18283B82ACD5DAEDB6F66286E76CF199E5A4B6549BC",
+                      "Size":  47416
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Configuration.Xml.dll",
+                      "Hash":  "6062FEAD4076485E96CF8353241F0F8D2928A00CD1F2ABDFBDE471DD336ECAD8",
+                      "Size":  63760
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+                      "Hash":  "298E2B7D4B3DC3D604123DFF195F30B4D620D141AF80036B97C49DD05B07D4A0",
+                      "Size":  141584
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.DependencyInjection.dll",
+                      "Hash":  "44A6425ABFE29D5BAE603BBF1EE0B89EC3B8AFED5EF43EB77589851E1C49600D",
+                      "Size":  219448
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Diagnostics.Abstractions.dll",
+                      "Hash":  "79FF5049E8C7F05012CD83CBD203DE1C8AE5ADEFBFA3D51613E5ACD45511D2BE",
+                      "Size":  47376
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Diagnostics.dll",
+                      "Hash":  "9DDA25CC053ED750E6F52A23F94525C1DA462FAA037BBF62234E173F21E8D954",
+                      "Size":  71944
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll",
+                      "Hash":  "03905C6C90F6C94A34F0B5FB21D70836680FE896BAB0B0542A0D8D47FB63FC37",
+                      "Size":  43280
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Diagnostics.HealthChecks.dll",
+                      "Hash":  "0478BFB93AF9CC21332F62DCF896D699885C7AAE15ECAE45273F01081890B7BF",
+                      "Size":  112944
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Features.dll",
+                      "Hash":  "5830D14CD0E072E45060E9253F731EAD1CD4835E898BF9B20E21941EB505809F",
+                      "Size":  47376
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.FileProviders.Abstractions.dll",
+                      "Hash":  "E78356C43FEE011F75458FC4012CD68BCDFF28C3E09E8BA641CDF126FE47476E",
+                      "Size":  39184
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.FileProviders.Composite.dll",
+                      "Hash":  "63BA3D0F6EF53EC81560B22B1D5938C2D2C222AB4F57BA5F1AD5074E744FC00B",
+                      "Size":  35080
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.FileProviders.Embedded.dll",
+                      "Hash":  "603D67176E7FA4C40168F7FEEA8B0A44B5F5E098481C785FAE775CBDB4F8E31E",
+                      "Size":  76048
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.FileProviders.Physical.dll",
+                      "Hash":  "120426E70140CE18F9F31B5011CB79D601D1A4AF93F8BC811AAE723190552A3D",
+                      "Size":  92424
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.FileSystemGlobbing.dll",
+                      "Hash":  "5E99F4941B1FE3B7B8FEAA6EE7F1625C8FF0DE3E3DB200DE36F348E1E3216CEA",
+                      "Size":  100624
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Hosting.Abstractions.dll",
+                      "Hash":  "C17DA7EBF3F7728B440C88BA6AF5D0D189C8B42797FDC7972B0681FE6EB86A80",
+                      "Size":  80144
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Hosting.dll",
+                      "Hash":  "B6AD3579BA7638C5C90D7783764142038286ACA0065E3FDFDB656BD11007A4E2",
+                      "Size":  153872
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Http.dll",
+                      "Hash":  "E6C85090D1E7C24DBC576AC1164093A86D8B3D4E7BDBAE26D26878AE81057DAD",
+                      "Size":  190776
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Identity.Core.dll",
+                      "Hash":  "0330BE8FBB3EC1898AC39227D601EBDFCA3927F9E787F7C2C50AC9F7064B0A24",
+                      "Size":  448824
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Identity.Stores.dll",
+                      "Hash":  "D25649B9F1BD4F80B55B113F2C7AD1E55A64CCE56C8E10308348CB6E486BC0A9",
+                      "Size":  88368
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Localization.Abstractions.dll",
+                      "Hash":  "A9F92ED0EA3165BA8C7EF6DAC0A5932A1714029071AD385727F49756F5840918",
+                      "Size":  35120
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Localization.dll",
+                      "Hash":  "6327AA734FF74CD51E86B26335E7CECCF85C857B022DEFE4CC1624FC30C869DB",
+                      "Size":  59664
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Logging.Abstractions.dll",
+                      "Hash":  "8CE9070EF20DA70EFE8DE77468C15D9C1F8F42F570D0D972CC9BDCCD42FE6B46",
+                      "Size":  149776
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Logging.Configuration.dll",
+                      "Hash":  "0E5B47FCB7697436904F36365BA97C6A29CE9B8B8131A95EE1A9BCB451F0143F",
+                      "Size":  47416
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Logging.Console.dll",
+                      "Hash":  "F3A6012F42EB769E6D7D5540B6AB4FB94702A1B27185368404B6BD4EEC0E8DAF",
+                      "Size":  158000
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Logging.Debug.dll",
+                      "Hash":  "57C6FC87909573AF33AE4CC37226015407988850B7C5BE1E517611B1C19B2003",
+                      "Size":  35088
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Logging.dll",
+                      "Hash":  "F82C3170FDDA7DA3F55E68CB944B81C45EE9CAB00896637BD7D89CF6660D89C5",
+                      "Size":  100616
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Logging.EventLog.dll",
+                      "Hash":  "AAF93B70A8333EE540BBC7BBCE40362097D9388862F1743418FB002686343532",
+                      "Size":  47376
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Logging.EventSource.dll",
+                      "Hash":  "2D79D334E961A351F055DED34643DDB0C46246270D29FACF075DA901D9402C6A",
+                      "Size":  63760
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Logging.TraceSource.dll",
+                      "Hash":  "58CD9E56E532ACA8F0E8BBF1250C73CCF53778F1F255279E93FF1D7A1A02181A",
+                      "Size":  39224
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.ObjectPool.dll",
+                      "Hash":  "4943D233983038CB28BFB8086B9355A8A1DECD5406773607A7AF5D47652261E7",
+                      "Size":  43280
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+                      "Hash":  "A5FD1E6D821B12D6D544D87BE3AA9FDE2F3C3A1006B886D8993398EE70ED4DEB",
+                      "Size":  39176
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Options.DataAnnotations.dll",
+                      "Hash":  "98969F0E7E053E9B9C067303AD13044E3F7F3BC4844E70C5E04A86CE2B522B8F",
+                      "Size":  39184
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Options.dll",
+                      "Hash":  "6E06013DF6E257D284D4FEF1E5ABE1EDD3FD8316F0584D777B1A5ED16FC2996E",
+                      "Size":  141584
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.Primitives.dll",
+                      "Hash":  "8859A0A3E36282AA38E177ECADCA72238B404B3742019327E796158EAE68753C",
+                      "Size":  84240
+                  },
+                  {
+                      "Path":  "Microsoft.Extensions.WebEncoders.dll",
+                      "Hash":  "2AF9DA1CD24908D6D2EA672A573148AAA2C68C00FD6B597F983F0D1487064086",
+                      "Size":  39184
+                  },
+                  {
+                      "Path":  "Microsoft.JSInterop.dll",
+                      "Hash":  "B843989DD00803D49E8DBF787A9EFEE96217DFFDA1627D40C300218631570ECA",
+                      "Size":  145672
+                  },
+                  {
+                      "Path":  "Microsoft.Net.Http.Headers.dll",
+                      "Hash":  "EDE376D41DE0DC42E93D199FF937CD90E1D3D04C6655E3299A34BDC66F43D54B",
+                      "Size":  223544
+                  },
+                  {
+                      "Path":  "Microsoft.VisualBasic.Core.dll",
+                      "Hash":  "1CBC7758A9F2B64C90FEFB86CDA450F8CB70871CBF84ED8BA20309945415F17A",
+                      "Size":  1247544
+                  },
+                  {
+                      "Path":  "Microsoft.VisualBasic.dll",
+                      "Hash":  "DC43EA7DD321120756C436D891B3D9E984F2C6633FF62B1EE2B4DE0560101C72",
+                      "Size":  17680
+                  },
+                  {
+                      "Path":  "Microsoft.Win32.Primitives.dll",
+                      "Hash":  "82E7EE3DCC764689ECEDA4E311E22A699F377583A13358B74F64B763E1790B50",
+                      "Size":  15632
+                  },
+                  {
+                      "Path":  "Microsoft.Win32.Registry.dll",
+                      "Hash":  "D6B21BD0E94C36894C70AF48D7897B321F80104CB2DE4BFE34D321E8EC2AF1B4",
+                      "Size":  121096
+                  },
+                  {
+                      "Path":  "mscordaccore.dll",
+                      "Hash":  "CD5F5475AC8AD9AB009C525A67B2364A930F97A6AB049B64E57B8D2987275259",
+                      "Size":  1346440
+                  },
+                  {
+                      "Path":  "mscordaccore_amd64_amd64_8.0.2526.11203.dll",
+                      "Hash":  "CD5F5475AC8AD9AB009C525A67B2364A930F97A6AB049B64E57B8D2987275259",
+                      "Size":  1346440
+                  },
+                  {
+                      "Path":  "mscordbi.dll",
+                      "Hash":  "0B1824E3858F97C7779815431DEC4A07B4500974F2A5A9F23BA047689E3E26FF",
+                      "Size":  1234304
+                  },
+                  {
+                      "Path":  "mscorlib.dll",
+                      "Hash":  "38C99B8207582ADEA463A2957C895AA8DC3293527B7D41AB41A1E5936294A436",
+                      "Size":  59664
+                  },
+                  {
+                      "Path":  "mscorrc.dll",
+                      "Hash":  "EF87C7555887EBDEC3F8942C9586B23D450D3169F1531C49A230E69988DDE621",
+                      "Size":  136968
+                  },
+                  {
+                      "Path":  "msquic.dll",
+                      "Hash":  "6246F5FE726FBF612CA621961FD90A440425D64E9F4E51B7BB7ADB80651032FA",
+                      "Size":  524320
+                  },
+                  {
+                      "Path":  "netstandard.dll",
+                      "Hash":  "7B4566D5F4B45364C2484DCF2D8D5DE0B8EEFA73931F84553AB555F03E0EC6AE",
+                      "Size":  101176
+                  },
+                  {
+                      "Path":  "SixLabors.ImageSharp.dll",
+                      "Hash":  "609A57965D0A7B5CCFB79D919EA7384E7EC86C03266B0390A19BD5F2104BC353",
+                      "Size":  2100736
+                  },
+                  {
+                      "Path":  "System.AppContext.dll",
+                      "Hash":  "4D190E8FDECD0D67C4594BC223094514AE792F5F796CF8626FF613FF2D88D0C7",
+                      "Size":  15672
+                  },
+                  {
+                      "Path":  "System.Buffers.dll",
+                      "Hash":  "1F04EBCF57DB26A716A045E75F0F21A04ADF4A8009AADBE70E154E3C8529B6F2",
+                      "Size":  15624
+                  },
+                  {
+                      "Path":  "System.Collections.Concurrent.dll",
+                      "Hash":  "3AA510788BCFAA67548886168024F7CA181CBC88A8C4FC61FB1FDA76EE837EEA",
+                      "Size":  276752
+                  },
+                  {
+                      "Path":  "System.Collections.dll",
+                      "Hash":  "B299A07C12FFE54B8C2CC2051992F41D8212DEEF92DA9F84A092E494ED5A8F13",
+                      "Size":  260400
+                  },
+                  {
+                      "Path":  "System.Collections.Immutable.dll",
+                      "Hash":  "E169E9C873260C620F10E7A5BEB2B798272F4C91482DA44ACF37D266145E25EC",
+                      "Size":  837904
+                  },
+                  {
+                      "Path":  "System.Collections.NonGeneric.dll",
+                      "Hash":  "0FE493B6E10DE30926F7C8C9C5F84CF4849542DAC53B6699ABF5A483B8930F64",
+                      "Size":  104752
+                  },
+                  {
+                      "Path":  "System.Collections.Specialized.dll",
+                      "Hash":  "961C58A2537F51B5D67A12D057B2D7B6C96116F6753D6C88530882061F1B78D3",
+                      "Size":  104760
+                  },
+                  {
+                      "Path":  "System.ComponentModel.Annotations.dll",
+                      "Hash":  "70A49CE7FBE39C89D88AA0517A4E9FFD85E23CC2332257125E975B80886F5B1D",
+                      "Size":  203016
+                  },
+                  {
+                      "Path":  "System.ComponentModel.DataAnnotations.dll",
+                      "Hash":  "CD053FDE8BD70E7CB7291B71613E692F2D792C2CFF72BA26307B41400D7B8E81",
+                      "Size":  17200
+                  },
+                  {
+                      "Path":  "System.ComponentModel.dll",
+                      "Hash":  "A089B02FB2C3DC60ECECF1C2B398272C8E1D06EC6576B6767F269C06539DC784",
+                      "Size":  30984
+                  },
+                  {
+                      "Path":  "System.ComponentModel.EventBasedAsync.dll",
+                      "Hash":  "717D4B578E0202E182A2153F58E10CBBE6956322C79BE419F3763C9BF29973EF",
+                      "Size":  47368
+                  },
+                  {
+                      "Path":  "System.ComponentModel.Primitives.dll",
+                      "Hash":  "D270CDA927ED66ABBC4B8A4CF701B9188706B71288C9F029F10CF8A146D86D53",
+                      "Size":  80176
+                  },
+                  {
+                      "Path":  "System.ComponentModel.TypeConverter.dll",
+                      "Hash":  "320C39DBA33E22935DA45027431F44661D80E2E926102183DDBEBF5B0E148EE5",
+                      "Size":  747792
+                  },
+                  {
+                      "Path":  "System.Configuration.dll",
+                      "Hash":  "65D22E034B246378924418BB7A97E8F0924D8F4710B489E4ECC34AE2FD896031",
+                      "Size":  19728
+                  },
+                  {
+                      "Path":  "System.Console.dll",
+                      "Hash":  "CE67FEB0F61826C0DD0E3DA59CBECEDC9F4A81B913968E3EC3C6195E669CE69F",
+                      "Size":  174392
+                  },
+                  {
+                      "Path":  "System.Core.dll",
+                      "Hash":  "90D946BEF11836836B749C70F3A5935249D2EA93D581508A85E73B81B476094F",
+                      "Size":  23824
+                  },
+                  {
+                      "Path":  "System.Data.Common.dll",
+                      "Hash":  "02B440383C14463327EF8209928E8C424F07F0524CDC7DC781EB6C0B9A56CC81",
+                      "Size":  2861320
+                  },
+                  {
+                      "Path":  "System.Data.DataSetExtensions.dll",
+                      "Hash":  "410B1CA1A355A23D05A906973BDD51B4CF313DDAE6438C54343F498D29DAB5D1",
+                      "Size":  16176
+                  },
+                  {
+                      "Path":  "System.Data.dll",
+                      "Hash":  "A5AA251B26DCA35AD26EBEEB219BD4DD57F8D075928A08922590D97EC75618D6",
+                      "Size":  25352
+                  },
+                  {
+                      "Path":  "System.Diagnostics.Contracts.dll",
+                      "Hash":  "29728A01468D46BF8ADF1F78A6DFDE74D0D862560BDDB78AE7C22C761D77B560",
+                      "Size":  16656
+                  },
+                  {
+                      "Path":  "System.Diagnostics.Debug.dll",
+                      "Hash":  "AE7BDAE59C485D7922A4FE8F1B58B7E8F6E9178F504E5B1B190942BB4B8CB345",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Diagnostics.DiagnosticSource.dll",
+                      "Hash":  "FF1B5E09F62F1F4B676D93EE2F88461C67BB82A73D05325345C739186FAC2F8B",
+                      "Size":  416016
+                  },
+                  {
+                      "Path":  "System.Diagnostics.EventLog.dll",
+                      "Hash":  "AF8003DEC9856E0E531E954B4DDCBC1894A0821A8DB70958680248635E925254",
+                      "Size":  387336
+                  },
+                  {
+                      "Path":  "System.Diagnostics.EventLog.Messages.dll",
+                      "Hash":  "7D1E5236AD2EFDE2FE078BA0D13BA06E36D74A7371CBA9ED8A3DA1ECDC9C1485",
+                      "Size":  813320
+                  },
+                  {
+                      "Path":  "System.Diagnostics.FileVersionInfo.dll",
+                      "Hash":  "E281B57EB84A51FA324C95A1A37295E92D163EF4F820525C0FB54C41E72CEE0E",
+                      "Size":  47376
+                  },
+                  {
+                      "Path":  "System.Diagnostics.Process.dll",
+                      "Hash":  "E0FF0CDC6C1173A61D05848D44EDECB125396C580960904E4CEF1374FCDE7499",
+                      "Size":  338184
+                  },
+                  {
+                      "Path":  "System.Diagnostics.StackTrace.dll",
+                      "Hash":  "BBFFE5ED888A873F834C28923DFB17BEA74BE98E8A05E38C20063325E75FD604",
+                      "Size":  47368
+                  },
+                  {
+                      "Path":  "System.Diagnostics.TextWriterTraceListener.dll",
+                      "Hash":  "9E88FA20E912DF9ACFCC4CEE78D6D5B5579A533DE7CED95573B868D6460A211C",
+                      "Size":  67848
+                  },
+                  {
+                      "Path":  "System.Diagnostics.Tools.dll",
+                      "Hash":  "9E949A788554B1661E1C1D45A7AA2DEB0D6F0795FBEF3562B357D1383EB0E487",
+                      "Size":  15632
+                  },
+                  {
+                      "Path":  "System.Diagnostics.TraceSource.dll",
+                      "Hash":  "29E2F184DBA243B7A3FF8D1454BE643AA339013BC937993A5A0DB21FC661C2D6",
+                      "Size":  145672
+                  },
+                  {
+                      "Path":  "System.Diagnostics.Tracing.dll",
+                      "Hash":  "2F0CC08D2D1ABE827803E8EE06B0EAFBA19818050C0E00B341CE4B6B0A70814F",
+                      "Size":  16648
+                  },
+                  {
+                      "Path":  "System.dll",
+                      "Hash":  "DFA20FAC194CE832B0C5C7D3D5D118F8F62671A734DB2C6A2A9892CE61ADEE6A",
+                      "Size":  50448
+                  },
+                  {
+                      "Path":  "System.Drawing.dll",
+                      "Hash":  "784843599A1D59CE56CED6D0828FCA3EF40ABC1D1B03BF35AEF15969EF2A221B",
+                      "Size":  20792
+                  },
+                  {
+                      "Path":  "System.Drawing.Primitives.dll",
+                      "Hash":  "3B4F54E988205353A79B86EF7654EB5593E0CEF00F68907A3801E458B911C736",
+                      "Size":  133384
+                  },
+                  {
+                      "Path":  "System.Dynamic.Runtime.dll",
+                      "Hash":  "EFBB4064297DDF7C07DE5CC0A16F6D3A52904488CB097BE661500CAB42D52889",
+                      "Size":  16696
+                  },
+                  {
+                      "Path":  "System.Formats.Asn1.dll",
+                      "Hash":  "D04812E98FE183635D5B97FC1869C96CD5C29D57D240B50755366BBA09C72F9B",
+                      "Size":  244016
+                  },
+                  {
+                      "Path":  "System.Formats.Tar.dll",
+                      "Hash":  "4A96446432839D315CD0FBB67E224C6CE9FF3E7948F27C8A51712A1D0156B9EB",
+                      "Size":  272648
+                  },
+                  {
+                      "Path":  "System.Globalization.Calendars.dll",
+                      "Hash":  "78030EF4CC7B022563B03D2225E6E94633A4D5C51DA576DD522799088A2D277E",
+                      "Size":  16176
+                  },
+                  {
+                      "Path":  "System.Globalization.dll",
+                      "Hash":  "5E14E808E84F79474C620E88D80089EF2EC246E3C4ADDB7703BB79F43118AD37",
+                      "Size":  16144
+                  },
+                  {
+                      "Path":  "System.Globalization.Extensions.dll",
+                      "Hash":  "3CC2E49FFA0A664BE7D766E243A1F2F6B5DCE2F749021E7BC71BF4F76CBB15E7",
+                      "Size":  15624
+                  },
+                  {
+                      "Path":  "System.IO.Compression.Brotli.dll",
+                      "Hash":  "D4890D3B4AE43EFF44F08E3B7E7326A55AFBD06BF1944537CA4D8DEE046AC300",
+                      "Size":  84232
+                  },
+                  {
+                      "Path":  "System.IO.Compression.dll",
+                      "Hash":  "92AEA0CE12DA1E3FA8B54DC00A05BFEC65CEF16E47A0C8B46145854DC50E5690",
+                      "Size":  264504
+                  },
+                  {
+                      "Path":  "System.IO.Compression.FileSystem.dll",
+                      "Hash":  "42B710BE37028EB825F563E40B1EABC02F76903CFA01EE7571569525CFBD9784",
+                      "Size":  15672
+                  },
+                  {
+                      "Path":  "System.IO.Compression.Native.dll",
+                      "Hash":  "9983E2C6F7C3C6A3A81BEE465CFF1B372CC1A789B5A520A53882A5EE2E4E3AF2",
+                      "Size":  829192
+                  },
+                  {
+                      "Path":  "System.IO.Compression.ZipFile.dll",
+                      "Hash":  "EDC4BF410ACC67C7FAB035CCE2FE5AC0271F669E18AA99D834720F829CA0BE3B",
+                      "Size":  55600
+                  },
+                  {
+                      "Path":  "System.IO.dll",
+                      "Hash":  "D1E71F844D3138EA271383CCA5F33D4B00916058E5B2CC681DCA100D7FD2FDAC",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.IO.FileSystem.AccessControl.dll",
+                      "Hash":  "DB5BBD3F7BAC25DD614ECD8F6F92AF80E41528955A01A220507BB2BEBFDC9B49",
+                      "Size":  104752
+                  },
+                  {
+                      "Path":  "System.IO.FileSystem.dll",
+                      "Hash":  "1C85D2B2ACE8DC8F499A0D3255D6753598EA318E3991CC6B0783467D2B6BBE42",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.IO.FileSystem.DriveInfo.dll",
+                      "Hash":  "868A2BDB940386F187228980F9D94A21319AF6F1A944DC731FD94A1D4A9A08F6",
+                      "Size":  55560
+                  },
+                  {
+                      "Path":  "System.IO.FileSystem.Primitives.dll",
+                      "Hash":  "77ED42E7ABB0E6AB889A2F3047157312F701CD428EEC14EB99A7A1E8A8929124",
+                      "Size":  15672
+                  },
+                  {
+                      "Path":  "System.IO.FileSystem.Watcher.dll",
+                      "Hash":  "8543E4328EDFA465C212AF89322B2093DE2C6C077D4694A92C994D10FF09B9CF",
+                      "Size":  88328
+                  },
+                  {
+                      "Path":  "System.IO.IsolatedStorage.dll",
+                      "Hash":  "B3974CDFB9252B168D0555B2A52545689FC3B272B14DB57E158532F194F3A996",
+                      "Size":  92432
+                  },
+                  {
+                      "Path":  "System.IO.MemoryMappedFiles.dll",
+                      "Hash":  "3CB1853F100149B630B30912440A7CB2B9237F52AA363E9431CAF2537AB19A00",
+                      "Size":  84232
+                  },
+                  {
+                      "Path":  "System.IO.Pipelines.dll",
+                      "Hash":  "8A8AFAA08BC3D41D61C3B061977393BB0FBA051B3F75707B39EF7D90BBEF7835",
+                      "Size":  194832
+                  },
+                  {
+                      "Path":  "System.IO.Pipes.AccessControl.dll",
+                      "Hash":  "3304FA4D71F7C9BAD424F5D6B268FC9080BC931FD8564F85903FAE895A5C1FC3",
+                      "Size":  16648
+                  },
+                  {
+                      "Path":  "System.IO.Pipes.dll",
+                      "Hash":  "50E096E424B10EF49F2CAB5CCF72EAF4EB3A5E98D2A2A237F86B048CC403538F",
+                      "Size":  166160
+                  },
+                  {
+                      "Path":  "System.IO.UnmanagedMemoryStream.dll",
+                      "Hash":  "C38DD4A474854BBF1EB51892A288BE732B16062A5A35B46C675A0B7E50833CF6",
+                      "Size":  15664
+                  },
+                  {
+                      "Path":  "System.Linq.dll",
+                      "Hash":  "D401803DE7E2F0727959E28222AC524ED5E08E2C81DA54B26A4B98EDC53DAF28",
+                      "Size":  543032
+                  },
+                  {
+                      "Path":  "System.Linq.Expressions.dll",
+                      "Hash":  "E59E06C934B6548384765525CFD19BD24AD2483346213993863B75220F442096",
+                      "Size":  3676464
+                  },
+                  {
+                      "Path":  "System.Linq.Parallel.dll",
+                      "Hash":  "2BD41DD15308EFF252DC31281952E0B25988332FB24CCB7D9EDE9AC28FDB030A",
+                      "Size":  805128
+                  },
+                  {
+                      "Path":  "System.Linq.Queryable.dll",
+                      "Hash":  "666B83F1635BA16E67BBCBB7DFC35CB87AEB1DFC1E946BA7A7B9A193D6897576",
+                      "Size":  174344
+                  },
+                  {
+                      "Path":  "System.Memory.dll",
+                      "Hash":  "43B89FBD9FA20B0E875EC92D1D073F826819463F438580D8CB7FA087394F505D",
+                      "Size":  158000
+                  },
+                  {
+                      "Path":  "System.Net.dll",
+                      "Hash":  "669BF780150AD560092C27964BCEA9E754E663E42A806E9265034A3E56924560",
+                      "Size":  17672
+                  },
+                  {
+                      "Path":  "System.Net.Http.dll",
+                      "Hash":  "280C10737134BE59DFDAEC1E196690DC9D214B557D4DDE7EF1A7C91E34A8BC34",
+                      "Size":  1730824
+                  },
+                  {
+                      "Path":  "System.Net.Http.Json.dll",
+                      "Hash":  "740050F7E8569961120321620DCFE94F638245012270FAD82E35923C46A2ABC8",
+                      "Size":  129296
+                  },
+                  {
+                      "Path":  "System.Net.HttpListener.dll",
+                      "Hash":  "D3AB8D48D72778E7981267E7962A5C96F74237676D7BD19F76EC284F76CFB848",
+                      "Size":  551176
+                  },
+                  {
+                      "Path":  "System.Net.Mail.dll",
+                      "Hash":  "BCE7272224C71066345DE73A022019000C6C9E982D03F6468A7516AA38556560",
+                      "Size":  432400
+                  },
+                  {
+                      "Path":  "System.Net.NameResolution.dll",
+                      "Hash":  "771ECEA4C89DE32991EF1A649AFF5553EA6B42842B57A0D9A2349EEC45256FC9",
+                      "Size":  112904
+                  },
+                  {
+                      "Path":  "System.Net.NetworkInformation.dll",
+                      "Hash":  "FA0604FC96A8F164478EA68FC834406FEA41E7CE0D0ED87CA1E2467CEB8DDD04",
+                      "Size":  157968
+                  },
+                  {
+                      "Path":  "System.Net.Ping.dll",
+                      "Hash":  "5EDF5A31AB6F628CEFA54A0C327F0BDD35283D655EC9604A1B19025366736A96",
+                      "Size":  96560
+                  },
+                  {
+                      "Path":  "System.Net.Primitives.dll",
+                      "Hash":  "70DED2971F6C4BF7AE77389D31C360D1C06B253589F4E17B7DE0C9E4569C1546",
+                      "Size":  231696
+                  },
+                  {
+                      "Path":  "System.Net.Quic.dll",
+                      "Hash":  "E96F1C452819DFC9E93C3138A3832A2EFE7AEACCA5DAEE7FA4542EB4552318F5",
+                      "Size":  284936
+                  },
+                  {
+                      "Path":  "System.Net.Requests.dll",
+                      "Hash":  "29D6BFF22EFCD88BFB964A1941F1C968A77053791E6F9F8693724F871F88E6CB",
+                      "Size":  346376
+                  },
+                  {
+                      "Path":  "System.Net.Security.dll",
+                      "Hash":  "C952E32F7FC0DF95F85D770E0CB8852E3B1E041038F0B71F228C6B87C03EB26A",
+                      "Size":  670008
+                  },
+                  {
+                      "Path":  "System.Net.ServicePoint.dll",
+                      "Hash":  "59B0A3DB042F4AE5175B40A36926D03C2CFFCE9ADF2C141773C6AAC4A37E855E",
+                      "Size":  47368
+                  },
+                  {
+                      "Path":  "System.Net.Sockets.dll",
+                      "Hash":  "5A67AA271305AFAD34C1FEE40A22F8C76F0B1B56CB0E58101B787BBDA8482044",
+                      "Size":  547120
+                  },
+                  {
+                      "Path":  "System.Net.WebClient.dll",
+                      "Hash":  "2206D8D967B41188704FC5F3CFA7ABC024B6F7A64D8BD804557E518C62708888",
+                      "Size":  170256
+                  },
+                  {
+                      "Path":  "System.Net.WebHeaderCollection.dll",
+                      "Hash":  "FA67826E478AA23196571830E50F3A680586AE6CA18715241FF34307779482B3",
+                      "Size":  67896
+                  },
+                  {
+                      "Path":  "System.Net.WebProxy.dll",
+                      "Hash":  "CF5728C5ADB280DD94C60CDBA53ACD80B220027DF0503C00CF5FF67386F7E1DE",
+                      "Size":  43280
+                  },
+                  {
+                      "Path":  "System.Net.WebSockets.Client.dll",
+                      "Hash":  "426787C4FA08AEAB70A1B894A4BFF2AC2B1FB6865690A49C5CE5A8CECF1CF6D2",
+                      "Size":  100624
+                  },
+                  {
+                      "Path":  "System.Net.WebSockets.dll",
+                      "Hash":  "A05A0D564DE620711C75FB43757863706B38D15048FD172E892B75AF70180AA3",
+                      "Size":  190728
+                  },
+                  {
+                      "Path":  "System.Numerics.dll",
+                      "Hash":  "00A7E4ADB9071F927B9514044535B5F5E31F56BD0831F5E7FBC5CB612D21F570",
+                      "Size":  15624
+                  },
+                  {
+                      "Path":  "System.Numerics.Vectors.dll",
+                      "Hash":  "64E1B1F75624FE4E32EB121D540F095669FD3F51A4932E6D3052A3B855CFD795",
+                      "Size":  16144
+                  },
+                  {
+                      "Path":  "System.ObjectModel.dll",
+                      "Hash":  "560793E9ED8B3AACD5630BF52AAE6B33240027D8BA4F980E260CB3468ADFE2EB",
+                      "Size":  80144
+                  },
+                  {
+                      "Path":  "System.Private.CoreLib.dll",
+                      "Hash":  "172450B7845657A0763E656E76305F71CF521B416E79B8FEE7765E94212E7BA1",
+                      "Size":  13175088
+                  },
+                  {
+                      "Path":  "System.Private.DataContractSerialization.dll",
+                      "Hash":  "F3A00115F8C6803CF39B9B3B35FCF0ADAD622D323C79E04754FD70B21F6F8D13",
+                      "Size":  2083088
+                  },
+                  {
+                      "Path":  "System.Private.Uri.dll",
+                      "Hash":  "541DDFBF52EAF10EF6700E8A98BA9171AB6AB3AD6AC012818A0D26D94D0E8098",
+                      "Size":  260400
+                  },
+                  {
+                      "Path":  "System.Private.Xml.dll",
+                      "Hash":  "BBD7DA98D7C04D33DF619E66E7F6A79B15806786D003296787B35D4EF03532B7",
+                      "Size":  7997752
+                  },
+                  {
+                      "Path":  "System.Private.Xml.Linq.dll",
+                      "Hash":  "6D00D1B69335C97D74161B3B3A66428F83DACC6811935F0520906E2D5ECAACA7",
+                      "Size":  403728
+                  },
+                  {
+                      "Path":  "System.Reflection.DispatchProxy.dll",
+                      "Hash":  "5A14A48EBD8AA6C25AE56B405BAF94383255AD121D1AB350A5230FDD31840D3A",
+                      "Size":  76048
+                  },
+                  {
+                      "Path":  "System.Reflection.dll",
+                      "Hash":  "3A7B8B6ADA94ECE00441CB79F0A5E2D27234E5A8E56FD87DF0656C92EE204DC6",
+                      "Size":  16696
+                  },
+                  {
+                      "Path":  "System.Reflection.Emit.dll",
+                      "Hash":  "8D93893F6ECBDDF2050D466FD4534C039D799B3BB606EDECDBE9F39300D68386",
+                      "Size":  129296
+                  },
+                  {
+                      "Path":  "System.Reflection.Emit.ILGeneration.dll",
+                      "Hash":  "7E7C5B1346CF062C8FF5524CB9BAD9842E1F318E9DD9C6E1152B9FA940142B0F",
+                      "Size":  16144
+                  },
+                  {
+                      "Path":  "System.Reflection.Emit.Lightweight.dll",
+                      "Hash":  "4BA6BBA057FE4B88C7529F1AE446D03E64EA84152432F710705D94A917A409EF",
+                      "Size":  16144
+                  },
+                  {
+                      "Path":  "System.Reflection.Extensions.dll",
+                      "Hash":  "141EAF916DAEC14D321086874913F3393AE86886963F5492057ED0591DC15E67",
+                      "Size":  15624
+                  },
+                  {
+                      "Path":  "System.Reflection.Metadata.dll",
+                      "Hash":  "62F71C9CCC59010AACF74384F5AFF71D2C264225D83B6F4FB4B075F4AD15E26B",
+                      "Size":  1116424
+                  },
+                  {
+                      "Path":  "System.Reflection.Primitives.dll",
+                      "Hash":  "67B5D7655B20C0FB94581012CED8BD8FD39C56C92E648EEFAD0B173B540EC2D2",
+                      "Size":  16176
+                  },
+                  {
+                      "Path":  "System.Reflection.TypeExtensions.dll",
+                      "Hash":  "02EF3D9A5C1F5FCC4CD922CA0D6F2FCB4434425B4D59CF3255C514D1EC460219",
+                      "Size":  43280
+                  },
+                  {
+                      "Path":  "System.Resources.Reader.dll",
+                      "Hash":  "621FE020D96FC78B5F98CA1B7DE32AA9ACFBA9A12FC64AF7F630C5AFC9289D7B",
+                      "Size":  15624
+                  },
+                  {
+                      "Path":  "System.Resources.ResourceManager.dll",
+                      "Hash":  "B5776F4ACFEA4A7975AE379487D7091AC59A96292574D2AF7EFA05EAE38FDB51",
+                      "Size":  16184
+                  },
+                  {
+                      "Path":  "System.Resources.Writer.dll",
+                      "Hash":  "A91C68C9F0DDA59B308386BF732D5AECBC6C5107A32FE5B8DFB90B86C071DE74",
+                      "Size":  51464
+                  },
+                  {
+                      "Path":  "System.Runtime.CompilerServices.Unsafe.dll",
+                      "Hash":  "6306FE63B2CA86CAA9DD506EA9A8BE085CE17D12FF9279DE2ADE74C7D5E1D523",
+                      "Size":  15632
+                  },
+                  {
+                      "Path":  "System.Runtime.CompilerServices.VisualC.dll",
+                      "Hash":  "8706765EB5FAE26B6FD6583A499B6937AA34D60F0FC21C903C0FCF0307D10552",
+                      "Size":  30984
+                  },
+                  {
+                      "Path":  "System.Runtime.dll",
+                      "Hash":  "65E64E10AF70836E7BD1FFC86535F6B110216615C2446136942641AB6CA7717D",
+                      "Size":  43792
+                  },
+                  {
+                      "Path":  "System.Runtime.Extensions.dll",
+                      "Hash":  "0E1E484F18EA5D438B491E9DD2651ED4717A7421482918FDA05580DE31398822",
+                      "Size":  18192
+                  },
+                  {
+                      "Path":  "System.Runtime.Handles.dll",
+                      "Hash":  "9279274BDFBEF7DC512192F63FD978580D41830E57463BC6EA8519F56B968295",
+                      "Size":  15672
+                  },
+                  {
+                      "Path":  "System.Runtime.InteropServices.dll",
+                      "Hash":  "5324392C7F218574B85A9DCE94032DC62B560FADD31A88A606E2458E5FE3AD47",
+                      "Size":  96560
+                  },
+                  {
+                      "Path":  "System.Runtime.InteropServices.JavaScript.dll",
+                      "Hash":  "B9F3140C3321CFE3DE7506A3A71EA437C1135287D511C543B28C6FAD6BBA52B7",
+                      "Size":  51472
+                  },
+                  {
+                      "Path":  "System.Runtime.InteropServices.RuntimeInformation.dll",
+                      "Hash":  "AF5CF9A4B2D9A5CF8F6A97C6DF54421107F7FE3FA0B19386012DFABDEAB764C7",
+                      "Size":  15624
+                  },
+                  {
+                      "Path":  "System.Runtime.Intrinsics.dll",
+                      "Hash":  "A02B92198516828F85DE72CFE36891EE9C78F709590ADAAD5850711AFCB82D87",
+                      "Size":  17160
+                  },
+                  {
+                      "Path":  "System.Runtime.Loader.dll",
+                      "Hash":  "89EEA4BA787119F3484561BB8938B9CAA4F7F0CDAE238F191E2235A7F15CA1B8",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Runtime.Numerics.dll",
+                      "Hash":  "F3F60F8548198C2657DB40A5181CBBCFC2AD6A484DBB3166063B256B1D3CB875",
+                      "Size":  329992
+                  },
+                  {
+                      "Path":  "System.Runtime.Serialization.dll",
+                      "Hash":  "CC970AF498BEB11A382CAE0D208A1F1C2CF41F583F19416C195720C96F1359C8",
+                      "Size":  17160
+                  },
+                  {
+                      "Path":  "System.Runtime.Serialization.Formatters.dll",
+                      "Hash":  "6671DA5890119066E21692036D8909C8092820B815E95A136DBD92C3EA697450",
+                      "Size":  309560
+                  },
+                  {
+                      "Path":  "System.Runtime.Serialization.Json.dll",
+                      "Hash":  "0D191D0F12FED5AFCE9AB75F0EDEB47916F78AA90612A34C42F34DD90C6C2485",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Runtime.Serialization.Primitives.dll",
+                      "Hash":  "51FCBEB53993601D915B247DB23E47E6418A8D51DAE418BCEDF0A4AEB5695C4B",
+                      "Size":  39176
+                  },
+                  {
+                      "Path":  "System.Runtime.Serialization.Xml.dll",
+                      "Hash":  "574B795E147C8897E4BFB9706473C8DAA67F065DC84CE9DD9285006D4DB8BA19",
+                      "Size":  17160
+                  },
+                  {
+                      "Path":  "System.Security.AccessControl.dll",
+                      "Hash":  "1EC0BF7379171E16B9779CAC9E8C5CB721F0C9F343A5DA2F8A3971396809D4E4",
+                      "Size":  231728
+                  },
+                  {
+                      "Path":  "System.Security.Claims.dll",
+                      "Hash":  "D7CD41B1C259E276FB55329A25DF175EB119D79CBD42A1E37CBBE628621D45AE",
+                      "Size":  100664
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.Algorithms.dll",
+                      "Hash":  "D5D848EA58764A1AD88C2184C8E8A5191553E6EAA25CCF6C1B4ABC4300B6B45D",
+                      "Size":  17720
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.Cng.dll",
+                      "Hash":  "5A5E92C815FA0B0E7E027150DE0A9F8DF71B145A90B80EBA1C9AFB57E1202B5C",
+                      "Size":  16656
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.Csp.dll",
+                      "Hash":  "13CB03D79259323BC44245C23838B028B3E3B770A9F4B845273EBB2C0C5965A3",
+                      "Size":  16176
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.dll",
+                      "Hash":  "581316DA3613407FC3110B91B7B0EDCB618D165640DFA2D1CE53A2695944ADF7",
+                      "Size":  2050320
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.Encoding.dll",
+                      "Hash":  "5E5D1BBE2399AB8592491062E21F91C150AE2FA3E7C7934DAA820D078C4A030B",
+                      "Size":  16144
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.OpenSsl.dll",
+                      "Hash":  "9BE5171244102D55A93AAA88A16CC1B9E876C24E9DC38AE180377297258019B6",
+                      "Size":  15632
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.Pkcs.dll",
+                      "Hash":  "1323475F8F31EB8890B678D94BCBE24F00EAE88ED1F4F351898971CC69FBDAEE",
+                      "Size":  772368
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.Primitives.dll",
+                      "Hash":  "ED144C2454F8AF712712B1A1D963AEDA762D2F1D464F19F82950F1781BDB25B8",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.X509Certificates.dll",
+                      "Hash":  "1662FF23A342E39BF4AA2835BD0B2154B1F0A7D6B5A213B5EDC0FB1137657153",
+                      "Size":  17208
+                  },
+                  {
+                      "Path":  "System.Security.Cryptography.Xml.dll",
+                      "Hash":  "E61FC91D6686CCDC2D7F363933F1A71FA75FC424A6427052D68695AD3A4870B1",
+                      "Size":  456976
+                  },
+                  {
+                      "Path":  "System.Security.dll",
+                      "Hash":  "9D32F222BBBB11215B501E43CD8FCB513FE606D216DE26E69674A5B990F6404E",
+                      "Size":  18736
+                  },
+                  {
+                      "Path":  "System.Security.Principal.dll",
+                      "Hash":  "9AECC248F501F9D363323548D74F3A20ECC6CDE1C9C84F4BB89CF6F9C85E1379",
+                      "Size":  15632
+                  },
+                  {
+                      "Path":  "System.Security.Principal.Windows.dll",
+                      "Hash":  "81B134F699C3F593E67BA4FB8147191714B07A0660F518E1B7C59F56EAF73835",
+                      "Size":  186640
+                  },
+                  {
+                      "Path":  "System.Security.SecureString.dll",
+                      "Hash":  "057B2EB9642D9A7F1AB6F35ECF929B77E25477E0B4BCBDD0FB601931DD16EE82",
+                      "Size":  15632
+                  },
+                  {
+                      "Path":  "System.ServiceModel.Web.dll",
+                      "Hash":  "B5D638499D46D3D28DDC1A25D72DC30469D4005AF171CA62A16DF77C4689BAFB",
+                      "Size":  17160
+                  },
+                  {
+                      "Path":  "System.ServiceProcess.dll",
+                      "Hash":  "64F566CF06E2BE4BA96ACA2B43BF0233FED6C4A6BE0E735DA109F80DD160BD7E",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Text.Encoding.CodePages.dll",
+                      "Hash":  "B2DB5BEC69E3DC9FF4439086C9FD8AAFB1F68C4FE4A5F96F66777C4BBE923B06",
+                      "Size":  862480
+                  },
+                  {
+                      "Path":  "System.Text.Encoding.dll",
+                      "Hash":  "3E14DD228044DFECDFCB4DB2892C44B7A7146006D4D2DA492953C2DAE5E10695",
+                      "Size":  16176
+                  },
+                  {
+                      "Path":  "System.Text.Encoding.Extensions.dll",
+                      "Hash":  "0A848C135A173399E4280958E7E230ED30EE4621D970FCB4AD4AFB89040DF51C",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Text.Encodings.Web.dll",
+                      "Hash":  "985348EAD7016A6801E3D744B8FE2B92F51CF8002842A560AED0641AE0B78D0C",
+                      "Size":  133432
+                  },
+                  {
+                      "Path":  "System.Text.Json.dll",
+                      "Hash":  "99164F0F2524A61896C36920EAF1764FBF640D7C3E5B350322BE5E6EBD7CD561",
+                      "Size":  1501488
+                  },
+                  {
+                      "Path":  "System.Text.RegularExpressions.dll",
+                      "Hash":  "FFB72A6520EC587CFF38277BC37C8E7E82E5316164DF18AC6F9E8B7339523520",
+                      "Size":  1022224
+                  },
+                  {
+                      "Path":  "System.Threading.Channels.dll",
+                      "Hash":  "7C21DD4279F1CE3D93C7A1309192960D0797A93DC8251199C48FC50B6CCC5032",
+                      "Size":  133384
+                  },
+                  {
+                      "Path":  "System.Threading.dll",
+                      "Hash":  "3542F41462C500CA0B0512001A2A1F529F28B4DDBD260706D63ADE42D427220C",
+                      "Size":  84280
+                  },
+                  {
+                      "Path":  "System.Threading.Overlapped.dll",
+                      "Hash":  "DC5E75B650C8F3CCBB9C2A044306057EE915FB4FFC079C66A2E806AD09EC0844",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Threading.RateLimiting.dll",
+                      "Hash":  "048A510D09C91187E65978BDA6AB1546AE71BA9989B5C4F32A6A904D24096E4B",
+                      "Size":  166160
+                  },
+                  {
+                      "Path":  "System.Threading.Tasks.Dataflow.dll",
+                      "Hash":  "063FCBFCAD0CF970B84230B79FE4ECA1687F9F7CA4E78AB6A72C37FA58C5F420",
+                      "Size":  489744
+                  },
+                  {
+                      "Path":  "System.Threading.Tasks.dll",
+                      "Hash":  "15662FEC2F2974F0AA1CF42D582856871C832F4336934ECC9D54EF5B243196DF",
+                      "Size":  17160
+                  },
+                  {
+                      "Path":  "System.Threading.Tasks.Extensions.dll",
+                      "Hash":  "B2DDA3E435A25B9404368EB55DFEDA469B03165D10DBED5E14070188F3BC3A67",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Threading.Tasks.Parallel.dll",
+                      "Hash":  "164779DDD40F0DA382DAC018BB6452FEF903DE8E7EED3FDAD45F869B02A98F73",
+                      "Size":  133384
+                  },
+                  {
+                      "Path":  "System.Threading.Thread.dll",
+                      "Hash":  "B3D98CAB6D45EC45F7B189C50B617DD6D0D2D8FADFFF733A9003B2D0F9CF7B9B",
+                      "Size":  16144
+                  },
+                  {
+                      "Path":  "System.Threading.ThreadPool.dll",
+                      "Hash":  "1722EC7EB89AE19E3AA865D34921F47C1230782595AF7FC6E9B3CB576EED1E1B",
+                      "Size":  16184
+                  },
+                  {
+                      "Path":  "System.Threading.Timer.dll",
+                      "Hash":  "BB16098DC64284AB171D11F1637469323BA22DDAC2973C31AEF28C2328CA4E20",
+                      "Size":  15632
+                  },
+                  {
+                      "Path":  "System.Transactions.dll",
+                      "Hash":  "C625E3B9F358178DD93D04E3B0E0FCABD7EECF7C1856AFF4722B3C40F4FD1069",
+                      "Size":  16656
+                  },
+                  {
+                      "Path":  "System.Transactions.Local.dll",
+                      "Hash":  "36B8FBCB655B9BF336661AFC8148BA77F0EEC0E33B7792EA41522290603325AC",
+                      "Size":  661776
+                  },
+                  {
+                      "Path":  "System.ValueTuple.dll",
+                      "Hash":  "51A9E1F6A08D3F9708B466CADAED37BFC145F33F8D2DD5FEDBFF7DBA8FC998EC",
+                      "Size":  15624
+                  },
+                  {
+                      "Path":  "System.Web.dll",
+                      "Hash":  "1A62CD6A6EC6AEB6221A55AE76A12316FB744BB82D324940CFDC5ED905C72F15",
+                      "Size":  15664
+                  },
+                  {
+                      "Path":  "System.Web.HttpUtility.dll",
+                      "Hash":  "05F036DEBDB6D5E4127DC241D346412C5D235E0934370E2F6316328EB8244415",
+                      "Size":  59664
+                  },
+                  {
+                      "Path":  "System.Windows.dll",
+                      "Hash":  "E29F59056D26E7AB4577C9E3B7ECB9FBB360ACF245828B63B4D7B0A954A5A0C2",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Xml.dll",
+                      "Hash":  "29125F7DC7AC554E9CA3EC33D4DF9C44EC2324E0532C0D057682061054DEDE7A",
+                      "Size":  23824
+                  },
+                  {
+                      "Path":  "System.Xml.Linq.dll",
+                      "Hash":  "896E54EF993DA4A2EDE5BDB29A4FEB5FE41389746E35E5B247157A11E75CD519",
+                      "Size":  16184
+                  },
+                  {
+                      "Path":  "System.Xml.ReaderWriter.dll",
+                      "Hash":  "EF4D3155F6FF849606B9CBF3842520A76B5B6E2AD07303E08356ABF0C1253E1C",
+                      "Size":  22328
+                  },
+                  {
+                      "Path":  "System.Xml.Serialization.dll",
+                      "Hash":  "30E768F70F4A00634DE7A3DB8251269D09D6B761D31D0B2CE3C41F2597FBC8EB",
+                      "Size":  16688
+                  },
+                  {
+                      "Path":  "System.Xml.XDocument.dll",
+                      "Hash":  "85727EE90D90538ED43E1D25AA6D08F239D264AC9F65E3D7601E63B283EBFF64",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Xml.XmlDocument.dll",
+                      "Hash":  "A68FB5CBBC0AB660DD74C73B12DE036B5C5A107BAE544486CFA7AAA456370BFD",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Xml.XmlSerializer.dll",
+                      "Hash":  "56E521FE486C6AAA6C2BFB558B31EEF8D837327FB9EC835D0E140F5F858722DA",
+                      "Size":  18224
+                  },
+                  {
+                      "Path":  "System.Xml.XPath.dll",
+                      "Hash":  "086388354921D648ABC7E3DD998D9281D3892C05E3310A5B794BD160DA846B95",
+                      "Size":  16136
+                  },
+                  {
+                      "Path":  "System.Xml.XPath.XDocument.dll",
+                      "Hash":  "EBCF8CDC991C6CBED29EF99886DE68949CB50C3CB59B6E28C5263603C2D81A82",
+                      "Size":  30992
+                  },
+                  {
+                      "Path":  "web.config",
+                      "Hash":  "CF25326591DA85FB4D0882CD653FC3616AFFC0727FC1AE38E8E69BF8377D212C",
+                      "Size":  541
+                  },
+                  {
+                      "Path":  "WindowsBase.dll",
+                      "Hash":  "109B4B3F1C79C9469C7DFE386CA3A1731E9674B363D8033F645D68794C1989E6",
+                      "Size":  16648
+                  },
+                  {
+                      "Path":  "Data\\feverborne-log.db",
+                      "Hash":  "E38CD1423540A0401BA46EA8915770FC8C01FF7759F0ADEE1824490FC8737803",
+                      "Size":  32768
+                  },
+                  {
+                      "Path":  "Data\\feverborne.db",
+                      "Hash":  "E21841A4A703B741BF3A9C2BC93D421D29F8A3AD8EA16CA92036424C9337FD47",
+                      "Size":  8192
+                  },
+                  {
+                      "Path":  "Data\\protocol_feature_flags.json",
+                      "Hash":  "6CB037703B062C71D9FA7D6C0624C05BE0A3417A87860071933E74CB9DF601F6",
+                      "Size":  536
+                  },
+                  {
+                      "Path":  "Data\\Dungeons\\dungeon_ashen_barrow.json",
+                      "Hash":  "B69ACBB968072B2BB5BA97A42767405A3DC5BEAFABABD661FA5133FA69884A29",
+                      "Size":  2440
+                  },
+                  {
+                      "Path":  "Data\\Dungeons\\dungeon_drowned_vault.json",
+                      "Hash":  "6496B09D3FAFBAE1F363A3884A50553E21AAAECC4E01E73EAF49C057BA3E8C4C",
+                      "Size":  2444
+                  },
+                  {
+                      "Path":  "Data\\Dungeons\\dungeon_fever_sanctum.json",
+                      "Hash":  "2E3FB7F281810E7439D0A3FF43A67F72871F2306BE755B07F92D521C490A6A48",
+                      "Size":  2801
+                  },
+                  {
+                      "Path":  "schemas\\dungeon.schema.json",
+                      "Hash":  "AEFADB527F023B9D0B2F9B01DE973794C4BEDA822A539535C790DE07B2A1D168",
+                      "Size":  4262
+                  },
+                  {
+                      "Path":  "schemas\\item.schema.json",
+                      "Hash":  "1A4A64AAA8DA62A3A3833BCAB07E18205A8112DE0E46A86906D8B41FCAF9AFDD",
+                      "Size":  3546
+                  },
+                  {
+                      "Path":  "schemas\\npc.schema.json",
+                      "Hash":  "A9503ED55E495FF73B3547CB09AEC7D96BD9973D2F20C26CFACBF8DE5BFD0E32",
+                      "Size":  722
+                  },
+                  {
+                      "Path":  "schemas\\profession.schema.json",
+                      "Hash":  "7BE9AAA0A2DD95CBB251ECB7632A524DAB5AA7F7FFE7B38C43A0B691022FF6ED",
+                      "Size":  1798
+                  },
+                  {
+                      "Path":  "schemas\\quest.schema.json",
+                      "Hash":  "0548D62BFC2BA00E94921E435A20295D6EEF582BB91E2EBF8B6D4BB09313782E",
+                      "Size":  910
+                  },
+                  {
+                      "Path":  "schemas\\shared.definitions.json",
+                      "Hash":  "5392139B5D090444A6CD773CE64124CFD9C6CF85318459D20CE68CB03DABD221",
+                      "Size":  1253
+                  },
+                  {
+                      "Path":  "schemas\\skill.schema.json",
+                      "Hash":  "C2FB22D71A1756A020E7F815F943BCD6849C8C9851747C3B7E79D388FE32AA93",
+                      "Size":  2219
+                  },
+                  {
+                      "Path":  "schemas\\tilemap.schema.json",
+                      "Hash":  "4A1048A5900794001CEE63544F706893B54FEAB910415ABE5B9ECCB35FCF98B0",
+                      "Size":  2804
+                  }
+              ],
+    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-live-v0.2/server_update.zip"
+}
