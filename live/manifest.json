@@ -1,7 +1,7 @@
-﻿{
-    "Version":  "0.1.6.3",
+{
+    "Version":  "0.2",
     "MinLauncherVersion":  "1.0.0",
-    "PatchUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/live-v0.1.6.3/patch.zip",
+    "PatchUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/live-v0.2/patch.zip",
     "Files":  [
                   {
                       "Path":  "Accessibility.dll",
@@ -45,43 +45,43 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "A94E3E36740B85002B1424B65DBD502EB6004541C46003E3C815F77053F4CD97",
+                      "Hash":  "6D60105BB6C3F29B888A46890CD564CAE7810F6EB8A3306D734EC0AC32A5B84E",
                       "Size":  55296
                   },
                   {
                       "Path":  "FeverBorne.Validation.pdb",
-                      "Hash":  "C5785D14CA58304292EF5F70AFB871830B893B2F3290160A860CCE10A60C9631",
+                      "Hash":  "0042C745D42FB22B4FC1723B9F6A83150B1C309B1A6B73329DF82CC2BCF19191",
                       "Size":  29192
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "7A8A883948840DDD1D9E3237F6B3D72F302CAD7A30F522BB1A9827E2DC9832EF",
-                      "Size":  43008
+                      "Hash":  "74890F6584E056056BD0BF862C8C6D599E802CC0506361ACFDEE8DD5944E8D8C",
+                      "Size":  64000
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "6DD3FF0BCF6B6F91D74CAD813F1DD0F0CC9838F3E72C1B4CB1BE0F042144164E",
-                      "Size":  23936
+                      "Hash":  "C820E99368E11F5BE93E1745DF799A4F3E4636BE5367C47F0E6B43466CA429B1",
+                      "Size":  32168
                   },
                   {
                       "Path":  "FeverBorneTextRPG.deps.json",
-                      "Hash":  "FD9EE1BAEE6769CF3716E1D441EE23B09E74B1A5FD4823E0147A4C0B97E481A1",
+                      "Hash":  "B8CCA701A8CBA58834A16102DD425013349883693D9F47D261BA2A923CCD64CF",
                       "Size":  48774
                   },
                   {
                       "Path":  "FeverBorneTextRPG.dll",
-                      "Hash":  "F9A2B0455950C2E66C3813F8CEE800DDECA6F01C22E1C86FBEAD19D11509F862",
-                      "Size":  1071616
+                      "Hash":  "72B4B237EE3942017868F222857FD4169E11738CDA141E45802B27583DD4753D",
+                      "Size":  1451520
                   },
                   {
                       "Path":  "FeverBorneTextRPG.exe",
-                      "Hash":  "929C0568E6D8F2ADEBB862BF3B3C49C2D306AF0941892B83432CF7C9C6DD9CC2",
+                      "Hash":  "CACD6EB13969BC3AC227C8D861877FFEBC0A7592DDFF13D3C21F90995041BE27",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneTextRPG.pdb",
-                      "Hash":  "BD70EFFBACB7680F9B8F7BDF6872BDA050AB25457BC0BEE83ABF84D520308361",
-                      "Size":  407624
+                      "Hash":  "A20559E9C5CB30351AD6C99A8BE168BC6A8BE2BAF6E83562B0BBBAAD46595D4C",
+                      "Size":  519624
                   },
                   {
                       "Path":  "FeverBorneTextRPG.runtimeconfig.json",
@@ -2452,6 +2452,16 @@
                       "Path":  "Assets/Art/CharacterModels/CharacterBaseModels/BaseModel/rotations/west.png",
                       "Hash":  "2417A91491C3DB9B486BB3EB7B5E72F51498479BE0B35DC9D3CF9B24EF604120",
                       "Size":  378
+                  },
+                  {
+                      "Path":  "Assets/Art/CharacterModels/CharacterBaseModels/HairStyles/LongHair.png",
+                      "Hash":  "D2C91CF99D4CB1FD54CF97263AD8BF24C599BAF8969AA891C56CAC73BECFBA80",
+                      "Size":  2039
+                  },
+                  {
+                      "Path":  "Assets/Art/CharacterModels/CharacterBaseModels/HairStyles/ShortSpikyHair.png",
+                      "Hash":  "2130FDA72D11596532456155FE43C8870D5629D834845B1010235DC080C39C0A",
+                      "Size":  1334
                   },
                   {
                       "Path":  "Assets/Art/Combat/enemy_ashstalker.png",
@@ -7070,28 +7080,28 @@
                   },
                   {
                       "Path":  "Build/reports/core05-dependencies-ui.json",
-                      "Hash":  "C720F70B4A4F4E45019F56A04D779DBC5CCA89B1E205FFD082FA2A03D5179413",
+                      "Hash":  "28CB9BC9FAE2CD4E44629F1F57C845554B1BEED1DD9FE2C9CB242C13B08EBA46",
                       "Size":  221
                   },
                   {
                       "Path":  "Build/reports/core05-dependency-graph-export.json",
-                      "Hash":  "681826CB04C1433F42EE05C6C9889C0275FD7CDC5AF371BCF8C0BF153F91E1AE",
-                      "Size":  47158
+                      "Hash":  "191731235DD8F77B62D9D3DAB5EDA41825813C71E875C95A3D20B08E5DCE9EA2",
+                      "Size":  29696
                   },
                   {
                       "Path":  "Build/reports/core05-verification-report.md",
-                      "Hash":  "075542F3F1C3ABDB8245E405749D2C3DA75605CBC4C11E16478F6BEA078F35F1",
+                      "Hash":  "B4A1EEABB97B13BB3A3129E68BC4DDAAD378D1D41555448033A022B1782FA8A7",
                       "Size":  216
                   },
                   {
                       "Path":  "Build/reports/core14-asset-validation.json",
-                      "Hash":  "19DA26E6CB194BC1BE5D74B4407D128B6DCC3B97EC7CC086391107B2ADD2D8A4",
-                      "Size":  192551
+                      "Hash":  "E9D1345983D3A81C24A709F61A7B896ED5874286B001C72F5D1F56F2B3A404A9",
+                      "Size":  602
                   },
                   {
                       "Path":  "Build/reports/core14-asset-validation.md",
-                      "Hash":  "9FEDFF6AEF8D7083F70630B525DD5B2B7C5B0EC7B90951FB2577DF84F75C7784",
-                      "Size":  14880
+                      "Hash":  "4FCF9D41E262FB1BAB72D08483FEF0AD22E45CF02D5253DC7328753DADC268D6",
+                      "Size":  396
                   },
                   {
                       "Path":  "cs/Microsoft.VisualBasic.Forms.resources.dll",
@@ -7244,6 +7254,11 @@
                       "Size":  504
                   },
                   {
+                      "Path":  "Data/Characters/character_visual_config.json",
+                      "Hash":  "1275D54BC5D0B61078773D636BFB968382882C9A1A712D2C45C0E788710818B0",
+                      "Size":  1593
+                  },
+                  {
                       "Path":  "Data/Dungeons/dungeon_ashen_barrow.json",
                       "Hash":  "6F6E30615F8C123447BBE0E756427554DFB5C3FE25C5FBC840E218E506E14D4A",
                       "Size":  2790
@@ -7275,263 +7290,33 @@
                   },
                   {
                       "Path":  "Data/Herbs/herb_embermoss.json",
-                      "Hash":  "C1650DF2442AA7B84B4CF553D7C9B02BB4172A031EFEA9DAD73732B2789BB221",
-                      "Size":  292
+                      "Hash":  "F8287F6C1C393260DEB240DB00A6480A6C4262A591F8F9FBC55FD4DC5A0FFF81",
+                      "Size":  321
                   },
                   {
                       "Path":  "Data/Herbs/herb_gravefern.json",
-                      "Hash":  "28B11C61167677FB9BDD053DAD2470D168BCF287AF1FA18857209F866CCF6E1D",
-                      "Size":  219
+                      "Hash":  "59E1DC6FA88FDA09D4C81371ECFAB3C6856D82E3431D371B0FB4D6DA0498F4CA",
+                      "Size":  328
                   },
                   {
                       "Path":  "Data/Herbs/herb_ironbloom.json",
-                      "Hash":  "DA7FB0C18DFC44E7C02648FFAE209D8EBE451F87BF6ACDA67707B4EC0B7A37E5",
-                      "Size":  205
+                      "Hash":  "9D83BEC37052E0C574E6C3FC730746233C0244C050F51EE1F3565571F4A6321C",
+                      "Size":  316
                   },
                   {
                       "Path":  "Data/Herbs/herb_mirebell.json",
-                      "Hash":  "D409EE8CDD034EAB3A7C93B2A05846BF0D73B9D87CF1FA83473DED9BC481170C",
-                      "Size":  207
+                      "Hash":  "7E45FEC7D3F691CBB8EC6FAF13179D825E9283995E57411360937E28AA2895D5",
+                      "Size":  318
                   },
                   {
                       "Path":  "Data/Herbs/herb_moonleaf.json",
-                      "Hash":  "5BFB0C8F37F1B42BFC56DB25E8E992519AD8B3D1435C2EDE9BAC34EE8AD5757B",
-                      "Size":  285
+                      "Hash":  "22C01FD5B6710FB18F9AE7E32C7F8ABF2E83BE52EF02C3D869AC37E3781EDC99",
+                      "Size":  314
                   },
                   {
                       "Path":  "Data/Herbs/herb_silverthistle.json",
-                      "Hash":  "065101171F7D1B0147DD944BA3201961DCD5F1BBF0EE228679317BADE6B47526",
-                      "Size":  221
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_0575c8589cb54c85981a7c0578418705.json",
-                      "Hash":  "0A8CC178A8A9FC423FE16F652464158DC6CBEB2C64DA3AF717F4B5A98AEF9F9F",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_1a639182308c4c88aed911c7db60bf33.json",
-                      "Hash":  "5F0D20B2A7A0984C69F1BF217E591268B3C6E52F75B7356D8BF507CBF2B513BA",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_3c86c8f2413c4eeda84029de5fcebe24.json",
-                      "Hash":  "5A1FA1C17EE6CDA70F0431B32D707AE57844C774317D873B8EBBF5FA3E234D81",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_402d228525c2439ea2d1bdb65c290f9b.json",
-                      "Hash":  "9AC582DE839280CF62154376FB3B7C9559A6652CEF6A22656E0164BB95686A6C",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_531cf8553b264bbba489235002b541bd.json",
-                      "Hash":  "4B9E8BF822C56EB53380B32220E100828061C0DDA63BFCCAE5267416CD1ACE95",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_5399cdfb67f2420abf28b04bdd83672f.json",
-                      "Hash":  "93F68B9AC0CB8F8149B1EC7C7D896E0133B4FDF877DDBBA45ACF242AD43223D3",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_594bc886633b4a3e9fb5fd2bf2e0c76d.json",
-                      "Hash":  "E89163AB0DFAAE2DAAC1AA02A89049702D1D8F8CEEE1E8BDF0E1096C0C20956B",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_7ccf2d56dbe141a186fdf482063dbd5d.json",
-                      "Hash":  "F1E51C4B98E325000357C82452F4AE2F6BD3BA66E8AE3D07AA9AC9DF3BE7A7C5",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_86c280cb19e54333aa4ee364042517c7.json",
-                      "Hash":  "F27ADB8EBEBE252FE4658D973DD0DFB8D0BD42E7A6C79E9D5225F71E8B49118B",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_8ea02342db1c49578de543532b8d86ef.json",
-                      "Hash":  "A70F955BED6C89B6A0C1C52399EB85A26851952E3F5AB9286BD4694C8B7977F1",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_916d3379996b43a1a6222c98c583c0a7.json",
-                      "Hash":  "1C74B06460C533C5B51FF21298F483DD0A4F34802DEE9F1C08F359F733B65E5B",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_96a0a44e650c446bb967021ca3bfef6d.json",
-                      "Hash":  "52AA4648E53999483C811CF49A9B4B57814E82591CECA87C8E404F45C7F9B8F8",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_9d12268c9e8a4667a12c86138e628621.json",
-                      "Hash":  "E230B301AE03647F68E1C2A513B8833AA0C832CA003D3B38D31E8ADDCFCD8A69",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_9ff1497656754e7ab9b89d6e00cf3f83.json",
-                      "Hash":  "9D16080FB3EC38CA98AE07FA05B8CFAE64DF263E6F5C3F4CD82E0262D20B56DC",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_a493445ad11b4ac486f1a9778ab1ba54.json",
-                      "Hash":  "67CA90249529771E35B3EF8C41D8A7160DCB7F50620C2FBF69C145DC47499CAB",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_ae3a6399c29644e98688931ceb03cad0.json",
-                      "Hash":  "ACDA90D30EC50B2735FD6B5C75096F23F6AAA31117D6D00CD7714AD98B849FC5",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_b828c5e8910e431e870401dabb355cc8.json",
-                      "Hash":  "AF94CA4AA077B0C70B6717DFEDC83298F21D5BF7F4B286F1F31C94BC0A667087",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_bdbe32ef42044f8b9dc885e81575e2d3.json",
-                      "Hash":  "F37333FF98C5C4D04A47FE32ABBA184D12D2E969D8EFB94F911A790BCEEC52A7",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_cf52378d633840ecbc3af0807b30e6e1.json",
-                      "Hash":  "1B658B0DBA2DBB61CF75364B7254C7690F0CAC80E6CFC1F8E1686524E384811B",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_d3255ebf038043fe9ef2de52131a8010.json",
-                      "Hash":  "461E6698311F6C748FE72BF14A53913EEB528DAF27B5F3A99B5B548729C9D749",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_f22bf40ace824c2abdc6f9b2a76860dc.json",
-                      "Hash":  "AC244E438B0824EF703582C341C346994C9E2B8CA4676B1A3CC42A2F2A667BCD",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_f7091f7db74d47438a5429ddaddcd25a.json",
-                      "Hash":  "E14050F87F6B4510E007C90FC82D30DBF310A36D43D41976ED20D203CD686521",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_legacy_item_fee561a6ede94c058571631ee341a605.json",
-                      "Hash":  "87DD4E3742E1A2BF63E6E61820450AC941A88A8C0692BBEAA1738BA647EAAA74",
-                      "Size":  280
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_02ebdd0772764ed6a3444d154319ab3d.json",
-                      "Hash":  "692A824AB9D42B92F5B1E61B0BEE89795333B96B227CC57CF9E6DF96D7D564C3",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_0dfccc85967743efa79a8630cece0ab1.json",
-                      "Hash":  "75DB0A5B166572814F8896776B9E213CE9EA7B9EA19D4885095FC31DBE1DFDE9",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_15418534b77a43e2969c71f7565aadc1.json",
-                      "Hash":  "9F02140A64800CA37FBAEB48B60148293D555DB5EB7EB7649A66B83D25EBDDA4",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_1eab8829e4504ccebcdcb9891c9dfd0b.json",
-                      "Hash":  "08B660148468432E97132CF22985981918E651F10E727E7AC3B7B7AC03BA459B",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_24dade100dd6424fa07da5a1c2be2b03.json",
-                      "Hash":  "02B896B5CE63BE398D727A748A206374F31560BE1EB6BDB1D24A7BF6258A3353",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_2addfac7014d4840a3340326a83ff8a5.json",
-                      "Hash":  "A014E6C57FAAE7619359B54BA67EF1AF563C65791B34E3BD90E39D687967E230",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_2dc01c6fd35d43adae4558b9b27f6888.json",
-                      "Hash":  "DCF2709F917F01003999042A9DC1D14148E2706DCAFD4FB4B29BF1BF48F07061",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_41090158b17049c189b6f97917f25ab7.json",
-                      "Hash":  "D60DD441EACACFDF979C0A8A2E7E5835671F134024B1B3CE94BF02A84ACDB416",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_431b591eae5e42e5bce5b3330a5b8a19.json",
-                      "Hash":  "F7C1BD13B1E7680D19DA8CCCAC37F1342A25BD75D379CE12297F981E28C6AE91",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_4773d1b691654bccad3fb728ed5625ed.json",
-                      "Hash":  "9ECD61E59FCAFCCC876B2B992AC6A05698FFCBB98C3513916FE64D3098A7BE3A",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_5eea4d3403614cd59b2cc51748107b6a.json",
-                      "Hash":  "5CC3EE04946AE4DE6E07F142358FC7FA718EBFFE70C76653182F4745E48A4E0A",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_7d58fa76f18a4759b8c22497ed1d6f68.json",
-                      "Hash":  "970591FB1EA576F44F760FCBCE560E8A5692B2FA111F84D80E213676D43BA4A6",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_86e8dad5e3ab4a92904b8ae505d8da41.json",
-                      "Hash":  "C7BC51E75FD9FA08A74FA4CB298EB5F704B0406138F528B18B1FE6B9FDDBEAD4",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_aa775088bbe94e0483ba79fba1712879.json",
-                      "Hash":  "19E1D99CF2C46F0092BE7476FF2B0E64C092903484968E32E73A62894D35204A",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_afbaf3211d4b4df790c20dcec117948d.json",
-                      "Hash":  "94164AC5BFFC6F257492361A6DD8D678A4ED31AD79300F7822608E3668053477",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_b2a3539c5f65458ca98c8a207e229068.json",
-                      "Hash":  "2B0C6E4AE2C9D7E90D2EDA6025C2E272633DF06BD1EE96A6107478923CAB2E04",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_b6325e6ee8c344779d07bc2d40d4d62d.json",
-                      "Hash":  "1BF8AA8617542929F2EACAA2625F8959702561FD8C35F9F809D4B9034D96478A",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_b8f015abc5ca47f99a894ff033fed603.json",
-                      "Hash":  "1F9DBD3C34091F7807F2F4F40EE594D128B2AD4ACD1574AC8B4E811180513351",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_c10443c08c45425aafe035d06fcec38d.json",
-                      "Hash":  "643F4C76148C4A6034B92C5FDE0F8E4D96DE939FA87CFC5A49F0EF31CE2225FF",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_c3b80fee7ce04793b19f78b6c913865e.json",
-                      "Hash":  "FC6F50F6C1640E87E3959B4EAA50E114117CC83104900DDA73F88FC26A782410",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_d161dec7a7e24ad8bae6b37e7572a396.json",
-                      "Hash":  "84D7837444A5D764C97B448CF8D57607A8985AA622EC7CDAF22035600E96CCC8",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_dbc6065e3a5c487d801eb0e6d8059993.json",
-                      "Hash":  "1AAB543C1EA0AC23E84688C3A5AA3B73C0CA0CD585DE16EB30A63928FB3BD5CB",
-                      "Size":  1013
-                  },
-                  {
-                      "Path":  "Data/Items/core04_roundtrip_item_fbd69abe830b46db93ce13a8e2534386.json",
-                      "Hash":  "742B6F0E9BD8445FB2A67B9274389EBC7AF6604A08038F50166FD00EF06EF347",
-                      "Size":  1013
+                      "Hash":  "8787B9E60D1FA32FD9E0C7DF3E6C13332F1736075EB237B2CA8D309C4408F8A0",
+                      "Size":  330
                   },
                   {
                       "Path":  "Data/Items/item_chapel_token.json",
@@ -7985,18 +7770,18 @@
                   },
                   {
                       "Path":  "Data/Zones/zone_chapel_rise.json",
-                      "Hash":  "B9177891CBDE9426D133E8875AA1DE6D19E7D4348EF0836966B8081E9141A670",
-                      "Size":  2328
+                      "Hash":  "B901DD56657154420423EDCA5FB54A2A26ED0969B13B29F4A3734AC96B8D4353",
+                      "Size":  2625
                   },
                   {
                       "Path":  "Data/Zones/zone_drowned_marsh.json",
-                      "Hash":  "47A6C9D553ED1C8D3248B49920A72E623D5ED48BDFC5D5EABD0187B4CA250553",
-                      "Size":  2300
+                      "Hash":  "C2AF536BB1840E5AE9A66EFAA6F2716080D27392866B53DCC953BDAD5C583840",
+                      "Size":  2597
                   },
                   {
                       "Path":  "Data/Zones/zone_outskirts.json",
-                      "Hash":  "CEE8F425075C2182F59D3BD2C42D6119CCCE8CD2960330BC2582DBF539F210DC",
-                      "Size":  2769
+                      "Hash":  "E31ABB3665C029AB6C7DEF068DF7667351B1B248163B18AB9C1CBF51B43AEF91",
+                      "Size":  3066
                   },
                   {
                       "Path":  "de/Microsoft.VisualBasic.Forms.resources.dll",
@@ -8770,13 +8555,13 @@
                   },
                   {
                       "Path":  "schemas/item.schema.json",
-                      "Hash":  "B93E388672AF5C2D20026715925DDACA43C3910581CE60089FFD071FB16778FC",
-                      "Size":  3237
+                      "Hash":  "1A4A64AAA8DA62A3A3833BCAB07E18205A8112DE0E46A86906D8B41FCAF9AFDD",
+                      "Size":  3546
                   },
                   {
                       "Path":  "schemas/npc.schema.json",
-                      "Hash":  "6A1FB8ED25FEA5BEC822FBFF7A6E394F12D6FCD25CA0124BDC37E8C5289238E3",
-                      "Size":  677
+                      "Hash":  "A9503ED55E495FF73B3547CB09AEC7D96BD9973D2F20C26CFACBF8DE5BFD0E32",
+                      "Size":  722
                   },
                   {
                       "Path":  "schemas/profession.schema.json",
@@ -8800,8 +8585,8 @@
                   },
                   {
                       "Path":  "schemas/tilemap.schema.json",
-                      "Hash":  "EA4E9246C314BDADA90BF8F0C3E40DD35F14E9587230D4163193F44A9E57B905",
-                      "Size":  2690
+                      "Hash":  "4A1048A5900794001CEE63544F706893B54FEAB910415ABE5B9ECCB35FCF98B0",
+                      "Size":  2804
                   },
                   {
                       "Path":  "tr/Microsoft.VisualBasic.Forms.resources.dll",
@@ -9107,12 +8892,12 @@
                           },
                           {
                               "Path":  "FeverBorneLauncher.dll",
-                              "Hash":  "599935FADC225762980DF241DB7592441567390EC68D15A3BEF98FDAED4A9D2D",
+                              "Hash":  "8D9184CEAE4006D7B7E10BDE875CA998B745EBB06A42FA2CEA97F5BB8CD3CE5D",
                               "Size":  88064
                           },
                           {
                               "Path":  "FeverBorneLauncher.exe",
-                              "Hash":  "E2A9A31B427174B01FCA668599A80CCED0043AE3D2CDD45D936AAFA819686094",
+                              "Hash":  "A7113004360A835B5153160DD6FDA429BC9504B90D257C955CD57A3B5A24FEDF",
                               "Size":  159232
                           },
                           {
