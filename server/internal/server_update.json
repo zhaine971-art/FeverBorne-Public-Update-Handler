@@ -1,10 +1,10 @@
 ﻿{
     "Version":  "0.1.6.1",
     "Environment":  "Internal",
-    "Timestamp":  "2026-04-09T19:50:57.9341960-05:00",
+    "Timestamp":  "2026-04-09T20:07:13.0798537-05:00",
     "FileCount":  353,
-    "PackageHashSha256":  "A4AA01950F68A4EA41E375BC05CFDBAACDE504D8E70D1DCE94B7632D942508B1",
-    "PackageSizeBytes":  46556391,
+    "PackageHashSha256":  "273559DDB3E751F30D92991973A2AA15174EB7CA4F476694C62CF3464CD99E38",
+    "PackageSizeBytes":  46556468,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,7 +58,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "FF6D0F9BD604101F8F6E35DDA5C4944BF97B942F4B88D30B56590014A4EFF0A9",
+                      "Hash":  "E1E1D8DB35844E50557CD18F9618291F53A574675CF239377D79C80CFE6FD558",
                       "Size":  55296
                   },
                   {
@@ -73,12 +73,12 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "BB3A5940096420F2897CFE31D072EDEA8BA187331E16E0214FBF36D84C04EBE9",
+                      "Hash":  "07D02960665AED34B39BF894D1F9100BA8813A1FBD755D5F2AE150BA630BF2A0",
                       "Size":  380928
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "C972C0A441F574288CFF692D27FB1D10077D97A546AFCCFEA933D5F1DFCF959F",
+                      "Hash":  "491B6870CC8ADA347F2353AB111FE1CC58641E84C705B805166D3AC96232BA40",
                       "Size":  158720
                   },
                   {
@@ -93,7 +93,7 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "B232B7292D27C139A90C5A545845DF3B62947706F4D5BCE221929BD8E1E63003",
+                      "Hash":  "23FAC38DE8C594E9E4FBD8495139B7EF5ECBD2FA1D0EA7F70F1842D485808CFB",
                       "Size":  60416
                   },
                   {
@@ -1738,8 +1738,8 @@
                   },
                   {
                       "Path":  "schemas\\item.schema.json",
-                      "Hash":  "B93E388672AF5C2D20026715925DDACA43C3910581CE60089FFD071FB16778FC",
-                      "Size":  3237
+                      "Hash":  "1A4A64AAA8DA62A3A3833BCAB07E18205A8112DE0E46A86906D8B41FCAF9AFDD",
+                      "Size":  3546
                   },
                   {
                       "Path":  "schemas\\npc.schema.json",
