@@ -1,10 +1,10 @@
 ﻿{
     "Version":  "0.1.6.1",
     "Environment":  "Internal",
-    "Timestamp":  "2026-04-10T14:53:34.8447638-05:00",
+    "Timestamp":  "2026-04-10T16:22:17.4153440-05:00",
     "FileCount":  353,
-    "PackageHashSha256":  "D1E2E2DECBEFCA7F8EDF19F80D4F12A0DD099019740ACC7317B39EE9F2A7BDF5",
-    "PackageSizeBytes":  46563586,
+    "PackageHashSha256":  "6A2FD3AAD88A7464FBFBAF2C8277C24D362264340D1933A4E01FDF6D92FBCBC2",
+    "PackageSizeBytes":  46563572,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,7 +58,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "677B6C88996DB894FBBA3D901116D7990FD2E7C13E5ED15C91210E902BE7B425",
+                      "Hash":  "61004AF62C3172CB4443BAF29411BF1BA6A7748EFB8AB852B4D0A520F5993834",
                       "Size":  55296
                   },
                   {
@@ -73,12 +73,12 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "B45BC1FB738E7A991EE45A45726E51C04085928E3E0024092FBB46448A047349",
+                      "Hash":  "CC989B1373D998B631C8A2FB3CDB1B5BA52D2A1173670E1BB6A488FC6836D624",
                       "Size":  392192
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "F1D763A68A2768FDCFA57FFA64E245F3C8DDEEFBA75C603A3EABB854980987AE",
+                      "Hash":  "9FFC137D1ADEE814FE3330522B2201FA79FAA17A93CA91295CFCA464A264151B",
                       "Size":  158720
                   },
                   {
@@ -93,7 +93,7 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "86B218117AF8E6F98BD9221483850FCF2B145AEF7700DFE93ACAFF740689341B",
+                      "Hash":  "BB140C6F0814DC1D9728B6FF537777D3583379D30965649C98A24272BC81626C",
                       "Size":  64000
                   },
                   {
