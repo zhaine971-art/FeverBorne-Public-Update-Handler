@@ -1,10 +1,10 @@
 ﻿{
     "Version":  "0.1.6.1",
     "Environment":  "Internal",
-    "Timestamp":  "2026-04-10T07:50:21.9107788-05:00",
+    "Timestamp":  "2026-04-10T14:16:08.9246664-05:00",
     "FileCount":  353,
-    "PackageHashSha256":  "88EB33A750D77AA2426459EFA8AFEF7E67D8C0B5CD5C15DEFE9BAAEDEF346BB1",
-    "PackageSizeBytes":  46561241,
+    "PackageHashSha256":  "62292B2525F3AB82D196BDDB99233DDBF21B937C6FEA878BD7FA375B4CD1704A",
+    "PackageSizeBytes":  46563574,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,33 +58,33 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "70B8CB4BCE9395AE0FC8963BE5E60272B4AE1ECA28BA7AE392A739CDD9B13DAC",
+                      "Hash":  "8FBADABE497ADFBE99F5563B063534A060C9BF358A9ED128C866F0712237E366",
                       "Size":  55296
                   },
                   {
                       "Path":  "FeverBorne.Validation.pdb",
-                      "Hash":  "DD140CA00893569F20D952EF6BA8BC26CB699337B2B8093677C00D4D478BE839",
+                      "Hash":  "2DB131B5D138A8543B6DD88D3E0581C250BF3B9FF62F1D1C63F4309A928A80A9",
                       "Size":  29192
                   },
                   {
                       "Path":  "FeverBorneServer.deps.json",
-                      "Hash":  "43C8E33F9504B7E48BD87E2E859D0CAD95FA213A70A6FF41D88A450CD8956AA9",
+                      "Hash":  "4DFA7273590C00E6C7BC3FA88739CAE7BFACA91D5549C928DAD18F8E2E2F3B36",
                       "Size":  52834
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "D100FB8EF65AF4FF32B428D96E8C51BF8A8C62B6F0E77B36A72E7B419430D06B",
-                      "Size":  388608
+                      "Hash":  "D3E46C87A039943799CEFC77B69D7992CE739A865AE6A40E962AFA4120072941",
+                      "Size":  392192
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "7DB134CA4CF0754DE2364ADB5763D0AD4BED9CAD69F9C2BBD6962AE8869EF5EC",
+                      "Hash":  "0B1B86B9C6B5DF446E5091D7B24BEBB963D411604C62E18B3D179860627AA9D9",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneServer.pdb",
-                      "Hash":  "52A9B4F67682D2D0800F0BDB2F9E6189D2DAACCA7C938208D2505CA1EC971A6F",
-                      "Size":  120716
+                      "Hash":  "D5B4A5DC419F50DB501250415EBC05FE88234B2224B9D8C1882CA1AA60BEC365",
+                      "Size":  122196
                   },
                   {
                       "Path":  "FeverBorneServer.runtimeconfig.json",
@@ -93,13 +93,13 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "04DEC4AD616B4CEBA19DA61599B9561E1C3A91B7F80B714FB58A3006B495DBB7",
-                      "Size":  62976
+                      "Hash":  "F2DC96FD797C49B4E67120616BBE01649C12307A8119FF0023D122FFCB9E3D72",
+                      "Size":  64000
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "E25A897F3C569168FB785E47A004E7792C787F7532F95A6341566B0D2DAEE048",
-                      "Size":  31692
+                      "Hash":  "FFA876B53B79D8C1B39C9F0627B6459046B2F3EA813E21513E25C8403515C55E",
+                      "Size":  32168
                   },
                   {
                       "Path":  "hostfxr.dll",
