@@ -45,7 +45,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "3B36A6341D768649B2B5F1E57081A44E626F8F114B6A5FA6423A78B1262A742A",
+                      "Hash":  "D2488684B6A3947865A219D4746E677BECB2D46E408370C99038E7BB17734108",
                       "Size":  55296
                   },
                   {
@@ -55,7 +55,7 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "122B3F9094F89F33E19B0A9ECA4E17A390A51BF99FD0EB6029AB96AE2282D0F4",
+                      "Hash":  "42341733F60B300903ADD4B41B52D44E56429E6F337C25C7212C8EDFAABFF916",
                       "Size":  64000
                   },
                   {
@@ -70,12 +70,12 @@
                   },
                   {
                       "Path":  "FeverBorneTextRPG.dll",
-                      "Hash":  "821239CDAD99BDB34DF5E0B71FF80512832E3521CACB7C5A3D03E27F40060D6B",
+                      "Hash":  "93F7D3D498180BF07D6EB26D49F2E1D22237CB35D45014B09A667B685D6C5F58",
                       "Size":  1451520
                   },
                   {
                       "Path":  "FeverBorneTextRPG.exe",
-                      "Hash":  "F276F637AA184E25306A9FDDDDF182A86CF54FBB0B0625FCB2867A8434468D15",
+                      "Hash":  "8AF4166640F773448A071FAC358E6BA830B863FD8FF1FEFBD8885F9ACC78DA1E",
                       "Size":  158720
                   },
                   {
@@ -7080,27 +7080,27 @@
                   },
                   {
                       "Path":  "Build/reports/core05-dependencies-ui.json",
-                      "Hash":  "10EB4571A54844B8A6822CBCA66BCE7B22E8D6FB389965FDF2D20F0C9CF23A50",
+                      "Hash":  "F0843371EF6744D007E5A0ACEC284B264F74F28B56C560315D956B564625D80D",
                       "Size":  221
                   },
                   {
                       "Path":  "Build/reports/core05-dependency-graph-export.json",
-                      "Hash":  "50D049BA291EB85A99834ED655A343E03A13A194C32C09EE031699A8D7BA040C",
+                      "Hash":  "3FB0037405E54A0466F2ED024FF08CD2A61D53E49535E7065B0CEEAF047F2A1F",
                       "Size":  29696
                   },
                   {
                       "Path":  "Build/reports/core05-verification-report.md",
-                      "Hash":  "49A150EBBD0827F3EABE04E3C6EE0ED1C356DA48EBC3EB169A7CD5FA27EC8F44",
+                      "Hash":  "2F2F5847DF4DA56BAD119FAC77F02EF1141CBEBD0D4E3564BB0AEEB5BD616BE6",
                       "Size":  216
                   },
                   {
                       "Path":  "Build/reports/core14-asset-validation.json",
-                      "Hash":  "3FA1A517D804DE73D13AB264A50F208EBF2DC161DFAA0408A1A61FC72C509CF9",
+                      "Hash":  "05781E9DCA73B3A74883B6B2A751CE88B6EE3B28A873F0FB0EB054BFB4269D24",
                       "Size":  602
                   },
                   {
                       "Path":  "Build/reports/core14-asset-validation.md",
-                      "Hash":  "82BE7E21D73B18FADAFB161117A6A5531A3AD635EB324881CD1D10C7271B966F",
+                      "Hash":  "778DBA186A09BF21C745B5232B778F8E1375E8DEADCA6FF90157A259FEBC39BA",
                       "Size":  396
                   },
                   {
@@ -8892,12 +8892,12 @@
                           },
                           {
                               "Path":  "FeverBorneLauncher.dll",
-                              "Hash":  "34306664030031F4975323E4371F003B6ACCE6DA37C1CDC218D86CFB2FD24236",
+                              "Hash":  "1FA1BA73D2F89E9D369DEA203270020F1F211E4CBE33D14B8AF1F5741CC8F4D3",
                               "Size":  88064
                           },
                           {
                               "Path":  "FeverBorneLauncher.exe",
-                              "Hash":  "B48C9D96DBB308BF2BB3CE91D7BA3736EBE16B078AA13FE4230DF0289665F6F7",
+                              "Hash":  "0A182DE6155E0AE02EB722B53BA539CA9CA382F0B10C1AE4EA2177715CDDB88D",
                               "Size":  159232
                           },
                           {
