@@ -1,10 +1,10 @@
 ﻿{
     "Version":  "0.2.1",
     "Environment":  "Internal",
-    "Timestamp":  "2026-04-11T19:51:52.1833703-05:00",
+    "Timestamp":  "2026-04-11T20:51:48.0794402-05:00",
     "FileCount":  353,
-    "PackageHashSha256":  "B070E3F151B2A386788FA2ADC61AA8E58AF86F1C43B6299FF2D5CB09002F468B",
-    "PackageSizeBytes":  46567791,
+    "PackageHashSha256":  "69BDAE0916CC5A61676CD2BB1747ED8FB5DA1A28776B388A2BA6F33BA9D94F44",
+    "PackageSizeBytes":  46592206,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,13 +58,13 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "D00EFE0BEA1B6EB58717583F5D94D352B2B93299B74EF40877B08E760B723343",
-                      "Size":  58368
+                      "Hash":  "44BD63CC6CB8483957833C4E7123F3E9271A789DDADE46A54CF3DFC99DF7CAFD",
+                      "Size":  59392
                   },
                   {
                       "Path":  "FeverBorne.Validation.pdb",
-                      "Hash":  "85D296B957B7AF9920C9FFE299B6586CB5AADABCF2BA9E075B3743C5B4B7EF98",
-                      "Size":  30372
+                      "Hash":  "EFF1DEE78A11D807AD1FAEDE6F2DF27935AEEEDA59DA147D914D7C3A7EF9BE41",
+                      "Size":  30876
                   },
                   {
                       "Path":  "FeverBorneServer.deps.json",
@@ -73,18 +73,18 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "0CB994E735D473E31834357CAAE90AA21C51D496D387E55D5FDD9C73B5A6D9CD",
-                      "Size":  394240
+                      "Hash":  "2291133AFF1E9FF66697BF7C5402C9F89D7EB9343B7F706109A93A5C42096154",
+                      "Size":  433664
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "A0C641B1096D8347626B2E92968A6596C37337F79E02EE7257827FA585925422",
+                      "Hash":  "A3601055841243E620BA2D4963C1B6FC5037684938B751B88BA9569A1FA1F2A5",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneServer.pdb",
-                      "Hash":  "F7C298FF1C522A64FA386171E6075EFC79F021E870B4EF970E3E8123EFDCE498",
-                      "Size":  122680
+                      "Hash":  "AAA4FE8587A065FE79F28C7FBC87CCFF16A3E3E26C3F122313C3167D0A0ED5FA",
+                      "Size":  138168
                   },
                   {
                       "Path":  "FeverBorneServer.runtimeconfig.json",
@@ -93,13 +93,13 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "0A3CE4C3E2A2ED3022495332581E1DA1DD7008C86A4EBD424FF75DC6DC6F9559",
-                      "Size":  65536
+                      "Hash":  "3AA5E5C87E11AD898F46C94F2A21D11DC0A7B6DB20C9B6AB66113603CAD821EC",
+                      "Size":  69120
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "8383BD060E90A949FC3B3A93C0B2D0E929C67FE0D254A9BBA172575699554809",
-                      "Size":  32748
+                      "Hash":  "28144933D2BE2A1E6AA19460EC20AF5BF5B7ECFBAF30F6CD1E5F7295E28B2D97",
+                      "Size":  33992
                   },
                   {
                       "Path":  "hostfxr.dll",
@@ -1768,8 +1768,8 @@
                   },
                   {
                       "Path":  "schemas\\tilemap.schema.json",
-                      "Hash":  "60D1C5B99DA9C7528576F2F9AE033DDACE7DAC16B0E7C618113962972DDB0D88",
-                      "Size":  7098
+                      "Hash":  "0442BBBC0FC893279505F74C49A21F1C382A022ED2494B89F9D53F8ACD3E7728",
+                      "Size":  7810
                   }
               ],
     "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.2.1/server_update.zip"
