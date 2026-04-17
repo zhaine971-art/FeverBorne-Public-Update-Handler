@@ -2,9 +2,9 @@
     "Version":  "0.2.2",
     "MinLauncherVersion":  "1.0.0",
     "PatchUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/dev-v0.2.2/patch.zip",
-    "GeneratedAtUtc":  "2026-04-17T21:15:30.6017453Z",
-    "PackageHashSha256":  "88AF95E056BA680DA10B75E35C1CF78D8E86248EFA608554045E674D7433A89A",
-    "PackageSizeBytes":  192623499,
+    "GeneratedAtUtc":  "2026-04-17T22:00:03.5801495Z",
+    "PackageHashSha256":  "0AB0701DCCF78DAA262AAB00C53E7B1738F26ABCE404E236302896CD85567B81",
+    "PackageSizeBytes":  192623895,
     "Files":  [
                   {
                       "Path":  "Accessibility.dll",
@@ -48,23 +48,23 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "3B39F21B1DDC57C57DC737C9A0A461CF23293F2E8FB517EA926BBB9424C455B1",
+                      "Hash":  "CDBF4398EF86AACD6E340BE332B71E1E9392176DC89FDD41D9510B2274A559B0",
                       "Size":  59392
                   },
                   {
                       "Path":  "FeverBorne.Validation.pdb",
-                      "Hash":  "27EEFD4CCCF63669AE6CCA845B7A5EC0D9D5F527FC50C6827CE64D414359668E",
+                      "Hash":  "5E99FEA11AAFEE490E2CF94E9C81F11830A40EE3C64BF5A132F6F2D3ABA33A9E",
                       "Size":  30876
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "E1CA5E599CD329C8E1B4404F10EAF0D2F38AA47B8FF92A75A06C2B31CE9CBC0A",
+                      "Hash":  "23F160D7D276BC5A17FEA3278CF938E979D44DCF50E74419FC96C322DA594585",
                       "Size":  69632
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "269026089EE8B798979672FFDD6A6657173169DE363285D4AA11EB5E20BD3913",
-                      "Size":  34124
+                      "Hash":  "D263B20F1913A3D775A265252B3B3DA6CC07D04565D5B55DBF4D216BDEA25D9E",
+                      "Size":  34128
                   },
                   {
                       "Path":  "FeverBorneTextRPG.deps.json",
@@ -73,18 +73,18 @@
                   },
                   {
                       "Path":  "FeverBorneTextRPG.dll",
-                      "Hash":  "013F64B5AD6A40CD2FC8E38789DEF6E7A3DF7100CEBDA708F1D99735FC950567",
+                      "Hash":  "0879626667495C616FBD4079A73C82F108AEFFDB7BEB769E1DE3E2F6D0DED6CA",
                       "Size":  1811456
                   },
                   {
                       "Path":  "FeverBorneTextRPG.exe",
-                      "Hash":  "F026B14995911FDA22908E88F10ED80775D6C1CFA158D5C85B86394C4ABBF402",
+                      "Hash":  "30E06D824A643F13CA1C0BB706C458C5007D0BF2AAC839922815A0761A19BA7B",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneTextRPG.pdb",
-                      "Hash":  "F974A56262603B7DE2219C9E5C26EC601B0ED806F813984DA8B557F8781A0ED7",
-                      "Size":  645748
+                      "Hash":  "1B52F5C582968E72322D6D5C70C96A828E7253B38B57C7AB45BDE00AB8B37848",
+                      "Size":  645844
                   },
                   {
                       "Path":  "FeverBorneTextRPG.runtimeconfig.json",
@@ -7083,27 +7083,27 @@
                   },
                   {
                       "Path":  "Build/reports/core05-dependencies-ui.json",
-                      "Hash":  "F4494E4A43384136D83D59016190740A10F453C66262E82191D84BB39E2253D2",
+                      "Hash":  "29F9CC7D22660B5EACE2C62E32D787E8A573AFC118D747F57FBF291A9D3DC95B",
                       "Size":  222
                   },
                   {
                       "Path":  "Build/reports/core05-dependency-graph-export.json",
-                      "Hash":  "8C9E1AB80CA0E6145C525B6E1685988CAD53205D9A3DA5ABB3B09B997612B7F8",
-                      "Size":  82473
+                      "Hash":  "AE717F6343CC3618F98A76B96B33E1D8A8F2901688664648090CC28FC295309A",
+                      "Size":  83429
                   },
                   {
                       "Path":  "Build/reports/core05-verification-report.md",
-                      "Hash":  "916B48ACC49EE90DD645180C73EB69971B6310087E9F0AE92BDCD8EE00728F2D",
+                      "Hash":  "8F4008AB6DDD300AC42FD516B542C44F42A310F9B90BD0C7DAE6D9BA863D973A",
                       "Size":  217
                   },
                   {
                       "Path":  "Build/reports/core14-asset-validation.json",
-                      "Hash":  "1E093B44A8022857323ED293C7A07B4818BE87A4F9402D9B913B9F1DEB1E2030",
+                      "Hash":  "454D954EDD714E3AE98742BEABFA0357D676FDAD9D9FB1EF2860585986EFEBAE",
                       "Size":  602
                   },
                   {
                       "Path":  "Build/reports/core14-asset-validation.md",
-                      "Hash":  "987227CD4E8ACFBEB7CE016B939EBCBB4A1885E94077A68EBEC58B6C41DB4205",
+                      "Hash":  "C0CB5C4161FE887EBA0F334A3FE61183CB0D7EA23B9CAE12FB73316B224E13C8",
                       "Size":  396
                   },
                   {
@@ -7327,13 +7327,13 @@
                       "Size":  330
                   },
                   {
-                      "Path":  "Data/Items/core04_legacy_item_4cd0770ef8e9403088cab66f112dbbba.json",
-                      "Hash":  "03F8FA976FEFB0F8BEC47BC28981A7AE0FFC8F4D431C79088226B7FBBD2F0D51",
+                      "Path":  "Data/Items/core04_legacy_item_0cdb26356e8448ecbbe66f38d1530793.json",
+                      "Hash":  "E4413B776DFF30D251E65EF6B2DA877FBAD8352810988C73DC5833A1F55843F0",
                       "Size":  280
                   },
                   {
-                      "Path":  "Data/Items/core04_roundtrip_item_6493a34f4b86465e9025ee018dbaf796.json",
-                      "Hash":  "270181180BF1598180E2D01A4D530734AC0AE0A703F4A71B617356E9C0DE14F8",
+                      "Path":  "Data/Items/core04_roundtrip_item_87408c3ce111418b8e8a720d34fd41e8.json",
+                      "Hash":  "76F662E6FB7E21FE8E63213D31D0E6C37DE4B310AFB6957EC6D4F077E84DA3FE",
                       "Size":  1198
                   },
                   {
@@ -7787,13 +7787,13 @@
                       "Size":  353
                   },
                   {
-                      "Path":  "Data/Zones/core04_layer_zone_169507e9dc01479596693ee96009b0dd.json",
-                      "Hash":  "E2E64895075DE1B5FC4C7A0C8F5681D7A46C80A4C58F22CDA78DE3B205F291C0",
+                      "Path":  "Data/Zones/core04_layer_zone_0cc57a6a90c04b00bf5563f03c8f3d62.json",
+                      "Hash":  "0FF1F13F7F89828210ED20BB8FF31FB0DF9A05BB5FC897BED505450EF39895EF",
                       "Size":  1703
                   },
                   {
-                      "Path":  "Data/Zones/core04_legacy_zone_3338b24216fa4b83b29146574b580e13.json",
-                      "Hash":  "69681D6BFD266AAED2F01DEC85937B45BA61EC435E53DFAC2699B32421155B97",
+                      "Path":  "Data/Zones/core04_legacy_zone_c4ddb2eca9a44358b706113e83782968.json",
+                      "Hash":  "E6E9C1E67BF5A66067ADB04FA5EE21750BF27A1420DB881EF42EE75AC2BE9E4C",
                       "Size":  1792
                   },
                   {
@@ -7808,8 +7808,8 @@
                   },
                   {
                       "Path":  "Data/Zones/zone_outskirts.json",
-                      "Hash":  "C25B05426FB769618ACEA55C05552E36634A90B3CF1827074274E3C31355F99E",
-                      "Size":  560042
+                      "Hash":  "DEB6378810D49A3D6A89A7BABAC83FD7D5B629E0709589B90EE69CE62BBF93B1",
+                      "Size":  559984
                   },
                   {
                       "Path":  "de/Microsoft.VisualBasic.Forms.resources.dll",
@@ -8920,12 +8920,12 @@
                           },
                           {
                               "Path":  "FeverBorneLauncher.dll",
-                              "Hash":  "45F3B2341CF70E83F96EB3CC0C1A75FEC82B57FE592F2F651CB6926702DA7FFB",
+                              "Hash":  "7759F7E8D68D2C3782F4424912AB1C8CEE7A623BA29CD0807F7E6C4897FAD5E8",
                               "Size":  88064
                           },
                           {
                               "Path":  "FeverBorneLauncher.exe",
-                              "Hash":  "1B529B89F3322754E89560FD60F95471D3E1BDA8BFE998E4C03F414BA4612DCD",
+                              "Hash":  "F4D5E012182F578FC739E4D3EAF27B141F7010ABD72EF77FD41603848A4C13EA",
                               "Size":  159232
                           },
                           {
