@@ -1,10 +1,10 @@
 ﻿{
-    "Version":  "0.2.2-internal.20260422.192630",
+    "Version":  "0.2.2-internal.20260422.195208",
     "Environment":  "Internal",
-    "Timestamp":  "2026-04-22T14:26:30.5825843-05:00",
+    "Timestamp":  "2026-04-22T14:52:08.5272682-05:00",
     "FileCount":  470,
-    "PackageHashSha256":  "C07E82BBCD31E4B0510F70ABC9ABCC6B205F5442E8991B03DA299CC4470FEBFB",
-    "PackageSizeBytes":  46935910,
+    "PackageHashSha256":  "B5BA5FDEE9537FA6E2A26257C6B5C494DD2C085009109C5972BB218DD5CCDF57",
+    "PackageSizeBytes":  46937151,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,13 +58,13 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "769B56C25C4272A7FD8D809B7070283B5377A9A3F73011A1196E88BE6BB16598",
-                      "Size":  61952
+                      "Hash":  "137AC0CBC1C5FF4AF16C7422808C5124646B11D11DFC6CAAB5BC40EF8CB2B751",
+                      "Size":  63488
                   },
                   {
                       "Path":  "FeverBorne.Validation.pdb",
-                      "Hash":  "3977957543CEB016FBCCD216A6FFE4F9C656DF1D2D44F66D935B7FF9B1DFC0B5",
-                      "Size":  32348
+                      "Hash":  "BE6A027AE1B3E9C3630C01121F216FCEF770535E0F2E60C636F837E4B707F5F8",
+                      "Size":  33204
                   },
                   {
                       "Path":  "FeverBorneServer.deps.json",
@@ -73,12 +73,12 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "3F1EFF633972E6975B794F4FD6CD73EB75A5475BA274A40BBBEC05D9887458B9",
+                      "Hash":  "96D35CBD9DC5D7EDD55348765F822D190440C0FAD33C376F4315464BBB97DA13",
                       "Size":  471040
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "61C60682AF3A5AA5DB85A6AF5F53A0CE3C535D237E3ED019DB9DAEE00EED65DD",
+                      "Hash":  "4192237123040CCB016483DAEEBEC4B8046E9B6C28ED9827768E3783F3DB3208",
                       "Size":  158720
                   },
                   {
@@ -93,7 +93,7 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "090E91B8ECE5BDD3347F6967CBA2D3D47BD02862748DCEEAC661F838FF186552",
+                      "Hash":  "6073C98BBA39FBB3F59CE4FA227402B8983C0DB38463B23C79BB3AFB66CEAEFF",
                       "Size":  69632
                   },
                   {
@@ -2298,8 +2298,8 @@
                   },
                   {
                       "Path":  "Data/Zones/House.json",
-                      "Hash":  "1F7890D5439574707CA557DE562A2C57DD90ECAF039073757C05E0C5FAB3EDD4",
-                      "Size":  50855
+                      "Hash":  "9B24AE55393C48C8CE62E5A9D8FC080116B7569DE44512DA3C1B1DEA0D77A774",
+                      "Size":  50791
                   },
                   {
                       "Path":  "Data/Zones/zone_chapel_rise.json",
@@ -2313,8 +2313,8 @@
                   },
                   {
                       "Path":  "Data/Zones/zone_outskirts.json",
-                      "Hash":  "AC5E57E4B8C30402CD80CD78292CEBE4DD4B8B8582E70B0C9E69D0B3A24272ED",
-                      "Size":  10214010
+                      "Hash":  "B820AC15051BB4AE0001D7593033368D6226FA724D00526768EBB20BC564B2B3",
+                      "Size":  10213825
                   },
                   {
                       "Path":  "schemas/dungeon.schema.json",
@@ -2357,5 +2357,5 @@
                       "Size":  9927
                   }
               ],
-    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.2.2-internal.20260422.192630/server_update.zip"
+    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.2.2-internal.20260422.195208/server_update.zip"
 }
