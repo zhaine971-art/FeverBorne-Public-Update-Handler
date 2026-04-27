@@ -1,10 +1,10 @@
 ﻿{
-    "Version":  "0.2.2-internal.20260427.231807",
+    "Version":  "0.2.2-internal.20260427.233736",
     "Environment":  "Internal",
-    "Timestamp":  "2026-04-27T18:18:07.8678908-05:00",
-    "FileCount":  479,
-    "PackageHashSha256":  "8C951B7C779C57E00FC89EDC02588639E1769D4CCB28437D2992C3943B639C4D",
-    "PackageSizeBytes":  46949296,
+    "Timestamp":  "2026-04-27T18:37:36.4256460-05:00",
+    "FileCount":  480,
+    "PackageHashSha256":  "A81C1747578EBCB393FE3B9023FCDEEEC6BB24C02E8770DB6C5E8932D5DEA282",
+    "PackageSizeBytes":  46950002,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,7 +58,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "980544C5ED7FEE51B45689DD05C163E580B48760DD15B0A78177AC77E6E748DD",
+                      "Hash":  "DA845CA86DE57958A3DA403480A71066A8089D9BDAEB9345859E141FB28BAA9E",
                       "Size":  69632
                   },
                   {
@@ -73,12 +73,12 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "E64650709E4F7C3B5DBF927CA29D47457C1F5127B4864E1D57C7BCFCCCCC276C",
+                      "Hash":  "FF1C3B993F7BBDA76127798384A8F0614346BA622B4C8FC9B792C7ABA581B4DA",
                       "Size":  489472
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "BBD3C7251AC29F98179F84F0C437B306E55AE3BDFF22307D88D7144C2F371062",
+                      "Hash":  "E8066C1C9C1B1D24EF16ABBD7EE4BD06222A845157D8C7A68B5CD85F43E98ABC",
                       "Size":  158720
                   },
                   {
@@ -93,7 +93,7 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "29FD69A2E593D4DE4074F0CC6AEF04294199E3E7FF9DE5FA4B5ECE2D07DFE626",
+                      "Hash":  "7D72AA5FC6C32849D817C695E5EA57977FE9E85AC8FA6CB61272EF624803F53B",
                       "Size":  83456
                   },
                   {
@@ -1978,8 +1978,8 @@
                   },
                   {
                       "Path":  "Data/Npcs/OutskirtsNpc.json",
-                      "Hash":  "8E9BD740DE9A2F19486B79A2BFBCBEB13D859B3BC833372DBBBD50F64884A855",
-                      "Size":  238
+                      "Hash":  "12FD4387FA54B83799F11C1353F565D865C550B2B30A3AB4B58DDBB53F905FD8",
+                      "Size":  278
                   },
                   {
                       "Path":  "Data/Potions/body_perfect.json",
@@ -2332,6 +2332,11 @@
                       "Size":  1018
                   },
                   {
+                      "Path":  "Data/Quests/quest_test_01.json",
+                      "Hash":  "31DDD1DE18F7FC43507F9DB113605818E4396C15D875F77F10E177AEEAE3EE46",
+                      "Size":  1336
+                  },
+                  {
                       "Path":  "Data/Zones/House.json",
                       "Hash":  "3CD9FE4FD3A56EBA4D8659DFDB4925CAE669A961169F02795BE47F3F7A63CC3F",
                       "Size":  52881
@@ -2373,8 +2378,8 @@
                   },
                   {
                       "Path":  "schemas/npc.schema.json",
-                      "Hash":  "A9503ED55E495FF73B3547CB09AEC7D96BD9973D2F20C26CFACBF8DE5BFD0E32",
-                      "Size":  722
+                      "Hash":  "7A417C454EE7AE2F995AE4E06C2E7AC6C7E477CF3924C9C150B71AF254632EFB",
+                      "Size":  854
                   },
                   {
                       "Path":  "schemas/profession.schema.json",
@@ -2402,5 +2407,5 @@
                       "Size":  11408
                   }
               ],
-    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.2.2-internal.20260427.231807/server_update.zip"
+    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.2.2-internal.20260427.233736/server_update.zip"
 }
