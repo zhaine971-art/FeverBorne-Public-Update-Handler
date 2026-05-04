@@ -1,10 +1,10 @@
 ﻿{
     "Version":  "0.2.2",
     "Environment":  "Dev",
-    "Timestamp":  "2026-04-17T16:18:35.0138958-05:00",
-    "FileCount":  474,
-    "PackageHashSha256":  "B74E0ACC12A547E03AB6849515616F21C7B630EC6F6C5352641420D46E0619B4",
-    "PackageSizeBytes":  46684097,
+    "Timestamp":  "2026-05-04T13:11:52.7468446-05:00",
+    "FileCount":  487,
+    "PackageHashSha256":  "90537DC6AAFDB0A159FFF65C87DC80CED96F8A421C681139C953D45088462290",
+    "PackageSizeBytes":  46970287,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,33 +58,33 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "3CA5E8C65903BAEDE920192F99A17B0C9379CB80EFDB21EC57BDD4CB95E6300D",
-                      "Size":  59392
+                      "Hash":  "9067CB4858BBBFD21F1FB3B4F2AF76CD022D4F0D2969F2EFD8E6CFAD0C6AA24E",
+                      "Size":  69632
                   },
                   {
                       "Path":  "FeverBorne.Validation.pdb",
-                      "Hash":  "27EEFD4CCCF63669AE6CCA845B7A5EC0D9D5F527FC50C6827CE64D414359668E",
-                      "Size":  30876
+                      "Hash":  "DADC60550A3C342D7084B5AEFE199C610FA97878A50A8F5A85F40D030D93944D",
+                      "Size":  35060
                   },
                   {
                       "Path":  "FeverBorneServer.deps.json",
-                      "Hash":  "0081453D28E90CBFB4494900CB2FF813F719A684EA254AAAA160AA1BACABDA52",
+                      "Hash":  "4DFA7273590C00E6C7BC3FA88739CAE7BFACA91D5549C928DAD18F8E2E2F3B36",
                       "Size":  52834
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "4B5E64B35BF75825D6DB5CD454DF73256C4FD3DC870B69585AD4AADBE9F8A9FC",
-                      "Size":  471040
+                      "Hash":  "FCB5BFAA5A4F1EE0C79168738DD25727C6BD9FD3DB3A623E842D8742359EC054",
+                      "Size":  510976
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "6E2BEB4F801FAE788A54B6AA19DE182E5D1AC31E9D6C3C7E21D7FB798AD5897C",
+                      "Hash":  "6291EBDC9BA24A04C97B81DECFC90325D1706A1B4DA3CDCC4E9437F6A26E7543",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneServer.pdb",
-                      "Hash":  "36D7602C9FA937C24830E0DE4CBF40C4E1E89C39C7B5C235EBFAC69D343EC41A",
-                      "Size":  149060
+                      "Hash":  "492BE8A259BA31A4F2A484C0CFE64275EAFEED48A4F2B2DB50496C1682ED6B18",
+                      "Size":  162464
                   },
                   {
                       "Path":  "FeverBorneServer.runtimeconfig.json",
@@ -93,13 +93,13 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "65653F144A1D2B7A71A806C1C5618D21DACBBACE428DCE1578FBE21F19BAC4F0",
-                      "Size":  69632
+                      "Hash":  "78A4425FC261BD5D25CFCA61060F6BE20A87F6920452AE6BCEC8569DC2D6C0BD",
+                      "Size":  85504
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "269026089EE8B798979672FFDD6A6657173169DE363285D4AA11EB5E20BD3913",
-                      "Size":  34124
+                      "Hash":  "0B16A960767A101BD31A265A9BA5832ECCEFBF880C72AB3B2079C8374FCD331F",
+                      "Size":  40140
                   },
                   {
                       "Path":  "hostfxr.dll",
@@ -1728,8 +1728,8 @@
                   },
                   {
                       "Path":  "Data/StoryGraph.json",
-                      "Hash":  "222CF9527441F651436F2DAB44158DE0CF1A285A4EA9E14FEE890D2B1388AC0E",
-                      "Size":  7279
+                      "Hash":  "E9DB6C1C1576E04F5A3CB2258A76C1F88C2394B7E3D9E9190FD454AF51B4DB0E",
+                      "Size":  24471
                   },
                   {
                       "Path":  "Data/Chapters/chapter_001.json",
@@ -1742,11 +1742,6 @@
                       "Size":  519
                   },
                   {
-                      "Path":  "Data/Chapters/chapter_003.json",
-                      "Hash":  "C0366496D7860D32E3F37CAF6A980679B99E598E6B834B6A2DF2B1E9D3A2C97C",
-                      "Size":  386
-                  },
-                  {
                       "Path":  "Data/Chapters/MainStory/chapter_001.json",
                       "Hash":  "01CF3E8758F350A9052BAD99F21E148942EF2D33C37A9BBA9A8397A37E23FBE7",
                       "Size":  614
@@ -1755,11 +1750,6 @@
                       "Path":  "Data/Chapters/MainStory/chapter_010.json",
                       "Hash":  "66DCC839A1589C95BAD17A3D43890C2B31FEA1173A0DB33CF178904C0B5A3AD1",
                       "Size":  818
-                  },
-                  {
-                      "Path":  "Data/Chapters/MainStory/chapter_020.json",
-                      "Hash":  "4FDEDB5EDFDC97826891FCC3D5413A6468FEE9CC736D163FFFF696C0186483ED",
-                      "Size":  530
                   },
                   {
                       "Path":  "Data/Chapters/MainStory/chapter_030.json",
@@ -1783,7 +1773,7 @@
                   },
                   {
                       "Path":  "Data/Characters/character_visual_config.json",
-                      "Hash":  "1275D54BC5D0B61078773D636BFB968382882C9A1A712D2C45C0E788710818B0",
+                      "Hash":  "7C7B92AA45593CB737BE090AA0F09BD1EAE0216F08FFF1BDBEC3F87AD78DBF1F",
                       "Size":  1593
                   },
                   {
@@ -1822,6 +1812,26 @@
                       "Size":  927
                   },
                   {
+                      "Path":  "Data/Farming/Crops/crop_carrot.json",
+                      "Hash":  "8575F6DF77EBBF2D7A3C7F78C25FC0AADCBA7559875347784A20160FF14F4180",
+                      "Size":  874
+                  },
+                  {
+                      "Path":  "Data/Farming/Crops/crop_mooncap.json",
+                      "Hash":  "6AEE7CFB83A245B4DD42D5A24A0C354353CD94B0CA03BC06E53EA33DD5DA731E",
+                      "Size":  461
+                  },
+                  {
+                      "Path":  "Data/Farming/Plots/plot_community.json",
+                      "Hash":  "A3B9D886C2BB0F37B32787D430AB931E9B42C6DBF337A16492B8BA514CF6E3EE",
+                      "Size":  182
+                  },
+                  {
+                      "Path":  "Data/Farming/Plots/plot_small_public.json",
+                      "Hash":  "6492EF918D09960BC182CE4DD59E18F4EEDD7C490E7F9F845BAB6EE2FA5C4244",
+                      "Size":  191
+                  },
+                  {
                       "Path":  "Data/Herbs/herb_embermoss.json",
                       "Hash":  "F8287F6C1C393260DEB240DB00A6480A6C4262A591F8F9FBC55FD4DC5A0FFF81",
                       "Size":  321
@@ -1852,13 +1862,23 @@
                       "Size":  330
                   },
                   {
-                      "Path":  "Data/Items/core04_legacy_item_4cd0770ef8e9403088cab66f112dbbba.json",
-                      "Hash":  "03F8FA976FEFB0F8BEC47BC28981A7AE0FFC8F4D431C79088226B7FBBD2F0D51",
+                      "Path":  "Data/Items/Carrot.json",
+                      "Hash":  "E7270F950C9765E76B47D38BFDE58EF2D7531D644AA7387AC2409EA6C31126CF",
+                      "Size":  426
+                  },
+                  {
+                      "Path":  "Data/Items/Carrot_Seed.json",
+                      "Hash":  "C738102FFF646ABCD2AB7214189C41DFDE9BBE7539813D36EC74CE426662F9F8",
+                      "Size":  457
+                  },
+                  {
+                      "Path":  "Data/Items/core04_legacy_item_410e26b2de334e9b9c23c94667c17230.json",
+                      "Hash":  "7C54B9BA0CE95F7D160E1877238C9C1D08BC7394B9F4EA630CB2DA0D961CA475",
                       "Size":  280
                   },
                   {
-                      "Path":  "Data/Items/core04_roundtrip_item_6493a34f4b86465e9025ee018dbaf796.json",
-                      "Hash":  "270181180BF1598180E2D01A4D530734AC0AE0A703F4A71B617356E9C0DE14F8",
+                      "Path":  "Data/Items/core04_roundtrip_item_203dc8e65c8e4a2797b3441a03f5fee4.json",
+                      "Hash":  "7A1E9E98A169146BD7FD439F1D77A9EDE6CC20933E9405B39E5DD51F9E25DBDC",
                       "Size":  1198
                   },
                   {
@@ -1958,8 +1978,13 @@
                   },
                   {
                       "Path":  "Data/Merchants/General Merchant Outskirts.json",
-                      "Hash":  "EBB87B8FEEF55ED89D4A73DF8C748701340FC11178DD1A845DA01B209614B863",
-                      "Size":  529
+                      "Hash":  "9181F5FACDCAF78E18B07111AC237ED9A28C28438A9EFC665EF67D435B3A51C9",
+                      "Size":  549
+                  },
+                  {
+                      "Path":  "Data/Npcs/OutskirtsNpc.json",
+                      "Hash":  "6692AC5C537251196343B219D0F57EA9BDF4F3265B284347C45E15B3C4B33AF8",
+                      "Size":  736
                   },
                   {
                       "Path":  "Data/Potions/body_perfect.json",
@@ -2307,34 +2332,64 @@
                       "Size":  437
                   },
                   {
+                      "Path":  "Data/Quests/Farming Request.json",
+                      "Hash":  "7AE805DC335612F9D94BB7F48E9F647C84EB6F6D097FB7602AC993AE1F0F3F76",
+                      "Size":  1696
+                  },
+                  {
                       "Path":  "Data/Quests/quest_first_brew.json",
-                      "Hash":  "630DD50533EA62FF3255DE9B5D50B9AC2518369596DE136B5EB6DE0329166CB3",
-                      "Size":  353
-                  },
-                  {
-                      "Path":  "Data/Zones/core04_layer_zone_169507e9dc01479596693ee96009b0dd.json",
-                      "Hash":  "E2E64895075DE1B5FC4C7A0C8F5681D7A46C80A4C58F22CDA78DE3B205F291C0",
-                      "Size":  1703
-                  },
-                  {
-                      "Path":  "Data/Zones/core04_legacy_zone_3338b24216fa4b83b29146574b580e13.json",
-                      "Hash":  "69681D6BFD266AAED2F01DEC85937B45BA61EC435E53DFAC2699B32421155B97",
+                      "Hash":  "E9AAD8DE607BD3942D7172D8FA4A0F2B23A9591A59029F6423291C935B18CDEF",
                       "Size":  1792
                   },
                   {
+                      "Path":  "Data/Quests/quest_first_brew2.json",
+                      "Hash":  "80EF3F5B2DD72AF09682871CAF55870C59B7A06EF1A52E2B36753DDE0A1C1D53",
+                      "Size":  1865
+                  },
+                  {
+                      "Path":  "Data/Quests/quest_test_01.json",
+                      "Hash":  "B0CB32EC4D4A06C3001362D445074C3E6BABEA0C5B2A6554DBDDC81F80888991",
+                      "Size":  1448
+                  },
+                  {
+                      "Path":  "Data/Quests/quest_test_02.json",
+                      "Hash":  "8F70DAD521F0FE57D43655D9E7D64D67B79D594D7D3FD301FAA8CEE00BA755D7",
+                      "Size":  1373
+                  },
+                  {
+                      "Path":  "Data/Zones/core04_layer_zone_5110db1e9ad64b3780b6f7d2e8647210.json",
+                      "Hash":  "84BCE6C59E80BC5D7F50FA325FDA25C50AC8EAAE9A395AF442729327B0A5D9B5",
+                      "Size":  3019
+                  },
+                  {
+                      "Path":  "Data/Zones/core04_legacy_zone_73e7aeaa4dcb4ba896506b3b7b36f7a1.json",
+                      "Hash":  "1699B472B44E1101085FA3BF82F58EE8250BFD6C145F60793D2CE168E5763265",
+                      "Size":  1792
+                  },
+                  {
+                      "Path":  "Data/Zones/core04_npc_facing_zone_aed2f957cb1442f784e5780bb8092d44.json",
+                      "Hash":  "8C925B961A463D78D6E3AE986D3FA6CF214B439D6422EDFBF729ED626B07343E",
+                      "Size":  1633
+                  },
+                  {
+                      "Path":  "Data/Zones/House.json",
+                      "Hash":  "3CD9FE4FD3A56EBA4D8659DFDB4925CAE669A961169F02795BE47F3F7A63CC3F",
+                      "Size":  52881
+                  },
+                  {
                       "Path":  "Data/Zones/zone_chapel_rise.json",
-                      "Hash":  "67A3118944A987B4FA7D18E7C1E9F8D36294F609D952EA45E7F86FA7C951AE6E",
-                      "Size":  5588
+                      "Hash":  "ED8E11E39023C56689513A7D76428FCD1FA555995F027E532BB0BF4D45993E76",
+                      "Size":  10855
                   },
                   {
                       "Path":  "Data/Zones/zone_drowned_marsh.json",
-                      "Hash":  "C802B8F513A8060734AB603B2E1A8D0C62A396225204A6925C7EDBFEAA9313FA",
-                      "Size":  5543
+                      "Hash":  "E1EFF46B1DB5C297F299B4A0F7314E34922CF373594112758910A082C0F1D298",
+                      "Size":  10810
                   },
                   {
                       "Path":  "Data/Zones/zone_outskirts.json",
-                      "Hash":  "C25B05426FB769618ACEA55C05552E36634A90B3CF1827074274E3C31355F99E",
-                      "Size":  560042
+                      "Hash":  "451A984867D65AB51CF7DB0F4DEFC32103F8A1B42758A8E1CCE316DFEF4F82AD",
+                      "Size":  9915490
                   },
                   {
                       "Path":  "schemas/dungeon.schema.json",
@@ -2342,14 +2397,24 @@
                       "Size":  4262
                   },
                   {
+                      "Path":  "schemas/farming_crop.schema.json",
+                      "Hash":  "86C59F139ACEEBEBC7A35BEE92379AFC77D8608277722F98C8F5ABA04754530E",
+                      "Size":  1792
+                  },
+                  {
+                      "Path":  "schemas/farming_plot.schema.json",
+                      "Hash":  "F54F00B49A4D94F503002EE56CA361F372A1C23254EB03ED79B6019B1D509638",
+                      "Size":  859
+                  },
+                  {
                       "Path":  "schemas/item.schema.json",
-                      "Hash":  "5097EA0B7060B421ACC5A5CE05314C0697288D0239EDAA95117A6CE1275B6A84",
-                      "Size":  3838
+                      "Hash":  "B21E37AFDD3D1A168F515BFDD162D261CBFFACD870DA73676B1EE8A7ECD76D00",
+                      "Size":  3846
                   },
                   {
                       "Path":  "schemas/npc.schema.json",
-                      "Hash":  "A9503ED55E495FF73B3547CB09AEC7D96BD9973D2F20C26CFACBF8DE5BFD0E32",
-                      "Size":  722
+                      "Hash":  "8EE4E3F7AC419A8251D000E1B767B8A16FC6FF6C4A884B30C903B57DF510AE52",
+                      "Size":  1425
                   },
                   {
                       "Path":  "schemas/profession.schema.json",
@@ -2358,8 +2423,8 @@
                   },
                   {
                       "Path":  "schemas/quest.schema.json",
-                      "Hash":  "0548D62BFC2BA00E94921E435A20295D6EEF582BB91E2EBF8B6D4BB09313782E",
-                      "Size":  910
+                      "Hash":  "8AB6A0ED04220C0D3CEEB4431BC7AA8A9CEF57B5EA42F6482BD17CA4A0E38540",
+                      "Size":  6042
                   },
                   {
                       "Path":  "schemas/shared.definitions.json",
@@ -2373,8 +2438,8 @@
                   },
                   {
                       "Path":  "schemas/tilemap.schema.json",
-                      "Hash":  "27210FBEDA109A3639BC26120D00462B61C47837E1651019467EFA44DA03073D",
-                      "Size":  9708
+                      "Hash":  "62E8940880548907DB48FB91313C5B5463552085BA9048FB4B30F4AB4E5B5213",
+                      "Size":  11640
                   }
               ],
     "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-dev-v0.2.2/server_update.zip"
