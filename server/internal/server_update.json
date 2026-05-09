@@ -1,10 +1,10 @@
 ﻿{
-    "Version":  "0.2.2-internal.20260509.000816",
+    "Version":  "0.2.2-internal.20260509.194244",
     "Environment":  "Internal",
-    "Timestamp":  "2026-05-08T19:08:16.9693115-05:00",
+    "Timestamp":  "2026-05-09T14:42:44.0085048-05:00",
     "FileCount":  485,
-    "PackageHashSha256":  "3EE08086E1BAB2E7BA27DB2373AABD7F121B1CB9088D436125ED130640DFE795",
-    "PackageSizeBytes":  47016307,
+    "PackageHashSha256":  "D9C84A1D6094BE790D4BD6BA4934739DE89040DCE6310FB3FB6AB328D6FBEFFF",
+    "PackageSizeBytes":  47016388,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,7 +58,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "F13702D236FF472521DBB5759999E86D0FB3159B3DF95004B8E80DD8032F5243",
+                      "Hash":  "4DA22B683EFB60A8D06D48473D8CDC640514462597A623A75FA6B4FA7ABD32C9",
                       "Size":  93696
                   },
                   {
@@ -73,18 +73,18 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "892C0DC420C6860572AADB445BB464C37D4B6A6481DCDEF41C072DB6E936DFE5",
+                      "Hash":  "003785E5A69FEE28348AE13870E83C5F02FD931EFCB73509FF7C887DEE7CCB11",
                       "Size":  586752
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "42A6D989808F6F75B9590F3E8AC05C47446E02CC246F97BCCF0C0596A707F061",
+                      "Hash":  "277879CCDC8C1978CD0967B4C92BF292AF2EC8B5CF4888823BF882DA2E628928",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneServer.pdb",
-                      "Hash":  "203D72EA27CDD79FDAD74E8443F72FB533366ADC90D08969FB47861F901120FD",
-                      "Size":  177924
+                      "Hash":  "CF7F316654C1411870ED6CE643B41D25E200CB00901B94E4790FAD18C4FE281E",
+                      "Size":  177968
                   },
                   {
                       "Path":  "FeverBorneServer.runtimeconfig.json",
@@ -93,7 +93,7 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "4EF91676EB93563452E11CC3A6231273CF443620059A53168F1E005A03413CB8",
+                      "Hash":  "D4D4A90CA593C4861EF3898741E15CF717D909F2B84B5CBE07F0B4FBACC8702D",
                       "Size":  97792
                   },
                   {
@@ -2432,5 +2432,5 @@
                       "Size":  11640
                   }
               ],
-    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.2.2-internal.20260509.000816/server_update.zip"
+    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.2.2-internal.20260509.194244/server_update.zip"
 }
