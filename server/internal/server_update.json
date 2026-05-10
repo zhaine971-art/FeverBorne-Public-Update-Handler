@@ -1,10 +1,10 @@
 ﻿{
-    "Version":  "0.2.2-internal.20260509.205816",
+    "Version":  "0.2.2-internal.20260510.000809",
     "Environment":  "Internal",
-    "Timestamp":  "2026-05-09T15:58:16.4875355-05:00",
+    "Timestamp":  "2026-05-09T19:08:09.9192591-05:00",
     "FileCount":  485,
-    "PackageHashSha256":  "C7A07B8AEE70914CAAA24E42C8359B81BDF3B730FEB052DC4D17F3612CAAB75C",
-    "PackageSizeBytes":  47018875,
+    "PackageHashSha256":  "0CFACDF18CE15A8015133E905F97792ACC5CDC7BF6FDC3A06AA8809EDAB2D632",
+    "PackageSizeBytes":  47026319,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,7 +58,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "F3DCD342C90C02704D9BEA7A576D7EA57DD7C0B132F64CD425807BA6C3697C0A",
+                      "Hash":  "C354521D660011208EA42BAB705F6A1B41EB49B4ED42FCB212A8ADF9B9EA793B",
                       "Size":  93696
                   },
                   {
@@ -73,18 +73,18 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "15E85036C81F25ED4950595F6721E957EB56ADE677174B266CC8100937F3D21A",
-                      "Size":  593408
+                      "Hash":  "27E210437B94D6D7B08BE962C0F88191F416704ADC6563F0F6038EC813299806",
+                      "Size":  606720
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "C6CDA397166D9F3E11553B15F6DC56A2461A5585D173D305B920D6234E9B82D2",
+                      "Hash":  "F72175E0A6309262931FAFA3C3D2D51A889B9A389D34529EB6F9B777C4A7F92F",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneServer.pdb",
-                      "Hash":  "0E6D647393BAD1DA1DD265B1ECD7C5A561EC44CF69007E39888863E0D7DEDD08",
-                      "Size":  178736
+                      "Hash":  "529A3FA3D5EADA9984AD2062AE4AF75681E2CD3BFBB309018588F375FED11C42",
+                      "Size":  183444
                   },
                   {
                       "Path":  "FeverBorneServer.runtimeconfig.json",
@@ -93,13 +93,13 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "DB298838BC79A8D28D446107301D6622D276EE67A845C89D67549CE96F0D6813",
-                      "Size":  97792
+                      "Hash":  "0CAC349F0848D70846B275153C78BA64FD7EFE76F7DA0E89B26DAFE8F943BA72",
+                      "Size":  98816
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "55516A9F1F755105C65B4CBC50EBA3DE9B4E137E5A8E0F0793F0B5986DB3F757",
-                      "Size":  44440
+                      "Hash":  "B93BCA3572FA5224A164AE31870E1C1340F6AC4E1BC29C4E0A4DCBCC5BC92235",
+                      "Size":  44784
                   },
                   {
                       "Path":  "hostfxr.dll",
@@ -2373,8 +2373,8 @@
                   },
                   {
                       "Path":  "Data/Zones/zone_outskirts.json",
-                      "Hash":  "EB7F4BD9040B7A0DEF30564EE829650B41FA30F4E12E9CD04654E238DBDA92DC",
-                      "Size":  9916075
+                      "Hash":  "EB78BBA9E49D6AAC9B73E74278CEA7756CA011831A709EB2C28570F0604F2BDA",
+                      "Size":  9916252
                   },
                   {
                       "Path":  "schemas/combat_timing_pattern.schema.json",
@@ -2432,5 +2432,5 @@
                       "Size":  11640
                   }
               ],
-    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.2.2-internal.20260509.205816/server_update.zip"
+    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.2.2-internal.20260510.000809/server_update.zip"
 }
