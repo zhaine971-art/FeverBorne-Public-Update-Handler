@@ -1,10 +1,10 @@
 ﻿{
-    "Version":  "0.1.6.1-internal.20260511.141533",
+    "Version":  "0.1.6.1-internal.20260511.145146",
     "Environment":  "Internal",
-    "Timestamp":  "2026-05-11T09:15:33.7714069-05:00",
+    "Timestamp":  "2026-05-11T09:51:46.3585504-05:00",
     "FileCount":  485,
-    "PackageHashSha256":  "78D06A484A0791CDA3148EBD678D5484C320842554606A1D92A11CBF79971FDF",
-    "PackageSizeBytes":  47039307,
+    "PackageHashSha256":  "1A3F03916177EACE814FA4FF22E0C78EE9004F36FE26BE98DE25F1BFF36CDB77",
+    "PackageSizeBytes":  47041215,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,7 +58,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "F9D868A6FF65617F20E00AFD4713B34AC1617641D1CF67D2B5836025FF83DC3B",
+                      "Hash":  "5D27633D0FF42907B1E8F112F2E4D91990A0F027272CB3E1C185EB4D8336DC67",
                       "Size":  93696
                   },
                   {
@@ -73,18 +73,18 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "6088C9CB3A56C594B5AADB4BE36B937B0794D4F6E90D472B823FF3321BC6AD98",
-                      "Size":  626176
+                      "Hash":  "47DF81C314C040FCBD0EBF0249E0EE615314621346513752BBCB97E381780D1C",
+                      "Size":  627712
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "25723EC719755E6AD446EA68143D46CE7D213FF68091D95D2ACABA7B0E750A18",
+                      "Hash":  "3057F86B31282A4821493CDD4E578B15AE2FB7B48D57CE538D7F91DC1B0D2761",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneServer.pdb",
-                      "Hash":  "83A0F3C65406D1E1C58D1731CBCBA97A40DEFB1D793F7F5CBE60EDB1090ABC12",
-                      "Size":  189396
+                      "Hash":  "1E8F5C1746D39B29F0D27B7E4DAD77673BC8DA21073FBDA48AE2548334C9E874",
+                      "Size":  189656
                   },
                   {
                       "Path":  "FeverBorneServer.runtimeconfig.json",
@@ -93,13 +93,13 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "3F30B9C8B761FCE23BDAC837F95E06D4FA6E6A847D69FE2C392BBA0FB497ACD7",
-                      "Size":  104448
+                      "Hash":  "9763F6706A7A555F0A09AC405C61D328DED84A0AB40FA009F49F2F081C558432",
+                      "Size":  107008
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "F016A9A783C1D86E49252F5E18DB4D9866F2019496A0EB3B8D89EC0B7062BAF3",
-                      "Size":  46616
+                      "Hash":  "EB523D9EDBACBC55B9E2AA486B68DD103E74C0C9150AD9FA4BF6C4B8C44D5EC2",
+                      "Size":  47436
                   },
                   {
                       "Path":  "hostfxr.dll",
@@ -2033,18 +2033,18 @@
                   },
                   {
                       "Path":  "Data/Potions/potion_blight_bomb.json",
-                      "Hash":  "78BB22C76321A3BF38EF1FB0130537CCF87080B20662619B3B0E9755D0AD7618",
-                      "Size":  464
+                      "Hash":  "17164706AA7E597E3802C1778DE613E523ADEBFB62B49A87E45CBB83555E837C",
+                      "Size":  499
                   },
                   {
                       "Path":  "Data/Potions/potion_blight_bomb_perfect.json",
-                      "Hash":  "71735772304ED30AD19926113D0244FE9F3A5F8F29206E9B43F287145C631A23",
-                      "Size":  492
+                      "Hash":  "7110BC62DB926D007A83173F7B61E061480548B8927887D3FCD34FCD415B2EE7",
+                      "Size":  527
                   },
                   {
                       "Path":  "Data/Potions/potion_blight_bomb_weak.json",
-                      "Hash":  "D25BFA4DCA6B4F265F53EE681A8B20C5EBE6CF85A3884D94C36AFAE930C9AD20",
-                      "Size":  475
+                      "Hash":  "5D041A6EB17740B579C1B1C0747B766278328C012337B07628E764A860A144A8",
+                      "Size":  516
                   },
                   {
                       "Path":  "Data/Potions/potion_ember_coat.json",
@@ -2432,5 +2432,5 @@
                       "Size":  11640
                   }
               ],
-    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.1.6.1-internal.20260511.141533/server_update.zip"
+    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.1.6.1-internal.20260511.145146/server_update.zip"
 }
