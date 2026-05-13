@@ -1,10 +1,10 @@
 ﻿{
-    "Version":  "0.1.6.1-internal.20260513.121255",
+    "Version":  "0.1.6.1-internal.20260513.131308",
     "Environment":  "Internal",
-    "Timestamp":  "2026-05-13T07:12:55.2887820-05:00",
+    "Timestamp":  "2026-05-13T08:13:08.3910046-05:00",
     "FileCount":  499,
-    "PackageHashSha256":  "D7AAAE4FE0C2C7FA0CD64047D3BA040AB4B9F2A8585DB9E5ECFA0E9460AC1D04",
-    "PackageSizeBytes":  47076702,
+    "PackageHashSha256":  "34FF3CB9BE53A9D8661F2D348223D6BB0C5A6815889FE61767D6A7BF8ABF6AF7",
+    "PackageSizeBytes":  47077793,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,7 +58,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "4965278C8A891E052AC9F494BAAA5522AAB2EA57BCC43B7ABF5CEC5C089DE880",
+                      "Hash":  "AC4B62D568B4E57EF50EFCBE4B7F7B1C16DE0E862E51B74162157A5CFDBE7279",
                       "Size":  93696
                   },
                   {
@@ -73,18 +73,18 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "17A262A376FE76343302C2EAFFC938AEABB1C9FC52168E4321DCCC3D4D2938FB",
-                      "Size":  678400
+                      "Hash":  "69B236550DC80D38BE1D0465CE3B80738E1CBBF2A5AF967D3E7902B889EA9F6C",
+                      "Size":  680448
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "347B64F373775FC0CB182286CC5413C8E07BE8F9BBD2AD24946B3817768E49C7",
+                      "Hash":  "C150298933BD4BF5B3E27E6CB890E81FE770B8342446B77339A8EECCCD4B6BE5",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneServer.pdb",
-                      "Hash":  "6DF6FA3A48CC1C5EF05A1D5DFC0B5824512CDC406ED23963288115F647AA6586",
-                      "Size":  205432
+                      "Hash":  "511519BC854276BC27A5CF483B18C8D15894321C718A70EE00D4AF0A9E504DD8",
+                      "Size":  205960
                   },
                   {
                       "Path":  "FeverBorneServer.runtimeconfig.json",
@@ -93,13 +93,13 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "3DBC3EA667572268EF67995A5FD53274F1605C746DB0A4805F9E71DAC1D54A80",
-                      "Size":  112128
+                      "Hash":  "77492E1EAF95BC6291D9DAC77D79F142F3C5FF7ABDCC6B16CEFE793F4F7B2B32",
+                      "Size":  112640
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "4B0620905714001C8570ACAC41168F0228861D493066ED43D60B0E50844C6042",
-                      "Size":  48580
+                      "Hash":  "BFA628C992F320AE2C4986A1F25BF5CA13623D7DF3AF817A23A3C165BF1564D3",
+                      "Size":  48696
                   },
                   {
                       "Path":  "hostfxr.dll",
@@ -2018,8 +2018,8 @@
                   },
                   {
                       "Path":  "Data/Merchants/General Merchant Outskirts.json",
-                      "Hash":  "0A3690B896D190FB01854324268D548A4111FE05CC1896E2E3B31D97D130B4F8",
-                      "Size":  654
+                      "Hash":  "98825A9C502D56E57DEB92FF5AEA412E2631B4B11CEE1B8BA8E6459DE9ECCC63",
+                      "Size":  1048
                   },
                   {
                       "Path":  "Data/Npcs/OutskirtsNpc.json",
@@ -2502,5 +2502,5 @@
                       "Size":  11640
                   }
               ],
-    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.1.6.1-internal.20260513.121255/server_update.zip"
+    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.1.6.1-internal.20260513.131308/server_update.zip"
 }
