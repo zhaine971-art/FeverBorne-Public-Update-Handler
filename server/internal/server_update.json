@@ -1,10 +1,10 @@
 ﻿{
-    "Version":  "0.1.6.1-internal.20260512.233729",
+    "Version":  "0.1.6.1-internal.20260513.121255",
     "Environment":  "Internal",
-    "Timestamp":  "2026-05-12T18:37:29.3483245-05:00",
-    "FileCount":  488,
-    "PackageHashSha256":  "36DE0C4FE81420FF18C13B7B6B8AD28904429510CA4C9E8060EDE151D780FFFF",
-    "PackageSizeBytes":  47057714,
+    "Timestamp":  "2026-05-13T07:12:55.2887820-05:00",
+    "FileCount":  499,
+    "PackageHashSha256":  "D7AAAE4FE0C2C7FA0CD64047D3BA040AB4B9F2A8585DB9E5ECFA0E9460AC1D04",
+    "PackageSizeBytes":  47076702,
     "Files":  [
                   {
                       "Path":  "appsettings.Dev.json",
@@ -58,7 +58,7 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "7B3D6FD3B625682E434EEB02573973695C148F0155EA4652AD65864793078127",
+                      "Hash":  "4965278C8A891E052AC9F494BAAA5522AAB2EA57BCC43B7ABF5CEC5C089DE880",
                       "Size":  93696
                   },
                   {
@@ -73,18 +73,18 @@
                   },
                   {
                       "Path":  "FeverBorneServer.dll",
-                      "Hash":  "D0F702E778FC64F73705E3FB8062F9FB2AF65E030C03A5B9454A3CBF990EFE1B",
-                      "Size":  650240
+                      "Hash":  "17A262A376FE76343302C2EAFFC938AEABB1C9FC52168E4321DCCC3D4D2938FB",
+                      "Size":  678400
                   },
                   {
                       "Path":  "FeverBorneServer.exe",
-                      "Hash":  "F33A38DEC801BB390209879692295E91B6F67AC1FC2F98738064BC4978C9497D",
+                      "Hash":  "347B64F373775FC0CB182286CC5413C8E07BE8F9BBD2AD24946B3817768E49C7",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneServer.pdb",
-                      "Hash":  "8AB51227EE583EC427C3DD1F5B603ECC52180481E0AC46AD4918B4F8434268A6",
-                      "Size":  196064
+                      "Hash":  "6DF6FA3A48CC1C5EF05A1D5DFC0B5824512CDC406ED23963288115F647AA6586",
+                      "Size":  205432
                   },
                   {
                       "Path":  "FeverBorneServer.runtimeconfig.json",
@@ -93,13 +93,13 @@
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "9C05A7AE259AE659C12C31AC50AA5A97742A01C448EB5EBBC32E15DF8B5729BC",
-                      "Size":  111616
+                      "Hash":  "3DBC3EA667572268EF67995A5FD53274F1605C746DB0A4805F9E71DAC1D54A80",
+                      "Size":  112128
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "615589614CA94FEBB4BC9A9C2E2ED1A8F78D846EF1B45362E4CDBDD318B021D8",
-                      "Size":  48364
+                      "Hash":  "4B0620905714001C8570ACAC41168F0228861D493066ED43D60B0E50844C6042",
+                      "Size":  48580
                   },
                   {
                       "Path":  "hostfxr.dll",
@@ -1867,19 +1867,59 @@
                       "Size":  457
                   },
                   {
+                      "Path":  "Data/Items/item_blackthorn_fang.json",
+                      "Hash":  "F008AD3E5E14E0A8873B9F0CE072D49AC66878A5FCB3802D9156954E518FA083",
+                      "Size":  596
+                  },
+                  {
+                      "Path":  "Data/Items/item_blackthorn_jerkin.json",
+                      "Hash":  "8E67D4E590171E0C319D96755C639CF82F86539A25445F0F77FBFD691B1E9AA6",
+                      "Size":  688
+                  },
+                  {
+                      "Path":  "Data/Items/item_blackthorn_loop.json",
+                      "Hash":  "C37CBC0227851B8A1863FE1418F7EFE84F6E721879AFE4FF95AB66B0920FCB6A",
+                      "Size":  591
+                  },
+                  {
+                      "Path":  "Data/Items/item_blackthorn_treads.json",
+                      "Hash":  "084C068A9A1132BD78DA98FFB3E99DEBD531113A62E1E69643A3E7DC6D2A4F05",
+                      "Size":  629
+                  },
+                  {
                       "Path":  "Data/Items/item_chapel_token.json",
                       "Hash":  "91AA07764485013F3E8E953841C81AE6D5529CE1D58C698B95E00B081968E2A1",
                       "Size":  274
                   },
                   {
                       "Path":  "Data/Items/item_fevered_ring.json",
-                      "Hash":  "5DAB78D72899EE8B0EC3AC48F411650E7868316E7B81BF1AA020617F16C79DC0",
-                      "Size":  396
+                      "Hash":  "6D056DEC1622495255FF5167F36D111F7EB0EC376180E4FD8861EBF09D07EE76",
+                      "Size":  414
                   },
                   {
                       "Path":  "Data/Items/item_field_bandage.json",
                       "Hash":  "E4F92252D667D790DD082DEB01AA60FA80454859A5ACE0F4C311ADCE873D8D62",
                       "Size":  290
+                  },
+                  {
+                      "Path":  "Data/Items/item_graveshroud_greatplate.json",
+                      "Hash":  "7F1C4BEC79A5B76C083E836A29D41D6DEFB4839FC7931F7049D35C91CEF2545B",
+                      "Size":  651
+                  },
+                  {
+                      "Path":  "Data/Items/item_graveshroud_mace.json",
+                      "Hash":  "CFE35908CBEC4D012BDC03763564ECCEF057A7DFA8951128751D3103B839D418",
+                      "Size":  642
+                  },
+                  {
+                      "Path":  "Data/Items/item_graveshroud_signet.json",
+                      "Hash":  "BDF4EEA8FE02A27257B582BE15AB99FE56735154CB6FF21CB1C5741BDDCE54B9",
+                      "Size":  481
+                  },
+                  {
+                      "Path":  "Data/Items/item_graveshroud_torc.json",
+                      "Hash":  "334BED2D210B0CDD9C6DA55B27A425A99A470CFBB80A0CF72732F3E7F46E52EC",
+                      "Size":  645
                   },
                   {
                       "Path":  "Data/Items/item_healing_draught.json",
@@ -1895,6 +1935,21 @@
                       "Path":  "Data/Items/item_miasma_amulet.json",
                       "Hash":  "F88247D6EF346923DBBF0E14E60DB7E5E8103CBC9EC8A619B8E4B9126F9D96CA",
                       "Size":  411
+                  },
+                  {
+                      "Path":  "Data/Items/item_morrowveil_band.json",
+                      "Hash":  "2CD90F64B3CA272C9AFACE9492B387F02CBF7DD1AC1EE12CB8B8864A3485D330",
+                      "Size":  612
+                  },
+                  {
+                      "Path":  "Data/Items/item_morrowveil_censer.json",
+                      "Hash":  "618629A171FDD37C027F66184591560F72FE3623D64234760CCC31F96CCB65E8",
+                      "Size":  626
+                  },
+                  {
+                      "Path":  "Data/Items/item_morrowveil_robes.json",
+                      "Hash":  "B0A5425CE8D75C93FF614FD5FC864CE5FEC0582826031F15E2E738921360F948",
+                      "Size":  739
                   },
                   {
                       "Path":  "Data/Items/item_plague_censer_staff.json",
@@ -1913,8 +1968,8 @@
                   },
                   {
                       "Path":  "Data/Items/item_plague_scalpel.json",
-                      "Hash":  "56D8451622A9B3BA73544ED69EAF9F69693440CDB68D3FE66FF8328BF6DE7051",
-                      "Size":  1038
+                      "Hash":  "D881B71858ED4785CE2BD549FDC0707AECC5E0C8C1C406DA82074EEB645A0035",
+                      "Size":  1031
                   },
                   {
                       "Path":  "Data/Items/item_rustfang_knife.json",
@@ -2447,5 +2502,5 @@
                       "Size":  11640
                   }
               ],
-    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.1.6.1-internal.20260512.233729/server_update.zip"
+    "ZipUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/server-internal-v0.1.6.1-internal.20260513.121255/server_update.zip"
 }
