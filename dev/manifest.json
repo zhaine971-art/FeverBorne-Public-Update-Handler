@@ -1,10 +1,10 @@
 {
-    "Version":  "2026.04.29-cleanup",
+    "Version":  "0.2.1",
     "MinLauncherVersion":  "1.0.0",
-    "PatchUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/dev-v2026.04.29-cleanup/patch.zip",
-    "GeneratedAtUtc":  "2026-05-04T18:08:52.5964640Z",
-    "PackageHashSha256":  "2349B74A8A21A097309447EB8548F082666FF58FAA133A7A463CCBB902A8D810",
-    "PackageSizeBytes":  193190465,
+    "PatchUrl":  "https://github.com/zhaine971-art/FeverBorne-Public-Update-Handler/releases/download/dev-v0.2.1/patch.zip",
+    "GeneratedAtUtc":  "2026-05-14T00:56:35.0838277Z",
+    "PackageHashSha256":  "57DB5BB0E762CC84E2593009B4590739957C6C542A230E36761239017D77BC5C",
+    "PackageSizeBytes":  193473120,
     "Files":  [
                   {
                       "Path":  "Accessibility.dll",
@@ -48,43 +48,43 @@
                   },
                   {
                       "Path":  "FeverBorne.Validation.dll",
-                      "Hash":  "6BC3961D49367561C2984401C3D2CDE06616C50F0CB451D106A8204783052C06",
-                      "Size":  69632
+                      "Hash":  "A727F973B0167B9CFAA3209D754785A3C37F0B929EFBD031496ABA4889BDAB66",
+                      "Size":  93696
                   },
                   {
                       "Path":  "FeverBorne.Validation.pdb",
-                      "Hash":  "DADC60550A3C342D7084B5AEFE199C610FA97878A50A8F5A85F40D030D93944D",
-                      "Size":  35060
+                      "Hash":  "A066F3F23A96112099A3D1785C7F546E60C8C394C48012E1E8B4D7FCDE706C34",
+                      "Size":  41988
                   },
                   {
                       "Path":  "FeverBorneShared.dll",
-                      "Hash":  "800187E2C63C2E7B91236220AC65327350C7770F0A84D26BFC204280776C93B7",
-                      "Size":  85504
+                      "Hash":  "F06B3544FECFEF542A945893DD47D2636A972CFE9084DFAE82BFFB6700FA9259",
+                      "Size":  112640
                   },
                   {
                       "Path":  "FeverBorneShared.pdb",
-                      "Hash":  "0B16A960767A101BD31A265A9BA5832ECCEFBF880C72AB3B2079C8374FCD331F",
-                      "Size":  40140
+                      "Hash":  "8954B500087E5FCCCE7DC8713B3DE043BF07DE2EA2A4BA4F0ED5B6DF1CADD2CC",
+                      "Size":  48700
                   },
                   {
                       "Path":  "FeverBorneTextRPG.deps.json",
-                      "Hash":  "FD9EE1BAEE6769CF3716E1D441EE23B09E74B1A5FD4823E0147A4C0B97E481A1",
+                      "Hash":  "FD731B6640B7B3A710849D95CD16B8F0750697D54B80F620A97A44653EA16D48",
                       "Size":  48774
                   },
                   {
                       "Path":  "FeverBorneTextRPG.dll",
-                      "Hash":  "B03542963F5A905FDD3826FC13E03D13B4DC6ABB91160567B927A9B6724910B6",
-                      "Size":  2418176
+                      "Hash":  "F0509608DA7EC088532F8A1A8DF9F766D69DF83E58985966FF67AC720DED3B0E",
+                      "Size":  2793472
                   },
                   {
                       "Path":  "FeverBorneTextRPG.exe",
-                      "Hash":  "DCA868F11DD7501E13AB17E9FA04965A002A41F639AFC5F19569267FACCBD799",
+                      "Hash":  "6BCFDD738AF31F75F13A01232C762FE74363585E6BFF9EBA51FFADECA4CD853F",
                       "Size":  158720
                   },
                   {
                       "Path":  "FeverBorneTextRPG.pdb",
-                      "Hash":  "BA9957A6DCDAE5ABB8351C68B68021F6693D147F4B5A99EAFCA0C274E03B3861",
-                      "Size":  845016
+                      "Hash":  "3C78F863F94C2E14F3EBC288F86F5203D9B069C6B96C3DA807D0D3CECB179E51",
+                      "Size":  955032
                   },
                   {
                       "Path":  "FeverBorneTextRPG.runtimeconfig.json",
@@ -7083,27 +7083,27 @@
                   },
                   {
                       "Path":  "Build/reports/core05-dependencies-ui.json",
-                      "Hash":  "8E4DA6DABB53CB1B8FFD8924288EBA027F5FDFE77184567F3067F2A436204D95",
-                      "Size":  222
+                      "Hash":  "68493DC2BA694D716A55CE5F1FE6D89F12D3984A055C52A944FD57250C0B7705",
+                      "Size":  225
                   },
                   {
                       "Path":  "Build/reports/core05-dependency-graph-export.json",
-                      "Hash":  "61FF960F1E273D450521B58783C59A264FC5B0F5CE606CFB0110BBD1DC27F8BE",
-                      "Size":  166934
+                      "Hash":  "5C8975D844FE013300E7065A78FAC3F0CBC699BF9C27DB7627AD2CDE34B92347",
+                      "Size":  746733
                   },
                   {
                       "Path":  "Build/reports/core05-verification-report.md",
-                      "Hash":  "7E6E6B33A98E8D8E558FA5526153B738C49C217D9CF226B36EE56AB9FBF1E1C6",
-                      "Size":  217
+                      "Hash":  "03352AFB8842F0C8DA51610A909E726AFF2F3010B4DB63DE5542B3FE83A1DD94",
+                      "Size":  221
                   },
                   {
                       "Path":  "Build/reports/core14-asset-validation.json",
-                      "Hash":  "47BB3F5D890C925F8DBF1C4C085FDDB8EA5630C65C11F967DC342CDF4BFCE54B",
+                      "Hash":  "9A39D3B4E90E686E87B4AA931D8B74A113E83A33664C1819EA53CD68C88AF4D1",
                       "Size":  602
                   },
                   {
                       "Path":  "Build/reports/core14-asset-validation.md",
-                      "Hash":  "2B089A511A4E5FFE22DCCE09384104C867C4D6C59B1C0FF57500A98C726D76B4",
+                      "Hash":  "956966E538E9E2F1EA35B07C92231089FF33CE3CC3A9058C83806F2BF0CEF758",
                       "Size":  396
                   },
                   {
@@ -7248,8 +7248,8 @@
                   },
                   {
                       "Path":  "Data/Characters/character_visual_config.json",
-                      "Hash":  "7C7B92AA45593CB737BE090AA0F09BD1EAE0216F08FFF1BDBEC3F87AD78DBF1F",
-                      "Size":  1593
+                      "Hash":  "DDAE39D18847EAC990F98D42F644A036DF5A469E18F77B11022C4B48F9BE5960",
+                      "Size":  2248
                   },
                   {
                       "Path":  "Data/Dungeons/core02_smoke_dungeon.json",
@@ -7273,18 +7273,18 @@
                   },
                   {
                       "Path":  "Data/Enemies/enemy_ashstalker.json",
-                      "Hash":  "6AB2DD5F4A51C9BF7EBC690418451895A2A0A1DF81EC1B3A3F6820A1214F0FEE",
-                      "Size":  937
-                  },
-                  {
-                      "Path":  "Data/Enemies/enemy_blightwolf.json",
-                      "Hash":  "6F74E86ED48EC72576A6AF403C3B64911EDE135D32CA46702AFE45BF96B61CBA",
+                      "Hash":  "8763292B9EAEFF75069E5FA3C71798F03D63C9E9E26CED7961576DCF3F70635E",
                       "Size":  919
                   },
                   {
+                      "Path":  "Data/Enemies/enemy_blightwolf.json",
+                      "Hash":  "6D320F91636BAB39CD7D73EE57337808A79E9F7349CABC0305BA2E33B55B66CF",
+                      "Size":  901
+                  },
+                  {
                       "Path":  "Data/Enemies/enemy_mirewisp.json",
-                      "Hash":  "6C74D7E0A75A3C616EA9A5C8F93751D6BE020B80C2D9CFAAC17107211A20D85B",
-                      "Size":  927
+                      "Hash":  "7D5F8284EDBDDF7F01592CBA5DE05E450A17DCD1676742D10C84A25BE52F2C8E",
+                      "Size":  912
                   },
                   {
                       "Path":  "Data/Farming/Crops/crop_carrot.json",
@@ -7347,14 +7347,39 @@
                       "Size":  457
                   },
                   {
-                      "Path":  "Data/Items/core04_legacy_item_410e26b2de334e9b9c23c94667c17230.json",
-                      "Hash":  "7C54B9BA0CE95F7D160E1877238C9C1D08BC7394B9F4EA630CB2DA0D961CA475",
+                      "Path":  "Data/Items/core04_legacy_item_bed1bc607849495cb8269fedf23fead2.json",
+                      "Hash":  "7E3DE10BE053B5D024C195D00ED17EFB16FB9F10EAAFBB373C014E5926C184D1",
                       "Size":  280
                   },
                   {
-                      "Path":  "Data/Items/core04_roundtrip_item_203dc8e65c8e4a2797b3441a03f5fee4.json",
-                      "Hash":  "7A1E9E98A169146BD7FD439F1D77A9EDE6CC20933E9405B39E5DD51F9E25DBDC",
-                      "Size":  1198
+                      "Path":  "Data/Items/core04_registry_item_005548ffaf494e77aa5efdbd3f4e77cb.json",
+                      "Hash":  "34F8B45569150CF21A8B2CBE11ACBC29E474FE885F3B157D1D6DBBDDFB5EB1B6",
+                      "Size":  1716
+                  },
+                  {
+                      "Path":  "Data/Items/core04_roundtrip_item_44d45b2757bb415299086c5d3a71f257.json",
+                      "Hash":  "2B5B63BB6401375EFDF055096D5A0C1A71F71FCB6208CA7C4B69B1A63CABC8E6",
+                      "Size":  1719
+                  },
+                  {
+                      "Path":  "Data/Items/item_blackthorn_fang.json",
+                      "Hash":  "F008AD3E5E14E0A8873B9F0CE072D49AC66878A5FCB3802D9156954E518FA083",
+                      "Size":  596
+                  },
+                  {
+                      "Path":  "Data/Items/item_blackthorn_jerkin.json",
+                      "Hash":  "8E67D4E590171E0C319D96755C639CF82F86539A25445F0F77FBFD691B1E9AA6",
+                      "Size":  688
+                  },
+                  {
+                      "Path":  "Data/Items/item_blackthorn_loop.json",
+                      "Hash":  "C37CBC0227851B8A1863FE1418F7EFE84F6E721879AFE4FF95AB66B0920FCB6A",
+                      "Size":  591
+                  },
+                  {
+                      "Path":  "Data/Items/item_blackthorn_treads.json",
+                      "Hash":  "084C068A9A1132BD78DA98FFB3E99DEBD531113A62E1E69643A3E7DC6D2A4F05",
+                      "Size":  629
                   },
                   {
                       "Path":  "Data/Items/item_chapel_token.json",
@@ -7363,13 +7388,33 @@
                   },
                   {
                       "Path":  "Data/Items/item_fevered_ring.json",
-                      "Hash":  "5DAB78D72899EE8B0EC3AC48F411650E7868316E7B81BF1AA020617F16C79DC0",
-                      "Size":  396
+                      "Hash":  "6D056DEC1622495255FF5167F36D111F7EB0EC376180E4FD8861EBF09D07EE76",
+                      "Size":  414
                   },
                   {
                       "Path":  "Data/Items/item_field_bandage.json",
                       "Hash":  "E4F92252D667D790DD082DEB01AA60FA80454859A5ACE0F4C311ADCE873D8D62",
                       "Size":  290
+                  },
+                  {
+                      "Path":  "Data/Items/item_graveshroud_greatplate.json",
+                      "Hash":  "7F1C4BEC79A5B76C083E836A29D41D6DEFB4839FC7931F7049D35C91CEF2545B",
+                      "Size":  651
+                  },
+                  {
+                      "Path":  "Data/Items/item_graveshroud_mace.json",
+                      "Hash":  "CFE35908CBEC4D012BDC03763564ECCEF057A7DFA8951128751D3103B839D418",
+                      "Size":  642
+                  },
+                  {
+                      "Path":  "Data/Items/item_graveshroud_signet.json",
+                      "Hash":  "BDF4EEA8FE02A27257B582BE15AB99FE56735154CB6FF21CB1C5741BDDCE54B9",
+                      "Size":  481
+                  },
+                  {
+                      "Path":  "Data/Items/item_graveshroud_torc.json",
+                      "Hash":  "334BED2D210B0CDD9C6DA55B27A425A99A470CFBB80A0CF72732F3E7F46E52EC",
+                      "Size":  645
                   },
                   {
                       "Path":  "Data/Items/item_healing_draught.json",
@@ -7385,6 +7430,21 @@
                       "Path":  "Data/Items/item_miasma_amulet.json",
                       "Hash":  "F88247D6EF346923DBBF0E14E60DB7E5E8103CBC9EC8A619B8E4B9126F9D96CA",
                       "Size":  411
+                  },
+                  {
+                      "Path":  "Data/Items/item_morrowveil_band.json",
+                      "Hash":  "2CD90F64B3CA272C9AFACE9492B387F02CBF7DD1AC1EE12CB8B8864A3485D330",
+                      "Size":  612
+                  },
+                  {
+                      "Path":  "Data/Items/item_morrowveil_censer.json",
+                      "Hash":  "618629A171FDD37C027F66184591560F72FE3623D64234760CCC31F96CCB65E8",
+                      "Size":  626
+                  },
+                  {
+                      "Path":  "Data/Items/item_morrowveil_robes.json",
+                      "Hash":  "B0A5425CE8D75C93FF614FD5FC864CE5FEC0582826031F15E2E738921360F948",
+                      "Size":  739
                   },
                   {
                       "Path":  "Data/Items/item_plague_censer_staff.json",
@@ -7403,8 +7463,8 @@
                   },
                   {
                       "Path":  "Data/Items/item_plague_scalpel.json",
-                      "Hash":  "56D8451622A9B3BA73544ED69EAF9F69693440CDB68D3FE66FF8328BF6DE7051",
-                      "Size":  1038
+                      "Hash":  "D881B71858ED4785CE2BD549FDC0707AECC5E0C8C1C406DA82074EEB645A0035",
+                      "Size":  1031
                   },
                   {
                       "Path":  "Data/Items/item_rustfang_knife.json",
@@ -7453,8 +7513,8 @@
                   },
                   {
                       "Path":  "Data/Merchants/General Merchant Outskirts.json",
-                      "Hash":  "9181F5FACDCAF78E18B07111AC237ED9A28C28438A9EFC665EF67D435B3A51C9",
-                      "Size":  549
+                      "Hash":  "98825A9C502D56E57DEB92FF5AEA412E2631B4B11CEE1B8BA8E6459DE9ECCC63",
+                      "Size":  1048
                   },
                   {
                       "Path":  "Data/Npcs/OutskirtsNpc.json",
@@ -7463,348 +7523,348 @@
                   },
                   {
                       "Path":  "Data/Potions/body_perfect.json",
-                      "Hash":  "11EF414A10FC48709C8A369EC9227F72F24B29F330E85FC52EC576CBF3E97EA5",
-                      "Size":  495
+                      "Hash":  "3C71CD2E8F95C9EBC37B7B8EDE4209B79F6A4900494A8FE6DC874919F04E2ECF",
+                      "Size":  564
                   },
                   {
                       "Path":  "Data/Potions/body_standard.json",
-                      "Hash":  "39BA409F7335D8049DFFB4E5B702D2D2BA45249E3E56CACBFCFF39600E6CC8C1",
-                      "Size":  456
-                  },
-                  {
-                      "Path":  "Data/Potions/body_weak.json",
-                      "Hash":  "7E5BF4558B3E8BA13E9877C50524109F4AC5C66086257EDC8B3160B3E2A2564D",
-                      "Size":  412
-                  },
-                  {
-                      "Path":  "Data/Potions/elemental_perfect.json",
-                      "Hash":  "733DD5E1BDA17024B7A00CC7B62023AD82E6D8A18E34545B68A3452338F1EF90",
-                      "Size":  451
-                  },
-                  {
-                      "Path":  "Data/Potions/elemental_standard.json",
-                      "Hash":  "4DF32A227F6CB489FCEEEFE0614842085F17BA29F9DF1511E35E93AEAA7E7C2F",
-                      "Size":  445
-                  },
-                  {
-                      "Path":  "Data/Potions/elemental_weak.json",
-                      "Hash":  "9DE2528DB8E08E881F1BD30803E3DE4A53B2C9E70B8294C20A15B62B16073738",
-                      "Size":  452
-                  },
-                  {
-                      "Path":  "Data/Potions/mind_perfect.json",
-                      "Hash":  "70E89E6B66CE13AC7859AA385162EB389DABD2457132F75E5794B66E9FBBA86C",
-                      "Size":  446
-                  },
-                  {
-                      "Path":  "Data/Potions/mind_standard.json",
-                      "Hash":  "BE26A29AAEC321EFF64E5147EB8D5623EC040ABC633AD53AB15A19DA76B1D3E5",
-                      "Size":  443
-                  },
-                  {
-                      "Path":  "Data/Potions/mind_weak.json",
-                      "Hash":  "278E1CE354DF0C4DC00E4301DAD56A40A1DE45C6F6CCECAE9344FE809B857569",
-                      "Size":  440
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_bastion_elixir.json",
-                      "Hash":  "BF7DB5FF625717EB15292DE938BFE98FA68924C461A45F6C3E6960BAD6A37E14",
-                      "Size":  499
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_bastion_elixir_standard.json",
-                      "Hash":  "4C5F6D0805B8D57F014A1FA58435B78D1E2692C6EB57EA55E2580200E9E664E0",
-                      "Size":  500
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_bastion_elixir_weak.json",
-                      "Hash":  "92F8C9F2BF30D86C48F7916FD95D63548EB6A7E73C58E444A8F0F9E8012D829E",
-                      "Size":  499
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_blight_bomb.json",
-                      "Hash":  "78BB22C76321A3BF38EF1FB0130537CCF87080B20662619B3B0E9755D0AD7618",
-                      "Size":  464
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_blight_bomb_perfect.json",
-                      "Hash":  "71735772304ED30AD19926113D0244FE9F3A5F8F29206E9B43F287145C631A23",
-                      "Size":  492
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_blight_bomb_weak.json",
-                      "Hash":  "D25BFA4DCA6B4F265F53EE681A8B20C5EBE6CF85A3884D94C36AFAE930C9AD20",
-                      "Size":  475
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_ember_coat.json",
-                      "Hash":  "A9909C94C4ECA67C6F3432334095488353125DC1A0264C5C312B9BC358F90C2A",
-                      "Size":  515
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_ember_coat_perfect.json",
-                      "Hash":  "2504529ECCA9F4A8BA7D05149266B4E5EBA9CA8A0538EB5D7194DAA09F446288",
-                      "Size":  531
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_ember_coat_weak.json",
-                      "Hash":  "6D6DDE21EC1C66C18AE997BC95534E3BA5B3F19BBEA32E6A3FEAE00B9F3F0126",
-                      "Size":  519
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_firebolt_vial.json",
-                      "Hash":  "03B1AA1803B99FB85B204232B86B0C9573D06416349D08CC4BB5410EFDDE1A20",
-                      "Size":  450
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_firebolt_vial_perfect.json",
-                      "Hash":  "9D5083087C6C7D076C540590D2ED1226FEE998971B91076D33319FFA87D7234F",
-                      "Size":  471
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_firebolt_vial_weak.json",
-                      "Hash":  "C1A7ABDC9E5D02507A3C1FEFD056A65DD488275610263408976806EE02575E04",
-                      "Size":  467
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_fury_elixir.json",
-                      "Hash":  "E2403800430F0F90F4AF0EB65349A6DBBB8495131DAEF21CDC0764F391AB69C3",
-                      "Size":  501
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_fury_elixir_standard.json",
-                      "Hash":  "12D7144F9516A49FE3482B115AF5B177532F1DECC807D9689EE4E8DD67E9CD97",
-                      "Size":  495
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_fury_elixir_weak.json",
-                      "Hash":  "89FB1FE0F883F8DC5822813618A23FB9BCE1B6EE8D8518B5A461DD6523A1DA13",
-                      "Size":  499
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_guardian_bloom.json",
-                      "Hash":  "534F9042AB15F966001119F8446306325324849FAC2B73B1229BFC2C84B9F7CA",
-                      "Size":  510
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_guardian_bloom_standard.json",
-                      "Hash":  "14FCEDA4F3E36B2FD41612AB9A9858F19F6DF7DF9F729A967F719C75D52BA430",
-                      "Size":  509
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_guardian_bloom_weak.json",
-                      "Hash":  "D0D8F14A495101A7E1C200B3BB8BF1D2D50561D306035AADFF0B359A0298B271",
-                      "Size":  504
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_ironhide_draft.json",
-                      "Hash":  "8DD5A38F09021E78E134896D1637F42E85601CE6542FB2D74A7F2C7FCE01C272",
-                      "Size":  483
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_ironhide_draft_perfect.json",
-                      "Hash":  "2712F6E1C7B410547FDA00E599E4665136CCA480B814000468484626BE56F03C",
-                      "Size":  504
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_ironhide_draft_weak.json",
-                      "Hash":  "6E38813195D655312ED0BB980A0B91A7F0ECE99237BD52D9F379D242A91FEF32",
-                      "Size":  502
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_lifebond_elixir.json",
-                      "Hash":  "E21974F6AB4E4655B710A21A208FA91C949BA622F4821C62E2958375B66F11CA",
-                      "Size":  486
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_lifebond_elixir_standard.json",
-                      "Hash":  "97A36E3C405424C4DBD017F0470B8ED34CE7927593A0ECD09749E4FF6E2AD179",
-                      "Size":  486
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_lifebond_elixir_weak.json",
-                      "Hash":  "670EE682884A9358D2715B4A786F954F322996A2CC53AEE35D31CDFF03935494",
-                      "Size":  498
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_mending_salve.json",
-                      "Hash":  "C6B453D89FEE6D74F1773250CEE086DDB6BDC8488EAD306D305DEEE398DCBB44",
-                      "Size":  434
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_mending_salve_perfect.json",
-                      "Hash":  "5E6FD1C02C820B6CE3D1502672A3391A002626959320496197574CC4B109B405",
-                      "Size":  444
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_mending_salve_weak.json",
-                      "Hash":  "D5632ED82894B82BF91C1A38E9D683FAF7CE1B067A04368706E2105C0B8F41B7",
-                      "Size":  438
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_purify_tonic.json",
-                      "Hash":  "6F0C4B5D3CCC2A339AFD56EA15F21641CDEBA5324FBAE9F729AB561DEB01C828",
-                      "Size":  455
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_purify_tonic_perfect.json",
-                      "Hash":  "9D822998F5987DCCC9B3F8E2CBE8B78D85F2B047136B01BB23887F94862AF29D",
-                      "Size":  481
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_purify_tonic_weak.json",
-                      "Hash":  "F7BF0D69B4441EA2598B3462062D83E6B3573F3F49D719152628D2763C2049D2",
-                      "Size":  461
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_rage_draught.json",
-                      "Hash":  "8151F7CD58C7CC18B6B8078D39B2501AE0DAC0407CFC73B45FB02960B950546E",
-                      "Size":  489
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_rage_draught_perfect.json",
-                      "Hash":  "9052F72967835920E897A31029E981B3D52A215E7C6C7D9BE1D6D66A6BAAD5EF",
-                      "Size":  503
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_rage_draught_weak.json",
-                      "Hash":  "4EA0191F43094DA03D63D60B4D6EE01A1EACBE11E27E009C705CBEE0930872C4",
-                      "Size":  493
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_rejuvenation.json",
-                      "Hash":  "CB02F85C2153811EF40E85EA931A7565EDE832F30E56879DD6880A31C23CEFA3",
-                      "Size":  480
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_rejuvenation_perfect.json",
-                      "Hash":  "D689FA2F049ED2647B53314B43295B6B99E1D36363FC38E2E015E244B9F3F1BE",
-                      "Size":  504
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_rejuvenation_weak.json",
-                      "Hash":  "F88B69F147C4A95287414FCFBBA7EBC000A906967723681F7CD4F183FFFA0915",
-                      "Size":  493
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_restoration_draft.json",
-                      "Hash":  "CD1160623DC7404678714CEDFE88265AE4D925F4AD637066E2438A17DE7A5260",
-                      "Size":  508
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_restoration_draft_perfect.json",
-                      "Hash":  "F32C676810349A1F201BB8DBC1EBAC63BDCE49E200DB61E5C2EB5B335BE8C4D4",
-                      "Size":  518
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_restoration_draft_weak.json",
-                      "Hash":  "B95CEF2324A98694F4DF693AD09CF5E88DFD0DD7D2096B53B4E725BA372DE153",
-                      "Size":  503
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_stone_wall.json",
-                      "Hash":  "2F1DBBA6D55632055A150004704A64A7B3FC37B2E9E9784041258E0A02111FBC",
-                      "Size":  493
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_stone_wall_perfect.json",
-                      "Hash":  "DF0AD636DCA8C26E346695367400CE4B3DDC78DEA9CBBB3F938CF87634275203",
-                      "Size":  514
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_stone_wall_weak.json",
-                      "Hash":  "9EA45670F096682296A583EF0607C81A1344618DAA65D701CC3E605730D2BFF0",
-                      "Size":  500
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_taunt_musk.json",
-                      "Hash":  "324A0DD540023A8C89338CD4C72D869A173C6D52C743A01E59E482E041C863CD",
-                      "Size":  518
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_taunt_musk_perfect.json",
-                      "Hash":  "5617C3A40CD42D942C9F493ED4620449014D642006A7B31674390557C25E7093",
-                      "Size":  537
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_taunt_musk_weak.json",
-                      "Hash":  "9BBA3E82CCAF8BDBE8EE6A1F8499F86552A5FC895ED7D72F61BCDB1E34F321D3",
-                      "Size":  512
-                  },
-                  {
-                      "Path":  "Data/Potions/potion_thorns_coat.json",
-                      "Hash":  "23430D678EA67C70662C5B2C3458EBB5432969815BBE2D8C389C50F69A9F0FA3",
+                      "Hash":  "D3D7A5C6FF3C921AC1E9A21B9489917F11F75C833A38509F4337C591568C6193",
                       "Size":  525
                   },
                   {
-                      "Path":  "Data/Potions/potion_thorns_coat_perfect.json",
-                      "Hash":  "3B4267DD57DD4BD357E1C4CDED464AA4989748289BA6456EFC1D9592244D978F",
+                      "Path":  "Data/Potions/body_weak.json",
+                      "Hash":  "2F105742E1F05CF9DDD0F9EA2AAF08DBC8C537AE7EE00977C863BBCFAD414EE6",
+                      "Size":  481
+                  },
+                  {
+                      "Path":  "Data/Potions/elemental_perfect.json",
+                      "Hash":  "B8F68384BF69453048BB9EC7927B4A909BD29694E3B5C4F62B1E78DAACF1CDD2",
+                      "Size":  520
+                  },
+                  {
+                      "Path":  "Data/Potions/elemental_standard.json",
+                      "Hash":  "B29D678D660ADD47DA345F5E795ED40F45683302420029520A430678B538B4B5",
+                      "Size":  514
+                  },
+                  {
+                      "Path":  "Data/Potions/elemental_weak.json",
+                      "Hash":  "537095F95932CE51F9DA6A47D53DD5AA658A693047CF57033E3D89664BF531F0",
+                      "Size":  521
+                  },
+                  {
+                      "Path":  "Data/Potions/mind_perfect.json",
+                      "Hash":  "536C8D3533D6041B84FDE0BB69456ECC06FEE98C9E28BCAF9971EC1BC103B784",
+                      "Size":  515
+                  },
+                  {
+                      "Path":  "Data/Potions/mind_standard.json",
+                      "Hash":  "34B702B8441770D974E90F2FDE23B71BC498B1CE6EF79FC5704A7CC430DF8255",
+                      "Size":  512
+                  },
+                  {
+                      "Path":  "Data/Potions/mind_weak.json",
+                      "Hash":  "9B6E4793B0618CC60E032C18A5DFF3486A96BF1C452807F31342A6EA6761EE86",
+                      "Size":  509
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_bastion_elixir.json",
+                      "Hash":  "94FEF03E52D58B7BE52B86FF2CABC4148DE7450D186EC67DDB6D7A3EFB175622",
+                      "Size":  568
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_bastion_elixir_standard.json",
+                      "Hash":  "C6078A41F6342A6DD1DFBEF8821BED317DAD0D1BB4E6C84533DF566338F08A4B",
+                      "Size":  569
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_bastion_elixir_weak.json",
+                      "Hash":  "F6385A90741CD09AB065F83A49C2BCEE2798F3497535B91EC36EEB09179A6516",
+                      "Size":  568
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_blight_bomb.json",
+                      "Hash":  "764EE76C8742E3F093AA76CEA71240C624AC00667FA80197A0B668509D92CD8F",
+                      "Size":  709
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_blight_bomb_perfect.json",
+                      "Hash":  "68F52F6E784A04F5C5913C616FD7288681AA43B84881035953972137BBC6D74F",
+                      "Size":  737
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_blight_bomb_weak.json",
+                      "Hash":  "5FB35705DA88966FDB7E0537AA89F8E37939A223A6D06C6B12CB8330E97785AA",
+                      "Size":  727
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_ember_coat.json",
+                      "Hash":  "28EFE7EABCBEA35C5FC7DDDB9D61706610D5D0BC82F8861CC66B4CA62E1BC110",
+                      "Size":  584
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_ember_coat_perfect.json",
+                      "Hash":  "DDFD5F3E1C416EBA07C382C948953769541CB04B05C893ED6F6EC5930FABAEAA",
+                      "Size":  600
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_ember_coat_weak.json",
+                      "Hash":  "D76FEAC7F81B0E8030FDF5E024C668EF692BB86DC8A446E562011E696B7FA402",
+                      "Size":  588
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_firebolt_vial.json",
+                      "Hash":  "67C4075731584208CB495349516E43A6BC4A7B39465A94C8496F27625472544F",
+                      "Size":  519
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_firebolt_vial_perfect.json",
+                      "Hash":  "13B0E7915164BFDF46DD34AE8E0492624E40FDE58BF390A90EE3205AA896D9B6",
+                      "Size":  540
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_firebolt_vial_weak.json",
+                      "Hash":  "AE4D8A98DEE26B0C6DCB58402EF14F3285FEFD4EA48F3B1600D8E1370309582A",
+                      "Size":  536
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_fury_elixir.json",
+                      "Hash":  "9EDA94E877805CC5B473E64D32C5263EAA3D601B6E27197CAA0048602BC2F165",
+                      "Size":  570
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_fury_elixir_standard.json",
+                      "Hash":  "B1C7E19BC933C49374510970C2BE98DF250C4ECB5A0F785ACC097F334D210AC1",
+                      "Size":  564
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_fury_elixir_weak.json",
+                      "Hash":  "D6191AD454AEED7396C1E1E7452F3389FBE89306B7D69295600112D5A19402E9",
+                      "Size":  568
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_guardian_bloom.json",
+                      "Hash":  "8C85E1804AFC1F31B10602A6D71BF1D4A2AE87B2018DC9613B6AF8D3EBC79E82",
+                      "Size":  579
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_guardian_bloom_standard.json",
+                      "Hash":  "63136A8382D50A060A8D92F74B8A921FC50433A9B6B86A06011D2E1AB79809D4",
+                      "Size":  578
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_guardian_bloom_weak.json",
+                      "Hash":  "0AF2D827FCE55464CD2FB99BEFB1E41B3C0EB833F2828F07C4774F3D9D123FFB",
+                      "Size":  573
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_ironhide_draft.json",
+                      "Hash":  "E570C6340C2CF0FEBFC35CFC00ED1948763D58D74445FEA5DDE4A0356C3BCB83",
+                      "Size":  552
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_ironhide_draft_perfect.json",
+                      "Hash":  "2288F64102F955EDC7426246CFA2CEB9C22B7FC41F736C7D3F3E1C1A42C649EF",
+                      "Size":  573
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_ironhide_draft_weak.json",
+                      "Hash":  "A294536861B281F706206FC4BBBC3D8DB7F3AE9D0ADC082BE419716730B29BF8",
+                      "Size":  571
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_lifebond_elixir.json",
+                      "Hash":  "A3B0CB9D23F49EC4B5E8C85585667D206E79424B7B0EE359CBBCB882E3E40A66",
+                      "Size":  555
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_lifebond_elixir_standard.json",
+                      "Hash":  "9BBCB7D7A78A2A420E8D79E0258DF61FE4FF569764CAA5A27217DD947294DC9C",
+                      "Size":  554
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_lifebond_elixir_weak.json",
+                      "Hash":  "365D6E3073B0B33F7FDDF7BD54B55ED18D1ADC3F83292B3D22865947E7AA24B0",
+                      "Size":  566
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_mending_salve.json",
+                      "Hash":  "B422C8565A116FA34FDB4E5FED574B7F3B8F54D640C33A73C03E767236671E01",
+                      "Size":  503
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_mending_salve_perfect.json",
+                      "Hash":  "97F1CDBFCBD95ACCC1270ED4D26ABE75F9F177BAE21C10718F7FF0E7359BB1D5",
+                      "Size":  513
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_mending_salve_weak.json",
+                      "Hash":  "5481E593D2E0E3A2F5EE34B341420170A0C2A75ED520C080B651A85A0B8798C6",
+                      "Size":  507
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_purify_tonic.json",
+                      "Hash":  "D859CB8BB3665C64B739BDBC647C8C3C733EC11E346A30D9D8B8529E58D12EAE",
+                      "Size":  523
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_purify_tonic_perfect.json",
+                      "Hash":  "F077C3008BE3572423D8CCFA891C89F61FA52B427AD998CAAD220E912613F2FC",
                       "Size":  550
                   },
                   {
+                      "Path":  "Data/Potions/potion_purify_tonic_weak.json",
+                      "Hash":  "87E31DDD4DE49933F6877A8AD9A86C220805206C5A974E655A52E2C80A04E9AE",
+                      "Size":  529
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_rage_draught.json",
+                      "Hash":  "9D01CE289187DD47E3D1A838C70C1B2F41C11451D46E0E1249C0FDEAFC2622A7",
+                      "Size":  558
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_rage_draught_perfect.json",
+                      "Hash":  "A3580875FDCD28D52774D0C3A9394483C293035D1AEDB7DD1494BA2FE496E5AC",
+                      "Size":  572
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_rage_draught_weak.json",
+                      "Hash":  "307D6920179F9DB36826503EDFDBBB050958BAAD12B15D8B39EA0AE84AE78588",
+                      "Size":  562
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_rejuvenation.json",
+                      "Hash":  "C253CC9A95A5C469E7A42733853E4474C837212A991A1E19203A86566D48B313",
+                      "Size":  548
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_rejuvenation_perfect.json",
+                      "Hash":  "7D8626C8463963B926FE39A4735E169BEF6531FB46E3D8D18656BFB141A1C6EE",
+                      "Size":  573
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_rejuvenation_weak.json",
+                      "Hash":  "2F8F9A3E16974FB4761223972E35D5D9EA77F38BD1185ED2AC254205414FD830",
+                      "Size":  561
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_restoration_draft.json",
+                      "Hash":  "09FE213A6E55608FAD7A83ACC629B7B645592BB74741774B2EBD20C9CA7A176F",
+                      "Size":  577
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_restoration_draft_perfect.json",
+                      "Hash":  "8EAB64CBAB72CD8F2E44516B35E2B4E6CECA946E6BBB15B77846B37219B18EE9",
+                      "Size":  587
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_restoration_draft_weak.json",
+                      "Hash":  "2801BC8CD1B571378B56A73FE7F4F7D6B5E02131D9D35A7D7BB83E3B349EBE7E",
+                      "Size":  572
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_stone_wall.json",
+                      "Hash":  "18044FC097C3CF4A9D815FDD1FE9F5A72F8637AA6D593F77D59996C72BEA25C5",
+                      "Size":  562
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_stone_wall_perfect.json",
+                      "Hash":  "D945E6183A7E96E338A61ECAA4952C124A10AF095A74B31051E455D81C2D7BAD",
+                      "Size":  583
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_stone_wall_weak.json",
+                      "Hash":  "5BD167F7274DA6DF3AB542014523DA90D37D7AAAB0E875D21160917713EE1D2D",
+                      "Size":  569
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_taunt_musk.json",
+                      "Hash":  "68AA5FFE00AE4066E7E7E64467454CFF89E884FC3930FD7D0CEE8667263018E7",
+                      "Size":  587
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_taunt_musk_perfect.json",
+                      "Hash":  "B74A0FD907AAF9DCF28C28918B64D22749764EAB60AC9DC2BF535937122905BB",
+                      "Size":  606
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_taunt_musk_weak.json",
+                      "Hash":  "E201455FA60D744B0200A5EDE39772171B23AF8FD4AAA6A002FACA0D72DD9FB1",
+                      "Size":  581
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_thorns_coat.json",
+                      "Hash":  "178B389EDD1C5579EA58A27D0E3F05013B1FF1F123692910F245DEC9DA15BBE3",
+                      "Size":  595
+                  },
+                  {
+                      "Path":  "Data/Potions/potion_thorns_coat_perfect.json",
+                      "Hash":  "BBD4E93DE837975DC0D3F562A5BB22FDCEF4D498AB9F7941835F00E60139C63B",
+                      "Size":  620
+                  },
+                  {
                       "Path":  "Data/Potions/potion_thorns_coat_weak.json",
-                      "Hash":  "74ECCECA611665866EE1B1E94B23BF51741695B5B377DA125DE2C3C61BB8377E",
-                      "Size":  496
+                      "Hash":  "A5B9077826EF9FCCC90C91D54B3CFDB56EAC96260F0660BDE2ED3D94F72CC310",
+                      "Size":  565
                   },
                   {
                       "Path":  "Data/Potions/potion_venom_edge.json",
-                      "Hash":  "8ECA217BDA1715430515803B8466D7759EFD8B197A117EF5C0D6FAA15C0202FB",
-                      "Size":  516
+                      "Hash":  "B5701E6D44FFFE838FE28F2FCCDE06A5DA1F7F8C9F2C2C212BFB1BB92252E0C4",
+                      "Size":  584
                   },
                   {
                       "Path":  "Data/Potions/potion_venom_edge_perfect.json",
-                      "Hash":  "3D8E738982F114161368D761CBA18BE56B7F3BBDC39B8AA9DCCDC903683C26FD",
-                      "Size":  532
+                      "Hash":  "7BF7E88224CFF60BA7E7B47CA766B34A1E4528C7525FD8857A667B9AD02DA58A",
+                      "Size":  600
                   },
                   {
                       "Path":  "Data/Potions/potion_venom_edge_weak.json",
-                      "Hash":  "8DE8C850FA7164EAAD3C86AAB054D5FF0F52E0FE42852B2565E0AC848A0AA375",
-                      "Size":  516
+                      "Hash":  "5BD90F666BFFF8FD8A0661B16B2A53C0D514DE9C44A58B539E5EE7BE1D736D50",
+                      "Size":  584
                   },
                   {
                       "Path":  "Data/Potions/potion_warcry_draught.json",
-                      "Hash":  "22319B283384526C3E79C4EABB3D26A50201A3E0E5D9DC96A1138B2A0B362F89",
-                      "Size":  488
+                      "Hash":  "10109EE200ED9FE385D4EB8C807D27F27DA7CADD9489FD6F19787DEE3D397855",
+                      "Size":  557
                   },
                   {
                       "Path":  "Data/Potions/potion_warcry_draught_standard.json",
-                      "Hash":  "D252884243CF8A85C382826D0FEBA6A4B650A27ACEE54FA362C4734E69B91DF0",
-                      "Size":  490
+                      "Hash":  "B19E88FEB988C5214AC888DB108C87772B2ADB21EF069E6EBC5E69DAF4725C12",
+                      "Size":  559
                   },
                   {
                       "Path":  "Data/Potions/potion_warcry_draught_weak.json",
-                      "Hash":  "CAA040A6602A14ECF933F69E8A9275C4AF20FE10CA62A136861EB43B8FE8D562",
-                      "Size":  500
+                      "Hash":  "4EECAE8FA98815A665D9638EB7AB6E13C1847078CCE25086709E1468989E69C0",
+                      "Size":  569
                   },
                   {
                       "Path":  "Data/Potions/purification_perfect.json",
-                      "Hash":  "DC9DC2ACD3A6246E2FA093078306AE065354325085AAF5C8C81D5B6B4987742F",
-                      "Size":  534
+                      "Hash":  "4148A3009F6B331F816FEB5A73C5BCCE1BDEAA2EB1098EA8E0A36EF72F307A4D",
+                      "Size":  602
                   },
                   {
                       "Path":  "Data/Potions/purification_standard.json",
-                      "Hash":  "E51A5F79E406C1C35359CFAFEA5070A15AAB99D1BF0B7C9CCB1045DF585167F6",
-                      "Size":  495
+                      "Hash":  "F6EAEB031A91B5B41A2C8D7D6C2260B61F59996051AE595243A7ADF07C2AFA71",
+                      "Size":  563
                   },
                   {
                       "Path":  "Data/Potions/purification_weak.json",
-                      "Hash":  "1977BC5FFC99C2FEA89A7E53135D5447FB009041ECA9E2DFC47C26D398EADB1F",
-                      "Size":  446
+                      "Hash":  "04207A7B228638CB055255EEF23FEE4C9172BE4F15633D237001CB2500F5EF7B",
+                      "Size":  514
                   },
                   {
                       "Path":  "Data/Potions/spirit_perfect.json",
-                      "Hash":  "12ADD06C88CEE5C2B282A9DA1C8AFDE29E5C864E970A2146BA087EA9A9CF500F",
-                      "Size":  532
+                      "Hash":  "2A70904BF5E842BE6A0A443712932DC4551EC9BE6040DC432391EB6826C83051",
+                      "Size":  601
                   },
                   {
                       "Path":  "Data/Potions/spirit_standard.json",
-                      "Hash":  "A400E1A771C48E1F3CCBC364C550B35555F2508051BA8C09FB327222076DBEA4",
-                      "Size":  480
+                      "Hash":  "40B0E7F06648564F43F0A9EEA4A9B403355396C70CAA99966D699B240DD678D5",
+                      "Size":  549
                   },
                   {
                       "Path":  "Data/Potions/spirit_weak.json",
-                      "Hash":  "A03EB6E92F5D9474E9F06DEE96CD019ADE4503D0C12C96FCAB76C224B05908B8",
-                      "Size":  437
+                      "Hash":  "09738E5BBE035BB78E0457C1020D371E37D74609B7BDE476E139FC5026CB881D",
+                      "Size":  506
                   },
                   {
                       "Path":  "Data/Quests/Farming Request.json",
@@ -7832,39 +7892,69 @@
                       "Size":  1373
                   },
                   {
-                      "Path":  "Data/Zones/core04_layer_zone_5110db1e9ad64b3780b6f7d2e8647210.json",
-                      "Hash":  "84BCE6C59E80BC5D7F50FA325FDA25C50AC8EAAE9A395AF442729327B0A5D9B5",
+                      "Path":  "Data/Zones/core04_layer_zone_15dd37e072a7480d8e7047dd3bb7397a.json",
+                      "Hash":  "D70F833B9A22BB878477ADF6A3399800ABD96987BAAB4E60FBDA258E582CC4DA",
                       "Size":  3019
                   },
                   {
-                      "Path":  "Data/Zones/core04_legacy_zone_73e7aeaa4dcb4ba896506b3b7b36f7a1.json",
-                      "Hash":  "1699B472B44E1101085FA3BF82F58EE8250BFD6C145F60793D2CE168E5763265",
+                      "Path":  "Data/Zones/core04_layer_zone_73a9a8a912874f54b36cd4acad43d247.json",
+                      "Hash":  "D72D171A9A8B48B3B34BD9D88DDDF3C2D9AC8A35061409B42DC272E8A0C7193E",
+                      "Size":  3019
+                  },
+                  {
+                      "Path":  "Data/Zones/core04_layer_zone_941482dac8d74f6ca0ae04b587ef621f.json",
+                      "Hash":  "CCE176D2A3BA28132F68CCA88D2A98D33C5647142B26C169707A1640C8BE9B62",
+                      "Size":  3019
+                  },
+                  {
+                      "Path":  "Data/Zones/core04_legacy_zone_c4ece59249f0477cb7af5b2edb2b4e4e.json",
+                      "Hash":  "82A3B920538A243FA282FAAB23AFEFBCA71F0CF7562BD10B18183943E846350C",
                       "Size":  1792
                   },
                   {
-                      "Path":  "Data/Zones/core04_npc_facing_zone_aed2f957cb1442f784e5780bb8092d44.json",
-                      "Hash":  "8C925B961A463D78D6E3AE986D3FA6CF214B439D6422EDFBF729ED626B07343E",
+                      "Path":  "Data/Zones/core04_legacy_zone_f77adabaf80b406f80851550a64dd057.json",
+                      "Hash":  "3AB639B48AC22E173C87D4932E8DF554EBF83D7F0ED1446AAD867E4B3C11A044",
+                      "Size":  4355
+                  },
+                  {
+                      "Path":  "Data/Zones/core04_legacy_zone_fc7410504c314c879a33abf7f7f74ea5.json",
+                      "Hash":  "8479C9BC28976030AF5ACB0C05ECEC3FBA38A383CE5CF6AB3059101232ECE7E6",
+                      "Size":  4355
+                  },
+                  {
+                      "Path":  "Data/Zones/core04_npc_facing_zone_2193b9c6c32d41f59bb46efbe83469f6.json",
+                      "Hash":  "9AD94ACEBEBEDDD5E58DACA3EC300AF6724E6CFFD6D39579D3855DC24B9BF779",
+                      "Size":  1633
+                  },
+                  {
+                      "Path":  "Data/Zones/core04_npc_facing_zone_be4368a276db430ea62764d583d0a4ff.json",
+                      "Hash":  "383682D517B599468DC6E32EB58D869D24B6FC25B496A3EA193AD4A5420DFAA8",
+                      "Size":  1633
+                  },
+                  {
+                      "Path":  "Data/Zones/core04_npc_facing_zone_f09a2a82a5cf41dda2a18bacd1b88d8a.json",
+                      "Hash":  "011607DB31E86F09F715F5EF9BBFD1161FEF6D51D38FF67C2D0E2ECB71369681",
                       "Size":  1633
                   },
                   {
                       "Path":  "Data/Zones/House.json",
-                      "Hash":  "3CD9FE4FD3A56EBA4D8659DFDB4925CAE669A961169F02795BE47F3F7A63CC3F",
-                      "Size":  52881
+                      "Hash":  "0BA1472292E7625A5A12F06B2A9B0EBC81E3299F0518A2D8FF1E9FBFDB8D23E8",
+                      "Size":  53035
                   },
                   {
                       "Path":  "Data/Zones/zone_chapel_rise.json",
-                      "Hash":  "ED8E11E39023C56689513A7D76428FCD1FA555995F027E532BB0BF4D45993E76",
-                      "Size":  10855
+                      "Hash":  "B7270DA351A01C1780BD58302AB7BF760C33591AACCB912D0BA92F943849A9C0",
+                      "Size":  12034
                   },
                   {
                       "Path":  "Data/Zones/zone_drowned_marsh.json",
-                      "Hash":  "E1EFF46B1DB5C297F299B4A0F7314E34922CF373594112758910A082C0F1D298",
-                      "Size":  10810
+                      "Hash":  "FB88F92DE6D96476B1CA2C676F6221700A591A68419631FAB49BDE193A6489DC",
+                      "Size":  11991
                   },
                   {
                       "Path":  "Data/Zones/zone_outskirts.json",
-                      "Hash":  "451A984867D65AB51CF7DB0F4DEFC32103F8A1B42758A8E1CCE316DFEF4F82AD",
-                      "Size":  9915490
+                      "Hash":  "2AAA5D942E0861A9D67A82BBA49EC1D8A4322AFF94455ADC562BF7095DC0CFD3",
+                      "Size":  9923449
                   },
                   {
                       "Path":  "de/Microsoft.VisualBasic.Forms.resources.dll",
@@ -8632,6 +8722,11 @@
                       "Size":  16656
                   },
                   {
+                      "Path":  "schemas/combat_timing_pattern.schema.json",
+                      "Hash":  "38762F56C3AD49FB200D0D8D61C24AF975686FA82621F3F77DE55993470FD313",
+                      "Size":  2729
+                  },
+                  {
                       "Path":  "schemas/dungeon.schema.json",
                       "Hash":  "AEFADB527F023B9D0B2F9B01DE973794C4BEDA822A539535C790DE07B2A1D168",
                       "Size":  4262
@@ -8648,8 +8743,8 @@
                   },
                   {
                       "Path":  "schemas/item.schema.json",
-                      "Hash":  "B21E37AFDD3D1A168F515BFDD162D261CBFFACD870DA73676B1EE8A7ECD76D00",
-                      "Size":  3846
+                      "Hash":  "99A901E0CA4875E6A67342AFF6F6BA95030B0106A229E8525BEBB29C86E80F5F",
+                      "Size":  6031
                   },
                   {
                       "Path":  "schemas/npc.schema.json",
@@ -8673,8 +8768,8 @@
                   },
                   {
                       "Path":  "schemas/skill.schema.json",
-                      "Hash":  "C2FB22D71A1756A020E7F815F943BCD6849C8C9851747C3B7E79D388FE32AA93",
-                      "Size":  2219
+                      "Hash":  "43EF83056187D4E0B93D52D380D14107CA0992BF29CC4723157718D4BCB712C9",
+                      "Size":  3858
                   },
                   {
                       "Path":  "schemas/tilemap.schema.json",
@@ -8985,12 +9080,12 @@
                           },
                           {
                               "Path":  "FeverBorneLauncher.dll",
-                              "Hash":  "E452C89A40A260584DEE2E2AB21F2EACCD243D7A2786F06540B44BC005DA93A3",
+                              "Hash":  "7B9FE30D0554579F41F9D79752FE1236A40A7D00A3F694271E1EF52339A6B64F",
                               "Size":  88064
                           },
                           {
                               "Path":  "FeverBorneLauncher.exe",
-                              "Hash":  "82C94D6495AC6E570CFC174A7BB41420636AFCDBF19AD2FF29B956939DE524A2",
+                              "Hash":  "C1BFE8CF5FA70B6C5E721B08C6BC953F5CA46C01D46301770AEADB4470BD74A2",
                               "Size":  159232
                           },
                           {
