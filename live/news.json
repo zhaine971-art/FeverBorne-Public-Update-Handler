@@ -1,6 +1,14 @@
 {
     "Items":  [
         {
+            "Title": "Farming, quest/dialogue, UI, Npc, Combat, and Stability Fixes",
+            "Date": "2026-05-04",
+            "Channel": "dev",
+            "Body": "This patch includes several different fixes and improvements across the newly added farming system, newly added quest and dialogue system, UI flow, NPC interactions, combat consistency, and general stability. It also includes a few quality-of-life improvements to make testing easier and smoother for me while I continue to work on the next big content update.",
+            "Tag": "Update Recap",
+                "Details": "Farming System:\n- The new farming system was added, allowing players to plant and harvest crops in the world. This includes a new farming plot object, crop growth stages, and harvesting mechanics.\n- Crop types and growth times are defined in data files, making it easy to add new crops in the future.\n\nQuest and Dialogue System:\n- A new quest system was implemented, allowing NPCs to give quests with objectives and rewards. This includes a dialogue system for NPC interactions.\n- Quests can have various objective types (e.g., gather items, kill enemies) and rewards (e.g., XP, items).\n\nUI Improvements:\n- Several UI flow improvements were made to make navigation smoother and more intuitive.\n- Inventory management was improved with better sorting and filtering options.\n\nNPC Interactions:\n- NPC behavior was improved for more consistent interactions and better quest-giving logic.\n- NPCs now have more varied dialogue based on player progress and quest status.\n\nCombat Consistency:\n- Combat calculations were refined for more consistent outcomes across different scenarios.\n- Enemy behavior was improved for better challenge and variety in combat encounters.\n\nGeneral Stability:\n- Multiple stability fixes were implemented to reduce crashes and improve overall performance.\n- Lots more behind the scenes improvements and bug fixes to prepare for the next content update and ensure a smoother experience for players."
+        },
+        {
             "Title": "Post-Recap Stability Update: Multiplayer & World Sync Improvements",
             "Date": "2026-04-10",
             "Channel": "dev",
